@@ -1,0 +1,34 @@
+{
+  "name": "amaranth-qtldb",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AmaranthQTLdb — static, open-source database of Amaranthus QTL, GWAS loci, meta-QTL, linkage maps and PCR markers",
+  "author": "Ankush Sharma <mr.ank2999@gmail.com>",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@tanstack/react-table": "^8.20.5",
+    "lucide-react": "^0.468.0",
+    "papaparse": "^5.4.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^5.3.15",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

@@ -18,8 +18,25 @@ every study's DOI, first author and title was checked against Crossref.
 | `qtl_clusters.csv` | multi-trait regions (candidate pleiotropic / linked loci) |
 | `validated_pcr_markers.csv` | 15 validated PCR assays (19 primer sequences, each verified verbatim against its source) |
 
-Figures (`figures/`): RIdeogram karyotype and circlize Circos of the *A. hypochondriacus* loci and
-meta-QTL, and a LinkageMapView plot of the *A. tuberculatus* F2 map with its herbicide-resistance QTL.
+Figures (`figures/species/`): for every species - *A. hypochondriacus*, *A. tricolor*, the multi-species
+panels, *A. tuberculatus* and *A. palmeri* - an RIdeogram karyotype and a circlize Circos plot on the current
+assembly of that species (real chromosome lengths, converted coordinates), plus a summary of loci by species
+and trait. `figures/` also holds the LinkageMapView plot of the *A. tuberculatus* F2 map with its
+herbicide-resistance QTL and the grain-amaranth karyotype / Circos on v2.1.
+
+## Website
+
+`website/` is the AmaranthQTLdb web front end, built on the CottonQTLome / WheatQTLdb framework (React +
+Vite + Tailwind): overview, advanced search, QTL / GWAS / meta-QTL / cluster / inheritance / PCR-marker
+tables, a genome map (ideogram and Circos) that switches between the grain-amaranth, waterhemp and Palmer
+amaranth assemblies, linkage-map viewer, assemblies and coordinate conversion, figures, statistics and
+studies. Data are exported by `scripts/export_site_data.py`.
+
+```
+cd website && npm install && npm run dev      # http://localhost:5173
+```
+The GitHub Pages workflow (`.github/workflows/deploy.yml`) is manual: enable Pages (Settings → Pages →
+Source: GitHub Actions) and run it from the Actions tab.
 
 ### Loci by species and trait
 

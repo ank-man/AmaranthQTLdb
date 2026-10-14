@@ -1,0 +1,24 @@
+cluster,chromosome,start_bp,end_bp,trait_groups,n_trait_groups,loci,studies,locus_ids
+CL-1.1,1,72310,1628299,Betalain pigmentation; Grain zinc; Seed protein,3,3,Chauhan2026; Jamalluddin2022; Prabhakaran2026,AQ00238; AQ00247; AQ00101
+CL-1.2,1,2488352,3820367,Branching; Flowering time,2,2,Jamalluddin2022; Singh2025,AQ00062; AQ00200
+CL-1.3,1,24718037,25768695,Betalain pigmentation; Flowering time,2,2,Jamalluddin2022; Singh2025,AQ00089; AQ00213
+CL-2.1,2,1655906,2655906,Flowering time; Grain magnesium,2,2,Lin2022; Prabhakaran2026,AQ00231; AQ00191
+CL-3.1,3,729325,1845637,Branching; Grain iron,2,2,Jamalluddin2022; Prabhakaran2026,AQ00059; AQ00233
+CL-3.2,3,7914304,9053631,Betalain pigmentation; Seed protein,2,2,Chauhan2026; Jamalluddin2022,AQ00259; AQ00128
+CL-3.3,3,23199977,25167693,Grain magnesium; Plant height,2,2,Prabhakaran2026; Zaelani2025,AQ00015; AQ00237
+CL-4.1,4,10966474,22638514,Betalain pigmentation; Branching; Flowering time; Number of nodes; Plant height; Stem diameter,6,20,Jamalluddin2022; Lin2022; Singh2025; Zaelani2025,AQ00021; AQ00109; AQ00025; AQ00027; AQ00035; AQ00033; AQ00014; AQ00029; AQ00017; AQ00031; AQ00018; AQ00204; AQ00112; AQ00111; AQ00003; AQ00004; AQ00006; AQ00008; AQ00010; AQ00182
+CL-4.2,4,24296848,26478077,Betalain pigmentation; Seed protein,2,3,Chauhan2026; Jamalluddin2022,AQ00253; AQ00096; AQ00254
+CL-5.1,5,1838055,3781805,Betalain pigmentation; Flowering time,2,2,Jamalluddin2022; Singh2025,AQ00205; AQ00066
+CL-5.2,5,21353056,22353056,Betalain pigmentation; Flowering time,2,2,Jamalluddin2022; Lin2022,AQ00103; AQ00195
+CL-6.1,6,13935250,15368962,Plant height; Seed protein,2,2,Chauhan2026; Zaelani2025,AQ00016; AQ00261
+CL-6.2,6,23570042,24570042,Number of nodes; Seed protein,2,3,Chauhan2026; Zaelani2025,AQ00249; AQ00260; AQ00019
+CL-7.1,7,8296105,9727066,Flowering time; Seed protein,2,2,Chauhan2026; Singh2025,AQ00216; AQ00250
+CL-7.2,7,17696191,19636116,Betalain pigmentation; Grain magnesium,2,5,Jamalluddin2022; Prabhakaran2026,AQ00243; AQ00127; AQ00126; AQ00120; AQ00121
+CL-8.1,8,4342922,6319731,Betalain pigmentation; Flowering time,2,3,Jamalluddin2022; Lin2022,AQ00080; AQ00197; AQ00105
+CL-8.2,8,8910249,11628790,Betalain pigmentation; Flowering time; Seed protein,3,4,Chauhan2026; Jamalluddin2022; Singh2025,AQ00122; AQ00255; AQ00256; AQ00208
+CL-8.3,8,16178507,17178507,Betalain pigmentation; Flowering time,2,2,Jamalluddin2022; Lin2022,AQ00114; AQ00198
+CL-10.1,10,13173750,16630022,Branching; Flowering time; Number of nodes; Stem diameter,4,8,Lin2022; Zaelani2025,AQ00036; AQ00185; AQ00032; AQ00028; AQ00002; AQ00009; AQ00026; AQ00034
+CL-10.2,10,20276062,22855768,Betalain pigmentation; Flowering time; Grain calcium,3,8,Jamalluddin2022; Prabhakaran2026; Singh2025,AQ00123; AQ00225; AQ00083; AQ00081; AQ00110; AQ00113; AQ00093; AQ00219
+CL-14.1,14,10025650,11500000,Branching; Grain calcium,2,2,Jamalluddin2022; Prabhakaran2026,AQ00224; AQ00060
+CL-14.2,14,18818346,20500000,Betalain pigmentation; Flowering time,2,4,Jamalluddin2022; Lin2022; Singh2025,AQ00075; AQ00190; AQ00209; AQ00063
+CL-15.1,15,6900641,8825651,Grain zinc; Seed protein,2,2,Chauhan2026; Prabhakaran2026,AQ00246; AQ00263

@@ -1,0 +1,78 @@
+{
+ "Ahyp_v3": {
+  "label": "Grain amaranth (A. hypochondriacus v3)",
+  "species": "Amaranthus hypochondriacus",
+  "assembly": "Ahypochondriacus_v3",
+  "accession": "GCA_977020195.1",
+  "covers": "A. hypochondriacus, A. tricolor and multi-species panels (genotyped on the A. hypochondriacus reference)",
+  "chromosomes": {
+   "Chr01": 39429129,
+   "Chr02": 37685260,
+   "Chr03": 31239028,
+   "Chr04": 30423785,
+   "Chr05": 28904361,
+   "Chr06": 25439866,
+   "Chr07": 25389847,
+   "Chr08": 26108301,
+   "Chr09": 25996252,
+   "Chr10": 20094517,
+   "Chr11": 23518509,
+   "Chr12": 23145432,
+   "Chr13": 23291850,
+   "Chr14": 21284653,
+   "Chr15": 18285645,
+   "Chr16": 19410844
+  }
+ },
+ "Atub_hap1": {
+  "label": "Waterhemp (A. tuberculatus hap1)",
+  "species": "Amaranthus tuberculatus",
+  "assembly": "Amaranthus_tuberculatus.hap1.v01",
+  "accession": "GCA_054443085.1",
+  "covers": "A. tuberculatus",
+  "chromosomes": {
+   "Chr01": 58487599,
+   "Chr02": 54314959,
+   "Chr03": 46918448,
+   "Chr04": 41402891,
+   "Chr05": 39489847,
+   "Chr06": 38955705,
+   "Chr07": 37568071,
+   "Chr08": 36974376,
+   "Chr09": 36971533,
+   "Chr10": 35485908,
+   "Chr11": 34510402,
+   "Chr12": 32989713,
+   "Chr13": 30577261,
+   "Chr14": 30086215,
+   "Chr15": 29448975,
+   "Chr16": 26651765
+  }
+ },
+ "Apal_hap1": {
+  "label": "Palmer amaranth (A. palmeri hap1)",
+  "species": "Amaranthus palmeri",
+  "assembly": "Amaranthus_palmeri.hap1.genome.v01",
+  "accession": "GCA_051800445.1",
+  "covers": "A. palmeri",
+  "chromosomes": {
+   "Chr01": 33160653,
+   "Chr02": 30949889,
+   "Chr03": 26276688,
+   "Chr04": 25331249,
+   "Chr05": 24920139,
+   "Chr06": 24645770,
+   "Chr07": 24020246,
+   "Chr08": 23590137,
+   "Chr09": 22793897,
+   "Chr10": 20240972,
+   "Chr11": 18511259,
+   "Chr12": 17873001,
+   "Chr13": 17610904,
+   "Chr14": 16621751,
+   "Chr15": 16531707,
+   "Chr16": 16108147,
+   "Chr17": 15149072
+  }
+ }
+}

@@ -1,0 +1,192 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  /* Cotton (default): neutral greys with a deep boll-green accent */
+  --n-50: 255 255 255;  --n-100: 245 246 244; --n-200: 228 230 226; --n-300: 207 210 204; --n-400: 164 168 160;
+  --n-500: 120 125 117; --n-600: 84 89 82;    --n-700: 62 67 61;    --n-800: 40 44 40;    --n-900: 22 25 22;
+  --accent: 31 77 58;  --accent-strong: 20 56 41;  --accent-soft: 231 240 235;  --page: 243 245 242;
+  --radius: 8px;
+  --on-accent: 255 255 255;  --bar: var(--accent);  --bar-line: var(--accent-strong);  --bar-ink: 255 255 255;
+  --shadow: 0 1px 2px rgb(16 24 40 / 0.05), 0 1px 3px rgb(16 24 40 / 0.04);
+}
+/* Amaranth (default): white surfaces, neutral greys, a crimson accent taken from the inflorescence */
+[data-theme='amaranth'] {
+  --n-50: 255 255 255;  --n-100: 247 246 247; --n-200: 233 230 233; --n-300: 212 207 211; --n-400: 171 164 170;
+  --n-500: 128 121 127; --n-600: 90 84 89;    --n-700: 68 63 67;    --n-800: 44 40 43;    --n-900: 26 23 25;
+  --accent: 155 27 74; --accent-strong: 120 18 56; --accent-soft: 252 238 243; --page: 250 249 250;
+  --on-accent: 255 255 255; --bar: 255 255 255; --bar-line: 233 230 233; --bar-ink: 26 23 25;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgb(16 24 40 / 0.05);
+}
+[data-theme='amaranth'] header.site-bar { backdrop-filter: blur(10px); background: rgb(var(--bar) / 0.85); }
+[data-theme='amaranth'] .font-serif { font-weight: 700; letter-spacing: -0.015em; }
+/* WheatQTLdb: the palette of WheatQTLdb V3.0 - white surfaces, its neutral grey scale,
+   one green accent, generous rounded cards */
+[data-theme='wheat'] {
+  --n-50: 255 255 255;  --n-100: 246 246 247; --n-200: 231 231 234; --n-300: 209 209 214; --n-400: 168 168 176;
+  --n-500: 125 125 134; --n-600: 87 87 95;    --n-700: 66 66 74;    --n-800: 43 43 48;    --n-900: 25 25 28;
+  --accent: 21 128 61; --accent-strong: 22 101 52; --accent-soft: 240 253 244; --page: 250 250 251;
+  --on-accent: 255 255 255; --bar: 255 255 255; --bar-line: 231 231 234; --bar-ink: 25 25 28;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgb(16 24 40 / 0.05);
+}
+/* Harvest: WheatQTLdb's wheat-gold and bran-brown chart palette as a warm theme */
+[data-theme='harvest'] {
+  --n-50: 255 255 255;  --n-100: 250 246 238; --n-200: 239 230 212; --n-300: 224 209 180; --n-400: 184 164 128;
+  --n-500: 140 120 88;  --n-600: 104 86 60;   --n-700: 82 66 45;    --n-800: 56 44 30;    --n-900: 38 29 19;
+  --accent: 154 102 40; --accent-strong: 124 77 36; --accent-soft: 251 241 220; --page: 252 249 243;
+  --on-accent: 255 255 255; --bar: 255 255 255; --bar-line: 239 230 212; --bar-ink: 38 29 19;
+  --radius: 14px;
+  --shadow: 0 1px 2px rgb(94 58 31 / 0.08);
+}
+[data-theme='wheat'] header.site-bar, [data-theme='harvest'] header.site-bar { backdrop-filter: blur(10px); background: rgb(var(--bar) / 0.85); }
+[data-theme='wheat'] .font-serif, [data-theme='harvest'] .font-serif { font-weight: 700; letter-spacing: -0.015em; }
+
+/* Neon: dark, luminous, monospaced numerals. The neutral scale is inverted -
+   n-50 is the panel surface and n-900 the brightest ink - so every component follows. */
+[data-theme='neon'] {
+  color-scheme: dark;
+  --n-50: 13 18 30;    --n-100: 19 26 42;    --n-200: 33 44 66;    --n-300: 52 67 96;    --n-400: 96 113 142;
+  --n-500: 128 144 170; --n-600: 158 172 194; --n-700: 190 201 218; --n-800: 220 227 238; --n-900: 242 246 252;
+  --accent: 45 212 191; --accent-strong: 94 234 212; --accent-soft: 12 44 48; --page: 6 9 17;
+  --on-accent: 3 22 22; --bar: 8 12 22; --bar-line: 33 44 66; --bar-ink: 255 255 255;
+  --radius: 12px;
+  --shadow: 0 0 0 1px rgb(45 212 191 / 0.04), 0 8px 30px rgb(0 0 0 / 0.35);
+}
+[data-theme='neon'] body {
+  background:
+    radial-gradient(900px 500px at 85% -10%, rgb(45 212 191 / 0.10), transparent 60%),
+    radial-gradient(700px 480px at 0% 0%, rgb(99 102 241 / 0.10), transparent 60%),
+    linear-gradient(rgb(255 255 255 / 0.025) 1px, transparent 1px) 0 0 / 100% 36px,
+    linear-gradient(90deg, rgb(255 255 255 / 0.025) 1px, transparent 1px) 0 0 / 36px 100%,
+    rgb(var(--page));
+  background-attachment: fixed;
+}
+[data-theme='neon'] .font-serif { font-family: 'Space Grotesk', 'Inter', sans-serif; letter-spacing: -0.02em; font-weight: 600; }
+[data-theme='neon'] h1.font-serif {
+  background: linear-gradient(90deg, #f2f6fc 0%, #5eead4 55%, #818cf8 100%);
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+}
+[data-theme='neon'] .panel, [data-theme='neon'] .card {
+  background: linear-gradient(180deg, rgb(var(--n-100) / 0.72), rgb(var(--n-50) / 0.72));
+  backdrop-filter: blur(10px);
+  border-color: rgb(var(--n-200));
+}
+[data-theme='neon'] .panel:hover, [data-theme='neon'] .card:hover { border-color: rgb(var(--accent) / 0.35); }
+[data-theme='neon'] .btn-primary { box-shadow: 0 0 0 1px rgb(var(--accent) / 0.4), 0 0 22px rgb(var(--accent) / 0.35); }
+[data-theme='neon'] .stat, [data-theme='neon'] table { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 0.94em; }
+[data-theme='neon'] thead th { font-family: 'Inter', sans-serif; }
+[data-theme='neon'] img { border-radius: var(--radius); }
+[data-theme='neon'] header.site-bar { backdrop-filter: blur(12px); background: rgb(var(--bar) / 0.82); box-shadow: 0 1px 0 rgb(var(--accent) / 0.25), 0 0 28px rgb(var(--accent) / 0.08); }
+[data-theme='neon'] ::-webkit-scrollbar { width: 10px; height: 10px; }
+[data-theme='neon'] ::-webkit-scrollbar-thumb { background: rgb(var(--n-300)); border-radius: 8px; }
+[data-theme='neon'] ::-webkit-scrollbar-track { background: transparent; }
+
+/* Slate & indigo: cool, technical */
+[data-theme='indigo'] {
+  --n-50: 255 255 255;  --n-100: 241 245 249; --n-200: 226 232 240; --n-300: 203 213 225; --n-400: 148 163 184;
+  --n-500: 100 116 139; --n-600: 71 85 105;   --n-700: 51 65 85;    --n-800: 30 41 59;    --n-900: 15 23 42;
+  --accent: 55 48 163; --accent-strong: 49 46 129; --accent-soft: 232 234 250; --page: 241 244 249;
+}
+/* Paper & terracotta: warm, print-like */
+[data-theme='terracotta'] {
+  --n-50: 255 255 255;  --n-100: 247 245 241; --n-200: 233 229 222; --n-300: 214 208 198; --n-400: 168 162 152;
+  --n-500: 120 113 104; --n-600: 87 81 74;    --n-700: 68 63 58;    --n-800: 41 37 34;    --n-900: 28 25 23;
+  --accent: 154 62 30; --accent-strong: 124 45 18; --accent-soft: 250 236 228; --page: 250 247 242;
+}
+/* Graphite: monochrome */
+[data-theme='graphite'] {
+  --n-50: 255 255 255;  --n-100: 244 244 245; --n-200: 228 228 231; --n-300: 212 212 216; --n-400: 161 161 170;
+  --n-500: 113 113 122; --n-600: 82 82 91;    --n-700: 63 63 70;    --n-800: 39 39 42;    --n-900: 24 24 27;
+  --accent: 39 39 42;  --accent-strong: 9 9 11;    --accent-soft: 236 236 239; --page: 245 245 246;
+}
+/* Ocean: navy and teal */
+[data-theme='ocean'] {
+  --n-50: 255 255 255;  --n-100: 240 246 247; --n-200: 222 234 236; --n-300: 196 214 218; --n-400: 141 168 174;
+  --n-500: 95 124 131;  --n-600: 67 94 101;   --n-700: 48 72 79;    --n-800: 28 47 54;    --n-900: 14 30 36;
+  --accent: 15 91 110; --accent-strong: 10 66 82;  --accent-soft: 224 241 245; --page: 239 246 247;
+}
+
+html, body, #root { height: 100%; }
+body { background: rgb(var(--page)); color: rgb(var(--n-900)); }
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: 'cv11', 'ss01';
+}
+h1, h2 { text-wrap: balance; }
+p { text-wrap: pretty; }
+table { font-variant-numeric: tabular-nums; }
+::selection { background: rgb(var(--accent-soft)); }
+:focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 2px; }
+
+/* Scoped plot-only dark mode (see the plotDark toggle on the Map page):
+   a plain fallback text colour for anything inside a ".dark" wrapper that
+   doesn't carry its own dark: text-colour class. */
+.dark { color: #fbf7ef; }
+
+@keyframes fade-up { from { opacity: 0; transform: translateY(12px) } to { opacity: 1; transform: translateY(0) } }
+@keyframes grain-grow { from { transform: scaleY(.6); opacity: 0 } to { transform: scaleY(1); opacity: 1 } }
+
+@layer utilities {
+  .animate-fade-up { animation: fade-up .5s ease-out both; }
+  .animate-grain-grow { animation: grain-grow 1.2s cubic-bezier(.16,1,.3,1) both; transform-origin: bottom; }
+  .glass {
+    background: rgba(255,255,255,.65);
+    backdrop-filter: blur(8px);
+  }
+}
+
+@layer components {
+  /* All shape and colour come from the theme variables above.
+     dark: variants only ever activate inside the Map page's plot panel. */
+  .btn {
+    @apply inline-flex items-center gap-2 border border-wheat-300 bg-wheat-50 px-3 py-1.5 text-sm font-medium text-wheat-800 transition hover:border-wheat-400 hover:bg-wheat-100 dark:border-ink-700 dark:bg-ink-800 dark:text-wheat-50 dark:hover:bg-ink-700;
+    border-radius: calc(var(--radius) - 2px);
+  }
+  .btn-primary {
+    @apply inline-flex items-center gap-2 border border-accent bg-accent px-3 py-1.5 text-sm font-semibold transition hover:border-accent-strong hover:bg-accent-strong;
+    border-radius: calc(var(--radius) - 2px);
+    color: rgb(var(--on-accent));
+  }
+  .card {
+    @apply border border-wheat-200 bg-wheat-50 p-5 dark:border-ink-700 dark:bg-ink-800;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+  /* a plain bordered surface with the theme's corner radius and shadow */
+  .panel {
+    @apply border border-wheat-200 bg-wheat-50;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+  }
+  .eyebrow {
+    @apply text-xs font-medium text-accent;
+  }
+  .stat {
+    @apply font-serif text-3xl text-wheat-900;
+  }
+  .nav-link {
+    @apply px-3 py-2 text-sm text-wheat-700 hover:text-wheat-900;
+  }
+  .nav-link-active {
+    @apply text-accent;
+  }
+  .input {
+    @apply w-full border border-wheat-300 bg-wheat-50 px-3 py-1.5 text-sm text-wheat-900 transition focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/15 dark:border-ink-700 dark:bg-ink-900 dark:text-wheat-50;
+    border-radius: calc(var(--radius) - 2px);
+  }
+  .badge {
+    @apply inline-flex items-center border border-wheat-200 bg-wheat-100 px-1.5 py-0.5 text-xs text-wheat-700 dark:bg-ink-700 dark:text-wheat-100;
+    border-radius: calc(var(--radius) - 4px);
+  }
+  a.underline { text-decoration-thickness: 1px; text-underline-offset: 2px; text-decoration-color: rgb(var(--accent) / 0.45); }
+  a.underline:hover { color: rgb(var(--accent)); text-decoration-color: rgb(var(--accent)); }
+  tbody tr:hover > td { background: rgb(var(--accent-soft) / 0.45); }
+}
+
+[data-theme='wheat'] .bar-accent, [data-theme='harvest'] .bar-accent { color: rgb(var(--accent)); }

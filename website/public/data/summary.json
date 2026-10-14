@@ -1,0 +1,569 @@
+{
+ "built": "2026-10-14",
+ "counts": {
+  "loci": 307,
+  "qtl": 63,
+  "gwas": 244,
+  "studies_extracted": 15,
+  "studies_listed": 26,
+  "mqtl": 3,
+  "clusters": 23,
+  "maps": 8,
+  "map_markers": 16937,
+  "pcr_markers": 15,
+  "inheritance": 14,
+  "species": 7,
+  "traits": 28,
+  "placed": 297,
+  "suggestive": 52
+ },
+ "by_species": {
+  "Amaranthus tricolor": 112,
+  "Amaranthus hypochondriacus": 104,
+  "Amaranthus tuberculatus": 50,
+  "Amaranthus spp.": 22,
+  "Amaranthus palmeri": 10,
+  "Amaranthus spp. (grain amaranths)": 7,
+  "A. caudatus x A. quitensis": 2
+ },
+ "by_category": {
+  "Phenology": {
+   "qtl": 8,
+   "gwas": 80
+  },
+  "Plant architecture": {
+   "qtl": 22,
+   "gwas": 10
+  },
+  "Pigmentation": {
+   "qtl": 12,
+   "gwas": 112
+  },
+  "Herbicide resistance": {
+   "qtl": 16,
+   "gwas": 0
+  },
+  "Sex determination": {
+   "qtl": 5,
+   "gwas": 0
+  },
+  "Seed minerals": {
+   "qtl": 0,
+   "gwas": 25
+  },
+  "Seed protein": {
+   "qtl": 0,
+   "gwas": 17
+  }
+ },
+ "by_record_type": {
+  "QTL": 57,
+  "Mendelian locus": 1,
+  "Sex-linked region": 5,
+  "GWAS MTA": 222,
+  "GWAS QTN": 22
+ },
+ "top_traits": {
+  "Leaf pigmentation": 68,
+  "Days to flowering": 41,
+  "Flowering time": 39,
+  "Inflorescence color": 19,
+  "Petiole pigmentation": 18,
+  "Branching index": 12,
+  "Stem pigmentation": 10,
+  "HPPD-inhibitor (tembotrione) resistance": 8,
+  "Grain calcium": 7,
+  "Grain zinc": 7,
+  "Plant height": 6,
+  "Number of nodes": 6,
+  "Grain magnesium": 6,
+  "Seed total protein": 6,
+  "Heading date": 5,
+  "Stem diameter": 5,
+  "Seed coat color": 5,
+  "Sex (male/female)": 5,
+  "Grain iron": 5,
+  "Seed albumin": 5
+ },
+ "per_chromosome": [
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr01",
+   "length_mb": 39.43,
+   "loci": 22
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr02",
+   "length_mb": 37.69,
+   "loci": 28
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr03",
+   "length_mb": 31.24,
+   "loci": 18
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr04",
+   "length_mb": 30.42,
+   "loci": 31
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr05",
+   "length_mb": 28.9,
+   "loci": 12
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr06",
+   "length_mb": 25.44,
+   "loci": 16
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr07",
+   "length_mb": 25.39,
+   "loci": 14
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr08",
+   "length_mb": 26.11,
+   "loci": 18
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr09",
+   "length_mb": 26.0,
+   "loci": 10
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr10",
+   "length_mb": 20.09,
+   "loci": 19
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr11",
+   "length_mb": 23.52,
+   "loci": 7
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr12",
+   "length_mb": 23.15,
+   "loci": 14
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr13",
+   "length_mb": 23.29,
+   "loci": 6
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr14",
+   "length_mb": 21.28,
+   "loci": 11
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr15",
+   "length_mb": 18.29,
+   "loci": 7
+  },
+  {
+   "genome": "Ahyp_v3",
+   "chromosome": "Chr16",
+   "length_mb": 19.41,
+   "loci": 14
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr01",
+   "length_mb": 58.49,
+   "loci": 4
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr02",
+   "length_mb": 54.31,
+   "loci": 1
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr03",
+   "length_mb": 46.92,
+   "loci": 0
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr04",
+   "length_mb": 41.4,
+   "loci": 0
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr05",
+   "length_mb": 39.49,
+   "loci": 0
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr06",
+   "length_mb": 38.96,
+   "loci": 8
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr07",
+   "length_mb": 37.57,
+   "loci": 7
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr08",
+   "length_mb": 36.97,
+   "loci": 0
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr09",
+   "length_mb": 36.97,
+   "loci": 7
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr10",
+   "length_mb": 35.49,
+   "loci": 2
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr11",
+   "length_mb": 34.51,
+   "loci": 0
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr12",
+   "length_mb": 32.99,
+   "loci": 2
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr13",
+   "length_mb": 30.58,
+   "loci": 5
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr14",
+   "length_mb": 30.09,
+   "loci": 1
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr15",
+   "length_mb": 29.45,
+   "loci": 4
+  },
+  {
+   "genome": "Atub_hap1",
+   "chromosome": "Chr16",
+   "length_mb": 26.65,
+   "loci": 2
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr01",
+   "length_mb": 33.16,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr02",
+   "length_mb": 30.95,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr03",
+   "length_mb": 26.28,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr04",
+   "length_mb": 25.33,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr05",
+   "length_mb": 24.92,
+   "loci": 2
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr06",
+   "length_mb": 24.65,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr07",
+   "length_mb": 24.02,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr08",
+   "length_mb": 23.59,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr09",
+   "length_mb": 22.79,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr10",
+   "length_mb": 20.24,
+   "loci": 1
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr11",
+   "length_mb": 18.51,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr12",
+   "length_mb": 17.87,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr13",
+   "length_mb": 17.61,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr14",
+   "length_mb": 16.62,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr15",
+   "length_mb": 16.53,
+   "loci": 0
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr16",
+   "length_mb": 16.11,
+   "loci": 2
+  },
+  {
+   "genome": "Apal_hap1",
+   "chromosome": "Chr17",
+   "length_mb": 15.15,
+   "loci": 2
+  }
+ ],
+ "studies_per_year": [
+  {
+   "year": 2008,
+   "studies": 1
+  },
+  {
+   "year": 2011,
+   "studies": 1
+  },
+  {
+   "year": 2017,
+   "studies": 1
+  },
+  {
+   "year": 2019,
+   "studies": 1
+  },
+  {
+   "year": 2020,
+   "studies": 2
+  },
+  {
+   "year": 2021,
+   "studies": 4
+  },
+  {
+   "year": 2022,
+   "studies": 2
+  },
+  {
+   "year": 2023,
+   "studies": 1
+  },
+  {
+   "year": 2024,
+   "studies": 1
+  },
+  {
+   "year": 2025,
+   "studies": 6
+  },
+  {
+   "year": 2026,
+   "studies": 6
+  }
+ ],
+ "by_study": [
+  {
+   "study_id": "Zaelani2025",
+   "year": "2025",
+   "species": "Amaranthus hypochondriacus",
+   "records": 39
+  },
+  {
+   "study_id": "Werle2025",
+   "year": "2025",
+   "species": "Amaranthus tuberculatus",
+   "records": 8
+  },
+  {
+   "study_id": "Rigon2025",
+   "year": "2025",
+   "species": "Amaranthus palmeri",
+   "records": 8
+  },
+  {
+   "study_id": "Lightfoot2017",
+   "year": "2017",
+   "species": "Amaranthus hypochondriacus",
+   "records": 1
+  },
+  {
+   "study_id": "Stetter2020",
+   "year": "2020",
+   "species": "Amaranthus caudatus x A. quitensis; A. hypochondriacus complex",
+   "records": 2
+  },
+  {
+   "study_id": "Jamalluddin2022",
+   "year": "2022",
+   "species": "Amaranthus spp. (16 species); A. tricolor",
+   "records": 122
+  },
+  {
+   "study_id": "Lin2022",
+   "year": "2022",
+   "species": "Amaranthus spp. (grain amaranth complex); A. tricolor",
+   "records": 19
+  },
+  {
+   "study_id": "Singh2025",
+   "year": "2025",
+   "species": "Amaranthus hypochondriacus",
+   "records": 22
+  },
+  {
+   "study_id": "Prabhakaran2026",
+   "year": "2026",
+   "species": "Amaranthus hypochondriacus",
+   "records": 25
+  },
+  {
+   "study_id": "Chauhan2026",
+   "year": "2026",
+   "species": "Amaranthus hypochondriacus",
+   "records": 17
+  },
+  {
+   "study_id": "Kreiner2023FT",
+   "year": "2023",
+   "species": "Amaranthus tuberculatus",
+   "records": 39
+  },
+  {
+   "study_id": "Raiyemo2025",
+   "year": "2025",
+   "species": "Amaranthus tuberculatus",
+   "records": 1
+  },
+  {
+   "study_id": "Kreiner2025Sex",
+   "year": "2025",
+   "species": "Amaranthus tuberculatus",
+   "records": 1
+  },
+  {
+   "study_id": "Montgomery2021",
+   "year": "2021",
+   "species": "Amaranthus tuberculatus; Amaranthus palmeri",
+   "records": 2
+  },
+  {
+   "study_id": "Neves2020",
+   "year": "2020",
+   "species": "Amaranthus palmeri",
+   "records": 1
+  }
+ ],
+ "lift": [
+  {
+   "target": "Ahyp_v3",
+   "status": "ok",
+   "n": 247
+  },
+  {
+   "target": "Ahyp_v2.0",
+   "status": "ok",
+   "n": 39
+  },
+  {
+   "target": "Atub_hap1",
+   "status": "ok",
+   "n": 42
+  },
+  {
+   "target": "Apal_hap1",
+   "status": "ok",
+   "n": 5
+  },
+  {
+   "target": "Apal_hap1",
+   "status": "partial",
+   "n": 2
+  },
+  {
+   "target": "Apal_hap1",
+   "status": "interval ends on different target chromosomes",
+   "n": 1
+  },
+  {
+   "target": "Atub_hap1",
+   "status": "not converted",
+   "n": 6
+  },
+  {
+   "target": "Atub_hap1",
+   "status": "partial",
+   "n": 1
+  },
+  {
+   "target": "",
+   "status": "not converted",
+   "n": 3
+  }
+ ]
+}

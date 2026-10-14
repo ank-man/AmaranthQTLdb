@@ -1,0 +1,31 @@
+node_modules
+dist
+dist-ssr
+*.tsbuildinfo
+*.local
+.DS_Store
+.vscode
+.idea
+.env
+.env.*
+!.env.example
+
+# Raw curation source archives (private collaborator working files, not for public distribution)
+/Finalised datasets.zip
+/Finalised datasets/
+/Updated data (2.0+3.0).rar
+/Updated data (2.0+3.0).rar.cpgz
+/Updated data (2.0+3.0)/
+/new_data/
+
+# Large/incomplete raw downloads (re-derivable from Ensembl Plants BioMart)
+evolutionary_analysis/raw_data/ensembl_plants_wheat_snps_8assembly.tsv
+__pycache__/
+*.pyc
+
+# Final data source drop (private collaborator working files, not for public distribution)
+/Final_data.rar
+/Final_data/
+
+# Local archive of superseded/raw source data (private collaborator files, not for public distribution)
+/archive/

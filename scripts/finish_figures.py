@@ -6,7 +6,7 @@ import os
 from PIL import Image, ImageChops
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-for f in glob.glob(os.path.join(ROOT, "figures", "*.png")):
+for f in glob.glob(os.path.join(ROOT, "figures", "*.png")) + glob.glob(os.path.join(ROOT, "figures", "species", "*.png")):
     im = Image.open(f)
     if im.mode in ("RGBA", "LA", "P"):
         im = im.convert("RGBA")

@@ -1,0 +1,5 @@
+species,maps,maps_with_marker_positions,consensus_built,note
+Amaranthus tuberculatus,2,1,FALSE,2 map(s) of this species; 1 with published marker-level positions (AT_Werle2025_CHRxWUS). A consensus needs >= 2 such maps with shared markers.
+Amaranthus hypochondriacus,4,0,FALSE,4 map(s) of this species; 0 with published marker-level positions (none). A consensus needs >= 2 such maps with shared markers.
+A. hypochondriacus x A. caudatus,1,0,FALSE,1 map(s) of this species; 0 with published marker-level positions (none). A consensus needs >= 2 such maps with shared markers.
+A. caudatus x A. quitensis,1,0,FALSE,1 map(s) of this species; 0 with published marker-level positions (none). A consensus needs >= 2 such maps with shared markers.
