@@ -136,7 +136,7 @@ assay.
 
 ## What could not be extracted
 
-Kreiner 2021 (glyphosate GWA; >100 genes, no locus table in the text), Kondo 2024 and Cao 2026
+Kreiner 2021 (glyphosate GWA, >100 genes; neither the paper nor its preprint could be read), Kondo 2024 and Cao 2026
 (subscription access), the de Kinderen 2025 thesis (not yet read), Maughan 2011 map positions. Boro 2026
 was checked and contains no GWAS. Murphy 2021, Winkler 2024 and the 2026 bioRxiv preprints were read
 through their bioRxiv full texts; every curated number was quoted verbatim before entry.
