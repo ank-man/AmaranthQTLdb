@@ -60,6 +60,9 @@ mk <- ah[weak == FALSE, .(Type = group, Shape = shape_of(record_type), Chr = pas
 mq_mk <- mq[, .(Type = "Meta-QTL", Shape = "triangle", Chr = paste0("Chr", chromosome),
                 Start = as.numeric(position_bp), End = as.numeric(position_bp) + 1, color = "111111")]
 mk <- unique(rbind(mk, mq_mk))
+# RIdeogram's label spreader can fail when many markers share one window; the per-species karyotypes
+# (scripts/plots_species.R) are the main figures, so a failure here is reported and skipped.
+ok <- tryCatch({
 old <- setwd("figures")
 ideogram(karyotype = kary, overlaid = as.data.frame(dens), label = as.data.frame(mk), label_type = "marker",
          colorset1 = c("#f7f7f7", "#bdbdbd", "#252525"), width = 170, Lx = 80, Ly = 25,
@@ -67,7 +70,9 @@ ideogram(karyotype = kary, overlaid = as.data.frame(dens), label = as.data.frame
 convertSVG("karyotype_A_hypochondriacus.svg", file = "karyotype_A_hypochondriacus", device = "png", dpi = 600)
 convertSVG("karyotype_A_hypochondriacus.svg", file = "karyotype_A_hypochondriacus", device = "pdf")
 setwd(old)
-cat("wrote figures/karyotype_A_hypochondriacus.{svg,png,pdf}\n")
+TRUE }, error = function(e) { setwd(normalizePath(file.path(dirname(getwd()), basename(getwd())))); message("v2.1 karyotype skipped: ", conditionMessage(e)); FALSE })
+if (basename(getwd()) == "figures") setwd("..")
+if (ok) cat("wrote figures/karyotype_A_hypochondriacus.{svg,png,pdf}\n")
 
 # ---- 2. Circos ------------------------------------------------------------------------------
 draw_circos <- function() {

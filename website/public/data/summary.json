@@ -1,34 +1,34 @@
 {
  "built": "2026-10-14",
  "counts": {
-  "loci": 307,
-  "qtl": 63,
-  "gwas": 244,
-  "studies_extracted": 15,
-  "studies_listed": 26,
-  "mqtl": 3,
-  "clusters": 23,
+  "loci": 342,
+  "qtl": 76,
+  "gwas": 266,
+  "studies_extracted": 23,
+  "studies_listed": 32,
+  "mqtl": 5,
+  "clusters": 26,
   "maps": 8,
   "map_markers": 16937,
-  "pcr_markers": 15,
+  "pcr_markers": 20,
   "inheritance": 14,
   "species": 7,
-  "traits": 28,
-  "placed": 297,
+  "traits": 31,
+  "placed": 318,
   "suggestive": 52
  },
  "by_species": {
-  "Amaranthus tricolor": 112,
-  "Amaranthus hypochondriacus": 104,
-  "Amaranthus tuberculatus": 50,
+  "Amaranthus tricolor": 118,
+  "Amaranthus hypochondriacus": 114,
+  "Amaranthus tuberculatus": 63,
   "Amaranthus spp.": 22,
-  "Amaranthus palmeri": 10,
+  "Amaranthus palmeri": 16,
   "Amaranthus spp. (grain amaranths)": 7,
   "A. caudatus x A. quitensis": 2
  },
  "by_category": {
   "Phenology": {
-   "qtl": 8,
+   "qtl": 10,
    "gwas": 80
   },
   "Plant architecture": {
@@ -36,15 +36,19 @@
    "gwas": 10
   },
   "Pigmentation": {
-   "qtl": 12,
-   "gwas": 112
+   "qtl": 16,
+   "gwas": 119
   },
   "Herbicide resistance": {
-   "qtl": 16,
-   "gwas": 0
+   "qtl": 19,
+   "gwas": 11
   },
   "Sex determination": {
-   "qtl": 5,
+   "qtl": 6,
+   "gwas": 4
+  },
+  "Seed dormancy": {
+   "qtl": 3,
    "gwas": 0
   },
   "Seed minerals": {
@@ -57,21 +61,26 @@
   }
  },
  "by_record_type": {
-  "QTL": 57,
+  "QTL": 66,
   "Mendelian locus": 1,
-  "Sex-linked region": 5,
-  "GWAS MTA": 222,
+  "Sex-linked region": 6,
+  "BSA locus": 2,
+  "Resistance gene locus": 1,
+  "GWAS MTA": 244,
   "GWAS QTN": 22
  },
  "top_traits": {
-  "Leaf pigmentation": 68,
-  "Days to flowering": 41,
+  "Leaf pigmentation": 74,
+  "Days to flowering": 43,
   "Flowering time": 39,
-  "Inflorescence color": 19,
+  "Inflorescence color": 20,
   "Petiole pigmentation": 18,
   "Branching index": 12,
-  "Stem pigmentation": 10,
-  "HPPD-inhibitor (tembotrione) resistance": 8,
+  "Stem pigmentation": 11,
+  "Mesotrione (HPPD) resistance": 11,
+  "HPPD-inhibitor (tembotrione) resistance": 10,
+  "Sex (male/female)": 10,
+  "Seed coat color": 8,
   "Grain calcium": 7,
   "Grain zinc": 7,
   "Plant height": 6,
@@ -80,10 +89,7 @@
   "Seed total protein": 6,
   "Heading date": 5,
   "Stem diameter": 5,
-  "Seed coat color": 5,
-  "Sex (male/female)": 5,
-  "Grain iron": 5,
-  "Seed albumin": 5
+  "Grain iron": 5
  },
  "per_chromosome": [
   {
@@ -120,7 +126,7 @@
    "genome": "Ahyp_v3",
    "chromosome": "Chr06",
    "length_mb": 25.44,
-   "loci": 16
+   "loci": 17
   },
   {
    "genome": "Ahyp_v3",
@@ -138,13 +144,13 @@
    "genome": "Ahyp_v3",
    "chromosome": "Chr09",
    "length_mb": 26.0,
-   "loci": 10
+   "loci": 12
   },
   {
    "genome": "Ahyp_v3",
    "chromosome": "Chr10",
    "length_mb": 20.09,
-   "loci": 19
+   "loci": 20
   },
   {
    "genome": "Ahyp_v3",
@@ -180,7 +186,7 @@
    "genome": "Ahyp_v3",
    "chromosome": "Chr16",
    "length_mb": 19.41,
-   "loci": 14
+   "loci": 16
   },
   {
    "genome": "Atub_hap1",
@@ -216,7 +222,7 @@
    "genome": "Atub_hap1",
    "chromosome": "Chr06",
    "length_mb": 38.96,
-   "loci": 8
+   "loci": 9
   },
   {
    "genome": "Atub_hap1",
@@ -228,13 +234,13 @@
    "genome": "Atub_hap1",
    "chromosome": "Chr08",
    "length_mb": 36.97,
-   "loci": 0
+   "loci": 2
   },
   {
    "genome": "Atub_hap1",
    "chromosome": "Chr09",
    "length_mb": 36.97,
-   "loci": 7
+   "loci": 8
   },
   {
    "genome": "Atub_hap1",
@@ -252,19 +258,19 @@
    "genome": "Atub_hap1",
    "chromosome": "Chr12",
    "length_mb": 32.99,
-   "loci": 2
+   "loci": 4
   },
   {
    "genome": "Atub_hap1",
    "chromosome": "Chr13",
    "length_mb": 30.58,
-   "loci": 5
+   "loci": 7
   },
   {
    "genome": "Atub_hap1",
    "chromosome": "Chr14",
    "length_mb": 30.09,
-   "loci": 1
+   "loci": 2
   },
   {
    "genome": "Atub_hap1",
@@ -294,13 +300,13 @@
    "genome": "Apal_hap1",
    "chromosome": "Chr03",
    "length_mb": 26.28,
-   "loci": 0
+   "loci": 3
   },
   {
    "genome": "Apal_hap1",
    "chromosome": "Chr04",
    "length_mb": 25.33,
-   "loci": 0
+   "loci": 1
   },
   {
    "genome": "Apal_hap1",
@@ -366,13 +372,13 @@
    "genome": "Apal_hap1",
    "chromosome": "Chr15",
    "length_mb": 16.53,
-   "loci": 0
+   "loci": 1
   },
   {
    "genome": "Apal_hap1",
    "chromosome": "Chr16",
    "length_mb": 16.11,
-   "loci": 2
+   "loci": 3
   },
   {
    "genome": "Apal_hap1",
@@ -416,15 +422,15 @@
   },
   {
    "year": 2024,
-   "studies": 1
+   "studies": 2
   },
   {
    "year": 2025,
-   "studies": 6
+   "studies": 9
   },
   {
    "year": 2026,
-   "studies": 6
+   "studies": 8
   }
  ],
  "by_study": [
@@ -517,28 +523,76 @@
    "year": "2020",
    "species": "Amaranthus palmeri",
    "records": 1
+  },
+  {
+   "study_id": "Murphy2021",
+   "year": "2021",
+   "species": "Amaranthus tuberculatus",
+   "records": 2
+  },
+  {
+   "study_id": "Winkler2024",
+   "year": "2024",
+   "species": "Amaranthus hypochondriacus",
+   "records": 2
+  },
+  {
+   "study_id": "Ludwig2026",
+   "year": "2026",
+   "species": "Amaranthus hypochondriacus",
+   "records": 2
+  },
+  {
+   "study_id": "Winkler2026",
+   "year": "2026",
+   "species": "Amaranthus hypochondriacus",
+   "records": 6
+  },
+  {
+   "study_id": "LinY2026",
+   "year": "2026",
+   "species": "Amaranthus tricolor",
+   "records": 6
+  },
+  {
+   "study_id": "Laforest2026",
+   "year": "2026",
+   "species": "Amaranthus tuberculatus",
+   "records": 11
+  },
+  {
+   "study_id": "Raiyemo2025PJ",
+   "year": "2025",
+   "species": "Amaranthus palmeri",
+   "records": 5
+  },
+  {
+   "study_id": "CarvalhoMoore2025",
+   "year": "2025",
+   "species": "Amaranthus palmeri",
+   "records": 1
   }
  ],
  "lift": [
   {
    "target": "Ahyp_v3",
    "status": "ok",
-   "n": 247
+   "n": 253
   },
   {
    "target": "Ahyp_v2.0",
    "status": "ok",
-   "n": 39
+   "n": 45
   },
   {
    "target": "Atub_hap1",
    "status": "ok",
-   "n": 42
+   "n": 53
   },
   {
    "target": "Apal_hap1",
    "status": "ok",
-   "n": 5
+   "n": 11
   },
   {
    "target": "Apal_hap1",
@@ -553,7 +607,7 @@
   {
    "target": "Atub_hap1",
    "status": "not converted",
-   "n": 6
+   "n": 8
   },
   {
    "target": "Atub_hap1",
@@ -563,7 +617,17 @@
   {
    "target": "",
    "status": "not converted",
-   "n": 3
+   "n": 9
+  },
+  {
+   "target": "Ahyp_v3",
+   "status": "not converted",
+   "n": 4
+  },
+  {
+   "target": "Ahyp_v2.0",
+   "status": "not converted",
+   "n": 4
   }
  ]
 }

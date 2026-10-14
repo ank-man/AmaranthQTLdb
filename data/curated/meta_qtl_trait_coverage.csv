@@ -1,7 +1,7 @@
 trait_group,loci,studies,study_ids,meta_qtl,reason_if_none
-Betalain pigmentation,119,3,Jamalluddin2022; Lightfoot2017; Zaelani2025,1,
+Betalain pigmentation,121,4,Jamalluddin2022; Lightfoot2017; Winkler2024; Zaelani2025,1,
 Branching,12,2,Jamalluddin2022; Zaelani2025,0,loci of different studies do not coincide
-Flowering time,49,3,Lin2022; Singh2025; Zaelani2025,1,
+Flowering time,51,4,Lin2022; Ludwig2026; Singh2025; Zaelani2025,3,
 Grain calcium,7,1,Prabhakaran2026,0,only one study
 Grain iron,5,1,Prabhakaran2026,0,only one study
 Grain magnesium,6,1,Prabhakaran2026,0,only one study
@@ -9,6 +9,7 @@ Grain zinc,7,1,Prabhakaran2026,0,only one study
 Leaf shape,3,1,Jamalluddin2022,0,only one study
 Number of nodes,6,1,Zaelani2025,0,only one study
 Plant height,6,1,Zaelani2025,0,only one study
-Seed coat color,5,2,Stetter2020; Zaelani2025,1,
+Seed coat color,8,3,Stetter2020; Winkler2026; Zaelani2025,1,
+Seed dormancy,3,1,Winkler2026,0,only one study
 Seed protein,17,1,Chauhan2026,0,only one study
 Stem diameter,5,1,Zaelani2025,0,only one study

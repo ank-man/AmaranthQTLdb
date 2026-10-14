@@ -26,10 +26,11 @@ GROUP <- function(trait, cat) fcase(
   cat == "Seed minerals", "Seed minerals",
   cat == "Herbicide resistance", "Herbicide resistance",
   cat == "Sex determination", "Sex determination",
+  cat == "Seed dormancy", "Seed dormancy",
   default = "Other")
 COL <- c("Flowering time" = "#0072B2", "Betalain pigmentation" = "#CC79A7", "Seed coat color" = "#8C510A",
          "Plant architecture" = "#009E73", "Seed protein" = "#E69F00", "Seed minerals" = "#56B4E9",
-         "Herbicide resistance" = "#D55E00", "Sex determination" = "#882255", "Other" = "#8A8A93")
+         "Herbicide resistance" = "#D55E00", "Sex determination" = "#882255", "Seed dormancy" = "#999933", "Other" = "#8A8A93")
 
 SPECIES <- list(
   list(slug = "A_hypochondriacus", label = "Amaranthus hypochondriacus", asm = "Ahyp_v3", lens = "Ahyp_v3",
@@ -77,7 +78,7 @@ for (sp in SPECIES) {
                Value = as.integer(table(cut(x, br, right = FALSE))))
   }))
   if (max(dens$Value) == 0) dens$Value[1] <- 0
-  mk <- d[weak == FALSE, .(Type = group, Shape = ifelse(record_type %in% c("QTL", "Mendelian locus", "Sex-linked region"), "box", "circle"),
+  mk <- d[weak == FALSE, .(Type = group, Shape = ifelse(record_type %in% c("QTL", "Mendelian locus", "Sex-linked region", "BSA locus", "Resistance gene locus"), "box", "circle"),
                            Chr = chr, Start = round(pos), End = round(pos) + 1, color = sub("#", "", COL[group]))]
   if (sp$asm == "Ahyp_v3" && "v3_position_bp" %in% names(mq) && sp$slug == "A_hypochondriacus") {
     m3 <- mq[v3_position_bp != ""]
@@ -148,7 +149,7 @@ for (sp in SPECIES) {
 s <- rbindlist(summ)
 s[, species := factor(species, levels = rev(unique(species)))]
 CAT <- c("Phenology" = "#0072B2", "Pigmentation" = "#CC79A7", "Plant architecture" = "#009E73", "Seed protein" = "#E69F00",
-         "Seed minerals" = "#56B4E9", "Herbicide resistance" = "#D55E00", "Sex determination" = "#882255")
+         "Seed minerals" = "#56B4E9", "Herbicide resistance" = "#D55E00", "Sex determination" = "#882255", "Seed dormancy" = "#999933")
 p <- ggplot(s, aes(N, species, fill = trait_category)) +
   geom_col(width = 0.62, colour = "white", linewidth = 0.4) +
   scale_fill_manual(values = CAT, name = NULL) + guides(fill = guide_legend(nrow = 2)) +

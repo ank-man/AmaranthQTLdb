@@ -8,15 +8,15 @@ every study's DOI, first author and title was checked against Crossref.
 
 | Table (`data/curated/`) | Content |
 |---|---|
-| `studies.csv` | 26 studies: 15 with loci extracted, 11 listed with the reason they could not be (paywall, preprint server rate limit, no map positions) |
-| `loci.csv` | **307 mapped loci**: 57 QTL, 222 GWAS marker–trait associations, 22 GWAS QTNs, 1 Mendelian locus, 5 sex-linked regions |
+| `studies.csv` | 32 studies: 23 with loci extracted, 9 listed with the reason they could not be (subscription access, unverified positions, no map positions) |
+| `loci.csv` | **342 mapped loci**: 66 QTL, 244 GWAS marker–trait associations, 22 GWAS QTNs, 2 BSA loci, 1 Mendelian locus, 6 sex-linked regions, 1 resistance-gene locus |
 | `inheritance_studies.csv` | 14 classical inheritance studies (mode of inheritance, no map position), statements quoted from the abstracts |
 | `linkage_maps.csv`, `linkage_groups.csv`, `maps/` | 8 genetic maps of 4 taxa; marker-level positions for the *A. tuberculatus* F2 map (1,612 SNPs, 16 LGs), per-linkage-group summaries for 4 *A. hypochondriacus* maps, catalogue entries for the rest |
 | `consensus_status.csv` | consensus-map check per species (none possible yet — see below) |
 | `assemblies.csv`, `coordinates_lifted.csv` | every position converted between assembly versions (see *Coordinate conversion*) |
 | `meta_qtl.csv`, `meta_qtl_members.csv`, `meta_qtl_trait_coverage.csv` | meta-QTL computed here (none had been published for *Amaranthus*) |
 | `qtl_clusters.csv` | multi-trait regions (candidate pleiotropic / linked loci) |
-| `validated_pcr_markers.csv` | 15 validated PCR assays (19 primer sequences, each verified verbatim against its source) |
+| `validated_pcr_markers.csv` | 20 validated PCR assays (25 primer / probe sequences, each verified verbatim against its source) |
 
 Figures (`figures/species/`): for every species - *A. hypochondriacus*, *A. tricolor*, the multi-species
 panels, *A. tuberculatus* and *A. palmeri* - an RIdeogram karyotype and a circlize Circos plot on the current
@@ -55,23 +55,34 @@ classical inheritance or target-site herbicide-resistance studies exist, no mapp
 
 ## Meta-QTL and clusters
 
-No meta-QTL analysis had been published for any *Amaranthus* species, so one was built
-(`scripts/meta_qtl.py`): loci of each trait group on the *A. hypochondriacus* v2.0/v2.1 axis (v2.2
-positions converted first), one observation per study per locus, a Gaussian mixture with known
-variances (Goffinet & Gerber 2000; the BioMercator model applied to physical positions), k by BIC,
-and a component kept when **≥ 2 independent studies** support it. Three meta-QTL result:
+No meta-QTL analysis or consensus linkage map has been published for any *Amaranthus* species (checked
+again in October 2026 across Europe PMC full text, Crossref and the web; see `reports/`). The meta-QTL
+here are computed by this project (`scripts/meta_qtl.py`): loci of each trait group on the
+*A. hypochondriacus* v2.0/v2.1 axis (v2.2 and v3 positions converted first), one observation per study per
+locus, a Gaussian mixture with known variances (Goffinet & Gerber 2000), k by BIC, and a component kept
+when **≥ 2 independent studies** support it. Five meta-QTL result:
 
-| Meta-QTL | Chr | Position (v2.1) | Studies | Candidate genes |
-|---|---|---|---|---|
-| MQTL-BET-16.1 betalain pigmentation | 16 | ~5.5 Mb | Zaelani 2025, Lightfoot 2017 | CYP76AD1 (AH2023178), DODA1 (AH2023177) |
-| MQTL-FT-4.1 flowering time | 4 | ~21.6 Mb | Zaelani 2025, Singh 2025, Lin 2022 | |
-| MQTL-SCC-9.1 seed coat colour | 9 | ~14.5 Mb | Zaelani 2025, Stetter 2020 | AmMYBL1 |
+| Meta-QTL | Chr | v2.1 (Mb) | v3 (Mb) | Studies | Candidate genes |
+|---|---|---|---|---|---|
+| MQTL-BET-16.1 betalain pigmentation | 16 | 5.47 | 5.41 | Lightfoot 2017, Winkler 2024, Zaelani 2025 | CYP76AD1/2, DODA1, AhMYB2 |
+| MQTL-FT-4.1 flowering time | 4 | 21.56 | 23.61 | Zaelani 2025, Singh 2025, Lin 2022 | |
+| MQTL-FT-6.1 flowering time | 6 | 21.74 | 22.56 | Ludwig 2026, Singh 2025 | FT ortholog (AHq011814) |
+| MQTL-FT-10.1 flowering time | 10 | 14.91 | 12.21 | Ludwig 2026, Zaelani 2025 | TOE2 ortholog (AHq016812) |
+| MQTL-SCC-9.1 seed coat colour | 9 | 14.52 | 17.74 | Stetter 2020, Winkler 2026, Zaelani 2025 | AmMYBL1 (AHq015545) |
 
-Traits measured in a single study (seed protein, the four grain minerals, plant height, stem
-diameter, nodes, leaf shape) cannot have a meta-QTL; `meta_qtl_trait_coverage.csv` says why for
-each. Multi-trait clusters (`qtl_clusters.csv`) need ≥ 2 trait groups and either ≥ 2 studies or a
-QTL from a mapping population; the clearest are chr 4 (~11–22 Mb: flowering, plant height, stem
-diameter, nodes, branching) and chr 10 (~13–17 Mb).
+Traits measured in a single study cannot have a meta-QTL; `meta_qtl_trait_coverage.csv` says why for
+each. 26 multi-trait clusters (`qtl_clusters.csv`) need ≥ 2 trait groups and either ≥ 2 studies or a
+QTL from a mapping population; the clearest are chr 4 (~11–22 Mb) and chr 10 (~13–17 Mb).
+
+## Literature review
+
+`reports/Amaranthus genetic mapping studies.md` is a systematic review (four parallel searches: crop
+QTL and linkage maps, GWAS in all species, weedy-amaranth mapping, markers and datasets; notes in
+`research_notes/`). Its findings were curated into the tables: Laforest 2026 (mesotrione GWAS),
+Raiyemo 2025 *Plant J* (Palmer amaranth sex GWAS and 2.84 Mb SDR), Carvalho-Moore 2025 (GS2 locus),
+and new PCR assays (Spaunhorst 2019 TaqMan, Rangani 2019 CAPS, Sarangi 2019 KASP, EPSPS / GS2 copy-number
+qPCR). Kondo 2024 (seed shattering, *A. cruentus*), Cao 2026 (Palmer amaranth flowering GWAS) and the
+de Kinderen 2025 MAGIC thesis are listed but not yet curated (positions unverified or not yet read).
 
 ## Linkage maps and consensus maps
 
@@ -125,10 +136,10 @@ assay.
 
 ## What could not be extracted
 
-Paywalled or blocked: Murphy 2021 (HPPD QTL, waterhemp), Kreiner 2021 (glyphosate GWA), Winkler
-2024 (AhMYB2 flower colour BSA), Boro 2026 (core collection), Maughan 2011 map positions. Preprints
-on bioRxiv (pangenome flowering QTL, betalain GWAS, convergent domestication) were rate-limited
-(HTTP 429/1015) during compilation. Their loci can be added by extending `scripts/curate_studies.py`.
+Kreiner 2021 (glyphosate GWA; >100 genes, no locus table in the text), Kondo 2024 and Cao 2026
+(subscription access), the de Kinderen 2025 thesis (not yet read), Maughan 2011 map positions. Boro 2026
+was checked and contains no GWAS. Murphy 2021, Winkler 2024 and the 2026 bioRxiv preprints were read
+through their bioRxiv full texts; every curated number was quoted verbatim before entry.
 
 Searched and found nothing to import: GWAS Atlas (no *Amaranthus*), AGRDB (genes/SSRs/SNPs only),
 Dryad, Zenodo and Figshare (phenotype and population data only).

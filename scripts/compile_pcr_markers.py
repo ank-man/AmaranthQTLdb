@@ -83,7 +83,21 @@ for side, seq in (("F", "ACACCTCCAAAGCGGTTAGG"), ("R", "TGCAGAACCTCCTCTGTGTG")):
         validation="ANOVA of marker genotype vs trait in the F2 (Supplemental Table 5: P < 0.001 for HD, AD, PH, STD, NN)",
         primers_available="yes", doi="10.1270/jsbbs.25032", source="Supplemental Tables 2 and 5 (PMC13129576)")
 
-# 5. Validated assays published in papers not readable here (catalogue only, no sequences).
+# 5. ALS Trp574Leu TaqMan, A. palmeri (Spaunhorst et al. 2019, PLoS ONE 14:e0214458)
+for name, seq in [("AHOJE43_VIC probe (Leu574, resistant)", "ATCGATCTTCCAATTGAA"), ("AHOJE43_FAM probe (Trp574, wild type)", "TCGATCTTCCCATTGAA"),
+                  ("forward primer", "CCGGTTAAAATCATGCTCTTGAACAAT"), ("reverse primer", "TGTGCCCGGTTAGCTTTGTAAA")]:
+    add(marker="ALS-W574L TaqMan", species="Amaranthus palmeri", trait="ALS-inhibitor resistance", target="ALS Trp574Leu (TGG to TTG)",
+        assay="TaqMan", primer_name=name, sequence_5_3=seq,
+        validation="Genotyped Indiana field populations and herbicide survivors; genotypes reported with survival (Tables 2-3)",
+        primers_available="yes", doi="10.1371/journal.pone.0214458", source="Methods (PMC6435131)")
+# 6. PPO2 G399A CAPS, A. palmeri (Rangani et al. 2019, Front Plant Sci 10:568)
+for name, seq in [("RsaIF", "CGTACCCCTTTCCGTTATGA"), ("RsaIR", "CCGGGAAGATCTTTTTCCAT")]:
+    add(marker="PPO2-G399A CAPS (RsaI)", species="Amaranthus palmeri", trait="PPO-inhibitor resistance", target="PPO2 Gly399Ala (691-bp amplicon digested with RsaI)",
+        assay="CAPS", primer_name=name, sequence_5_3=seq,
+        validation="Applied to resistant and susceptible plants; mutation confirmed by sequencing and in vitro enzyme assays",
+        primers_available="yes", doi="10.3389/fpls.2019.00568", source="Methods (PMC6530635)")
+
+# 7. Validated assays published in papers not readable here (catalogue only, no sequences).
 #    DOIs and titles from data/literature/pcr_marker_papers.tsv (Europe PMC records).
 for marker, sp, trait, target, assay, val, doi in [
     ("PPX2 dG210 allele-specific PCR", "Amaranthus tuberculatus", "PPO-inhibitor resistance", "PPX2 Gly210 deletion",
@@ -93,7 +107,13 @@ for marker, sp, trait, target, assay, val, doi in [
     ("PPX2 R128G/M dCAPS", "Amaranthus palmeri", "PPO-inhibitor resistance", "PPX2 Arg128Gly / Arg128Met",
      "dCAPS", "Mutations associated with resistance (Pest Manag Sci 2017)", "10.1002/ps.4581"),
     ("PPX2 target-site TaqMan survey", "Amaranthus palmeri", "PPO-inhibitor resistance", "PPX2 dG210 and R128 mutations",
-     "TaqMan", "Statewide survey of resistant accessions (Weed Sci 2018)", "10.1017/wsc.2017.68"),
+     "TaqMan", "Statewide survey of 167 accessions (Varanasi et al., Weed Sci 2018)", "10.1017/wsc.2017.68"),
+    ("PPX2 dG210 KASP", "Amaranthus tuberculatus", "PPO-inhibitor resistance", "PPX2 Gly210 deletion",
+     "KASP", "Used to genotype PPO-resistant Nebraska waterhemp (Weed Sci 2019)", "10.1017/wsc.2019.29"),
+    ("EPSPS copy-number qPCR", "Amaranthus palmeri", "Glyphosate resistance", "EPSPS gene amplification",
+     "qPCR (relative copy number)", "Copy number correlated with resistance (PNAS 2010)", "10.1073/pnas.0906649107"),
+    ("GS2 copy-number qPCR", "Amaranthus palmeri", "Glufosinate resistance", "GS2 amplification",
+     "qPCR copy number", "Amplification and overexpression in resistant plants (Planta 2022)", "10.1007/s00425-022-03968-2"),
     ("ALS LAMP assay", "Amaranthus spp. (three weed species)", "ALS-inhibitor resistance", "ALS target-site mutations",
      "LAMP (isothermal; not PCR)", "Rapid detection assay for three Amaranthus weeds (J Sci Food Agric 2024)", "10.1002/jsfa.13385"),
 ]:
@@ -109,7 +129,8 @@ def corpus(pmc):
         t += open(f, errors="ignore").read()
     return re.sub(r"<[^>]+>|\s+", "", t).upper()
 src = {"10.3390/plants12020332": "PMC9860533", "10.3390/plants14040515": "PMC11858902",
-       "10.1017/wsc.2019.27": "PMC12581244", "10.1270/jsbbs.25032": "PMC13129576"}
+       "10.1017/wsc.2019.27": "PMC12581244", "10.1270/jsbbs.25032": "PMC13129576",
+       "10.1371/journal.pone.0214458": "PMC6435131", "10.3389/fpls.2019.00568": "PMC6530635"}
 cache = {}
 for m in M:
     if m["sequence_5_3"]:

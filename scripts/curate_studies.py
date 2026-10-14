@@ -44,7 +44,7 @@ STUDIES = [
     dict(study_id="Stetter2020", year=2020, authors="Stetter MG et al.", journal="Molecular Biology and Evolution 37(5):1407",
          title="Parallel seed color adaptation during multiple domestication attempts of an ancient New World grain",
          doi="10.1093/molbev/msz304", pmcid="", species="Amaranthus caudatus x A. quitensis; A. hypochondriacus complex",
-         design="F2 QTL (224 plants), BSA (2 x 100) and GWAS (116 accessions) for seed colour", reference_genome="A. hypochondriacus v2.1"),
+         design="F2 QTL (224 F2 plants, 206 genotyped), BSA (2 x 100) and GWAS (116 accessions) for seed colour", reference_genome="A. hypochondriacus v2.1"),
     dict(study_id="Jamalluddin2022", year=2022, authors="Jamalluddin N et al.", journal="PLoS ONE 17:e0267752",
          title="Genetic diversity analysis and marker-trait associations in Amaranthus species",
          doi="10.1371/journal.pone.0267752", pmcid="PMC9098028", species="Amaranthus spp. (16 species); A. tricolor",
@@ -86,24 +86,56 @@ STUDIES = [
          doi="10.1093/jhered/esaa047", pmcid="PMC7846199", species="Amaranthus palmeri",
          design="Sex-specific k-mers / coverage, male-specific region assembly", reference_genome="A. palmeri draft"),
 ]
+STUDIES += [
+    dict(study_id="Murphy2021", year=2021, authors="Murphy BP et al.", journal="Pest Management Science 77:4884-4891",
+         title="Genetic architecture underlying HPPD-inhibitor resistance in a Nebraska Amaranthus tuberculatus population",
+         doi="10.1002/ps.6560", pmcid="", species="Amaranthus tuberculatus",
+         design="QTL-seq (BSA) + marker validation, pseudo-F2 (24 intermated F1; N = 276)", reference_genome="A. tuberculatus female reference (Kreiner et al. 2019)"),
+    dict(study_id="Winkler2024", year=2024, authors="Winkler TS et al.", journal="New Phytologist 243:1082-1100",
+         title="Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation in amaranth",
+         doi="10.1111/nph.19736", pmcid="", species="Amaranthus hypochondriacus",
+         design="Bulked segregant analysis of flower colour and whole-plant colour, two F2 populations", reference_genome="A. hypochondriacus v2.2"),
+    dict(study_id="Ludwig2026", year=2026, authors="Ludwig E et al.", journal="bioRxiv (preprint)",
+         title="The grain amaranth pangenome reveals domestication-associated changes in diversity and function of structural variation",
+         doi="10.64898/2026.01.08.698315", pmcid="", species="Amaranthus hypochondriacus",
+         design="Flowering-time QTL mapping, 449 lines of PI 558499 x PI 604581", reference_genome="A. hypochondriacus v3"),
+    dict(study_id="Winkler2026", year=2026, authors="Winkler TS et al.", journal="bioRxiv (preprint)",
+         title="Pleiotropy and repeated mutation drove convergent domestication of grain amaranth",
+         doi="10.64898/2026.02.26.708151", pmcid="", species="Amaranthus hypochondriacus",
+         design="F2 QTL mapping (PI 604581 x PI 558499) of seed colour and dormancy; GWAS of 144 accessions", reference_genome="A. hypochondriacus v3"),
+    dict(study_id="LinY2026", year=2026, authors="Lin Y et al.", journal="bioRxiv (preprint)",
+         title="Integrated GWAS and transcriptome analyses reveal candidate genes associated with betalain-related pigmentation",
+         doi="10.64898/2026.10.05.756862", pmcid="", species="Amaranthus tricolor",
+         design="GWAS of betalain absorbance indices, 95-line core collection, two seasons", reference_genome="A. tricolor cv. Bayam (ATR1.0)"),
+]
+
+STUDIES += [
+    dict(study_id="Laforest2026", year=2026, authors="Laforest M et al.", journal="Pest Management Science 82:6387-6398",
+         title="Integrated genomic and transcriptomic approaches reveal oxidative stress adaptation mechanisms in a mesotrione-resistant Amaranthus tuberculatus population",
+         doi="10.1002/ps.70721", pmcid="PMC13240694", species="Amaranthus tuberculatus",
+         design="GWAS (GBS, 373,458 SNPs; BLINK / MLMM / FarmCPU), 152 plants (85 R, 67 S)", reference_genome="A. tuberculatus reference (AmaTu_Ref)"),
+    dict(study_id="Raiyemo2025PJ", year=2025, authors="Raiyemo DA et al.", journal="The Plant Journal 121:e70027",
+         title="Chromosome-level assemblies of Amaranthus palmeri, Amaranthus retroflexus, and Amaranthus hybridus allow for genomic comparisons and identification of a sex-determining region",
+         doi="10.1111/tpj.70027", pmcid="PMC11850965", species="Amaranthus palmeri",
+         design="GWA for sex (RAD-seq, 234,066 variants) and hemizygosity on Hap1", reference_genome="A. palmeri Hap1 (Raiyemo et al. 2025)"),
+    dict(study_id="CarvalhoMoore2025", year=2025, authors="Carvalho-Moore P et al.", journal="The Plant Cell 37:koaf069",
+         title="A rearranged Amaranthus palmeri extrachromosomal circular DNA confers resistance to glyphosate and glufosinate",
+         doi="10.1093/plcell/koaf069", pmcid="PMC11985328", species="Amaranthus palmeri",
+         design="Long-read assembly of a resistance eccDNA and its native source loci", reference_genome="A. palmeri Hap1 (Raiyemo et al. 2025)"),
+]
+
 NOT_EXTRACTED = [
-    ("Murphy2021", 2021, "Murphy BP et al.", "Pest Management Science 77", "Genetic architecture underlying HPPD-inhibitor resistance in a Nebraska Amaranthus tuberculatus population",
-     "10.1002/ps.6560", "Amaranthus tuberculatus", "QTL mapping, pseudo-F2 (2 QTL, Scaffolds 4 and 12)",
-     "paywalled; bioRxiv preprint 10.1101/2021.06.11.448079 rate-limited (HTTP 429/1015) during this compilation"),
+    ("Kondo2024", 2024, "Kondo F et al.", "Euphytica 220:136", "Identification of inheritance manner and responsible locus (Acsh) related to seed-shattering in grain amaranthus (Amaranthus cruentus)",
+     "10.1007/s10681-024-03390-7", "Amaranthus cruentus", "F2 mapping of the seed-shattering locus Acsh", "subscription access; locus position seen only in a search summary, not verified"),
+    ("Cao2026", 2026, "Cao J et al.", "Journal of Ecology", "Asymmetric adaptation across a core-periphery climate gradient drives rapid phenological evolution and range expansion in an invasive plant",
+     "10.1111/1365-2745.70312", "Amaranthus palmeri", "Common garden + GWAS of flowering time (candidate PTM)", "subscription access (HTTP 403); loci not verified"),
+    ("deKinderen2025", 2025, "de Kinderen MAJ", "PhD thesis, University of York", "Exploiting an Amaranth MAGIC population and diversity set for improvement of leafy vegetable traits",
+     "https://etheses.whiterose.ac.uk/id/eprint/38163/", "A. cruentus x A. hypochondriacus MAGIC", "MAGIC QTL and metabolite GWAS (leaf yield loci on Chr 9 and 10)", "thesis PDF not yet curated; positions are in its supplement"),
     ("Kreiner2021Gly", 2021, "Kreiner JM et al.", "Molecular Ecology 30:5373", "The genetic architecture and population genomic signatures of glyphosate resistance in Amaranthus tuberculatus",
      "10.1111/mec.15920", "Amaranthus tuberculatus", "GWA of glyphosate resistance (>100 genes on all 16 chromosomes)",
      "paywalled; preprint not retrievable (bioRxiv rate limit)"),
-    ("Winkler2024", 2024, "Winkler TS et al.", "New Phytologist 243:1082-1100", "Isoform-resolved genome annotation enables mapping of tissue-specific betalain regulation in amaranth",
-     "10.1111/nph.19736", "Amaranthus hypochondriacus", "BSA of flower colour; AhMYB2 on Scaffold 16",
-     "publisher blocks automated access (HTTP 403); preprint rate-limited"),
     ("CoreGWAS2026", 2026, "Boro J et al.", "Molecular Genetics and Genomics", "Unravelling genetic diversity in grain amaranth (Amaranthus hypochondriacus L.) core accessions using genome-wide SNPs",
-     "10.1007/s00438-026-02464-6", "Amaranthus hypochondriacus", "Diversity / possible GWAS", "subscription access only"),
-    ("Pangenome2026", 2026, "Ludwig E et al.", "bioRxiv", "The grain amaranth pangenome reveals domestication-associated changes in diversity and function of structural variation",
-     "10.64898/2026.01.08.698315", "Amaranthus hypochondriacus", "Flowering-time QTL in a RIL population (2 QTL)", "preprint; bioRxiv rate-limited"),
-    ("Betalain2026", 2026, "Lin Y et al.", "bioRxiv", "Integrated GWAS and transcriptome analyses reveal candidate genes associated with betalain-related pigmentation",
-     "10.64898/2026.10.05.756862", "Amaranthus", "GWAS of pigmentation", "preprint; bioRxiv rate-limited"),
-    ("Convergent2026", 2026, "Winkler TS et al.", "bioRxiv", "Pleiotropy and repeated mutation drove convergent domestication of grain amaranth",
-     "10.64898/2026.02.26.708151", "Amaranthus", "Domestication loci / seed colour GWAS", "preprint; bioRxiv rate-limited"),
+     "10.1007/s00438-026-02464-6", "Amaranthus hypochondriacus", "Diversity and population structure (248 accessions, ~285,000 SNPs)", "no GWAS: the abstract lists association mapping only as future work"),
     ("Maughan2011", 2011, "Maughan PJ, Smith SM, Fairbanks DJ, Jellen EN", "The Plant Genome 4:92-101", "Development, characterization, and linkage mapping of single nucleotide polymorphisms in the grain amaranths (Amaranthus sp.)",
      "10.3835/plantgenome2010.12.0027", "A. hypochondriacus x A. caudatus", "SNP linkage map: 411 markers, 16 LGs, 1288 cM", "marker positions not openly retrievable (publisher 403)"),
     ("Mallory2008", 2008, "Mallory MA et al.", "Crop Science 48:1098", "Development and characterization of microsatellite markers for the grain amaranths",
@@ -116,12 +148,14 @@ NOT_EXTRACTED = [
 
 CATEGORY = [
     ("Phenology", r"flower|heading|anthesis|dtf|photoperiod"),
-    ("Pigmentation", r"colou?r|pigment|betalain|anthocyan"),
+    ("Seed dormancy", r"dormancy|germination"),
+    ("Pigmentation", r"colou?r|pigment|betalain|betacyanin|betaxanthin|anthocyan"),
     ("Plant architecture", r"height|stem diameter|node|branch|leaf shape"),
     ("Seed protein", r"albumin|globulin|glutelin|prolamin|protein"),
     ("Seed minerals", r"calcium|iron|magnesium|zinc|^ca$|^fe$|^mg$|^zn$"),
-    ("Herbicide resistance", r"dicamba|2,4-d|hppd|tembotrione|glyphosate|mesotrione|resistan"),
+    ("Herbicide resistance", r"dicamba|2,4-d|hppd|tembotrione|glyphosate|glufosinate|mesotrione|resistan"),
     ("Sex determination", r"\bsex\b"),
+    ("Seed dormancy", r"dormancy|germination"),
 ]
 
 
@@ -403,8 +437,124 @@ def sex():
         method="male-specific sequence mapping", note="several contigs, combined ~4.6 Mb, 147 gene models", source="Abstract (New Phytologist 229:3522)")
 
 
+# --- Studies read through the bioRxiv full text (sentences quoted verbatim before curation) --
+BIORXIV = "bioRxiv full text (sentence quoted verbatim)"
+
+
+def preprints():
+    for chrom, s_, e_, eff, cand, note in [
+            ("10", 11911867, 12485518, "-16.4", "AHq016812 (TOE2 ortholog)", "one-LOD range, 44 genes; early-parent allele 16.4 days earlier than the population mean"),
+            ("6", 20322569, 24290483, "-11.5", "AHq011814 (FT ortholog); AHq011570 (KHZ1 ortholog)", "one-LOD range, 382 genes; early-parent allele 11.5 days earlier")]:
+        add(study_id="Ludwig2026", record_type="QTL", species="Amaranthus hypochondriacus",
+            population="449 lines, PI 558499 x PI 604581 (Cologne 2025)", trait="Days to flowering", trait_original="flowering time",
+            locus_name=f"qFT{chrom}", chromosome=chrom, start_bp=s_, end_bp=e_, reference_genome="A. hypochondriacus v3",
+            additive_effect=eff, method="Linkage mapping", candidate_gene=cand, note=note, source=BIORXIV + "; Results")
+    for trait, chrom, s_, e_, cand, note in [
+            ("Seed coat color", "9", 17655000, 17971000, "AmMYBL1 (AHq015545)", "dark vs white seed; F2 n = 511 phenotyped"),
+            ("Seed coat color", "3", None, None, "", "brown seed colour QTL; interval not given in the text"),
+            ("Seed dormancy", "9", 17791000, 17971000, "AmMYBL1 (AHq015545)", "major dormancy QTL, one-LOD support interval; overlaps the seed colour QTL"),
+            ("Seed dormancy", "6", None, None, "", "minor dormancy QTL; interval not given in the text"),
+            ("Seed dormancy", "11", None, None, "", "minor dormancy QTL; interval not given in the text")]:
+        add(study_id="Winkler2026", record_type="QTL", species="Amaranthus hypochondriacus",
+            population="F2, PI 604581 (dark) x PI 558499 (white)", trait=trait, trait_original=trait.lower(),
+            locus_name=f"q{''.join(w[0] for w in trait.split()).upper()}{chrom}", chromosome=chrom, start_bp=s_, end_bp=e_,
+            reference_genome="A. hypochondriacus v3", method="Linkage mapping (95% LOD threshold, 1000 permutations)",
+            candidate_gene=cand, note=note, source=BIORXIV + "; Results")
+    add(study_id="Winkler2026", record_type="GWAS MTA", species="Amaranthus hypochondriacus", population="144 accessions",
+        trait="Seed coat color", trait_original="seed color", locus_name="seed colour GWAS peak", chromosome="9",
+        reference_genome="A. hypochondriacus v3", method="GWAS", candidate_gene="AmMYBL1 (AHq015545)",
+        note="highest association on chromosome 9; peak position given only in a figure", source=BIORXIV + "; Results")
+    add(study_id="Winkler2024", record_type="BSA locus", species="Amaranthus hypochondriacus",
+        population="F2 from PI 686465 x a green-flowered parent; 69 plants per bulk", trait="Inflorescence color",
+        trait_original="flower colour (regulator BSA)", locus_name="flower colour BSA QTL", chromosome="16",
+        start_bp=1, end_bp=5244109, reference_genome="A. hypochondriacus v2.2", method="BSA (G' > 3)",
+        candidate_gene="AhMYB2 (AHp022773)", source="bioRxiv v2 of the New Phytologist paper (sentence quoted verbatim)")
+    add(study_id="Winkler2024", record_type="BSA locus", species="Amaranthus hypochondriacus",
+        population="F2, PI 686465 x PI 576485; 80 green vs 80 red plants", trait="Stem pigmentation",
+        trait_original="whole-plant colour (biosynthesis BSA)", locus_name="whole-plant colour BSA QTL", chromosome="16",
+        start_bp=1080628, end_bp=14358251, peak_bp=3205818, reference_genome="A. hypochondriacus v2.2", method="BSA (G' > 3)",
+        candidate_gene="AhCYP76AD2; AhDODAalpha1", note="two peaks: 3,205,818 and 7,425,588 bp",
+        source="bioRxiv v2 of the New Phytologist paper (sentence quoted verbatim)")
+    for snp, trait, season, cand in [
+            ("ATR1.0CH03_5131103", "Leaf pigmentation (betacyanin)", "winter", "ATR1.0ch03g000565"),
+            ("ATR1.0CH06_11090793", "Leaf pigmentation (betacyanin)", "winter", ""),
+            ("ATR1.0CH13_174259", "Leaf pigmentation (betacyanin)", "winter", ""),
+            ("ATR1.0CH17_6168377", "Leaf pigmentation (betacyanin, betaxanthin)", "winter", ""),
+            ("ATR1.0CH00_181109920", "Leaf pigmentation (betacyanin, betaxanthin)", "summer", ""),
+            ("ATR1.0CH12_6719988", "Leaf pigmentation (betacyanin, betaxanthin)", "summer", "")]:
+        ch, pos = re.match(r"ATR1\.0CH(\d+)_(\d+)", snp).groups()
+        add(study_id="LinY2026", record_type="GWAS MTA", species="Amaranthus tricolor", population="95-line core collection",
+            trait="Leaf pigmentation", trait_original=trait, locus_name=snp, marker=snp,
+            chromosome=str(int(ch)) if int(ch) else "unplaced", peak_bp=pos, reference_genome="A. tricolor cv. Bayam (ATR1.0)",
+            environment=season, method="GWAS (FarmCPU / BLINK)", candidate_gene=cand,
+            note="position from the SNP ID (chromosome_position, as in the paper's SNP table); 6 of the 45 significant SNPs are named in the text",
+            source=BIORXIV + "; Results")
+    for sc, eff, act in [("4", "0.09 g biomass", "dominant"), ("12", "0.06 g biomass per allele", "additive")]:
+        add(study_id="Murphy2021", record_type="QTL", species="Amaranthus tuberculatus",
+            population="pseudo-F2 from intermated R x S F1 (N = 276)", trait="HPPD-inhibitor (tembotrione) resistance",
+            trait_original="HPPD-inhibitor resistance", locus_name=f"qHPPD-Sc{sc}", chromosome=sc,
+            reference_genome="A. tuberculatus female reference (Kreiner et al. 2019)", additive_effect=eff,
+            method="QTL-seq (QTLseqr) + marker validation", note=f"{act}; scaffold-level only, interval given in a table not in the text",
+            source="bioRxiv full text of the preprint (10.1101/2021.06.11.448079)")
+
+
+def mineral_genes():
+    """Candidate genes the mineral GWAS lists per stable MTA (Additional file 6)."""
+    import glob
+    genes = {}
+    for f in glob.glob(P("PMC13005450", "supp_tables", "*MOESM6*.tsv")):
+        for r in rows(f)[1:]:
+            if len(r) >= 4 and ":" in r[0]:
+                genes.setdefault((r[0], r[1]), []).append(f"{r[2]} ({r[3][:40]})")
+    for rec in REC:
+        if rec["study_id"] == "Prabhakaran2026":
+            g = genes.get((rec["locus_name"], rec["trait_original"]))
+            if g:
+                rec["candidate_gene"] = "; ".join(g)
+
+
+def new_2026_research():
+    """Studies found by the deep literature review (October 2026)."""
+    best = {}
+    for r in rows(P("PMC13240694", "tables", "table_01.tsv"))[1:]:
+        if len(r) < 7 or not r[1].startswith("Chr"):
+            continue
+        pos = r[2].replace(" ", "").replace("\u202f", "")
+        key = (r[1], pos)
+        pval = float(r[3].replace("\u2212", "-").replace("E\u2212", "E-").replace("−", "-"))
+        cur = best.get(key)
+        if cur is None or pval < cur["p"]:
+            best[key] = {"p": pval, "pve": r[6], "maf": r[4], "models": set(), "block": r[7] if len(r) > 7 else "",
+                         "genes": r[8] if len(r) > 8 else "", "annot": r[9] if len(r) > 9 else ""}
+        best[key]["models"].add("FarmCPU" if r[5] == "armCPU" else r[5])
+    for (chrom, pos), b in sorted(best.items()):
+        c = str(int(chrom.replace("Chr", "")))
+        add(study_id="Laforest2026", record_type="GWAS MTA", species="Amaranthus tuberculatus",
+            population="152 plants of population 714 (85 resistant, 67 susceptible), Quebec", trait="Mesotrione (HPPD) resistance",
+            trait_original="mesotrione resistance", locus_name=f"{chrom}_{pos}", marker=f"{chrom}_{pos}",
+            chromosome=c if c != "0" else "unplaced", peak_bp=pos, reference_genome="A. tuberculatus reference (AmaTu_Ref)",
+            p_value=f"{b['p']:.3g}", pve=b["pve"], method="GWAS (" + ", ".join(sorted(b["models"])) + "); lowest P shown",
+            candidate_gene=" ".join(b["genes"].split()[:6]), note=f"MAF {b['maf']}; linkage block {b['block']}".strip(),
+            source="Table 1")
+    for chrom, pos, p in [("3", 24609596, "1.7481e-20"), ("3", 24595358, "6.8453e-17"), ("4", 13423105, "1.0254e-08"), ("16", 7114501, "1.0704e-17")]:
+        add(study_id="Raiyemo2025PJ", record_type="GWAS MTA", species="Amaranthus palmeri", population="RAD-seq panel of known-sex plants",
+            trait="Sex (male/female)", trait_original="sex", locus_name=f"Chr{chrom}_{pos}", chromosome=chrom, peak_bp=pos,
+            reference_genome="A. palmeri Hap1 (Raiyemo et al. 2025)", p_value=p, method="GWA, Bonferroni threshold",
+            source="Results text (sentence copied from the full text)")
+    add(study_id="Raiyemo2025PJ", record_type="Sex-linked region", species="Amaranthus palmeri", population="male Hap1 vs Hap2",
+        trait="Sex (male/female)", trait_original="sex-determining region", locus_name="MSY (hemizygous SDR)", chromosome="3",
+        start_bp=22994134, end_bp=25836006, reference_genome="A. palmeri Hap1 (Raiyemo et al. 2025)",
+        method="hemizygosity + GWA", candidate_gene="AmaPaChr03Ag063970 (RF1); AmaPaChr03Ag063980 (TLC)",
+        note="~2.84 Mb, 37 genes; replaces the ~1.3 Mb draft MSY", source="Results text")
+    add(study_id="CarvalhoMoore2025", record_type="Resistance gene locus", species="Amaranthus palmeri", population="glufosinate- and glyphosate-resistant MSR2",
+        trait="Glufosinate resistance", trait_original="GS2 native locus (amplified on eccDNA)", locus_name="GS2.1/GS2.2 native locus",
+        chromosome="15", start_bp=9240010, end_bp=9283115, reference_genome="A. palmeri Hap1 (Raiyemo et al. 2025)",
+        method="long-read assembly of eccDNA, synteny to the genome", candidate_gene="GS2.1; GS2.2 (tandem)",
+        note="source region copied onto the resistance eccDNA; EPSPS native locus on Chr07 (position not given)", source="Results text")
+
+
 def main():
-    for f in (zaelani, werle, rigon, lightfoot, stetter, jamalluddin, lin, amahysnp, prabhakaran, chauhan, kreiner_ft, sex):
+    for f in (zaelani, werle, rigon, lightfoot, stetter, jamalluddin, lin, amahysnp, prabhakaran, chauhan, kreiner_ft, sex, preprints, mineral_genes, new_2026_research):
         before = len(REC)
         f()
         print(f"{f.__name__:12s} {len(REC) - before:4d} records")

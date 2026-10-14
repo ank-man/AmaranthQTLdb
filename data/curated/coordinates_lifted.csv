@@ -345,3 +345,48 @@ AQ00304,Kreiner2025Sex,Atub_Walpole_hap2,1,40000000,43500000,,Atub_hap1,1,CM1368
 AQ00305,Neves2020,Apal_BASF,,,,,,,,,,,not converted: no source assembly / position
 AQ00306,Montgomery2021,,,,,,,,,,,,not converted: no source assembly / position
 AQ00307,Montgomery2021,,,,,,,,,,,,not converted: no source assembly / position
+AQ00308,Ludwig2026,Ahyp_v3,10,11911867,12485518,,Ahyp_v3,10,OZ364111.1,11911867,12485518,,ok
+AQ00308,Ludwig2026,Ahyp_v3,10,11911867,12485518,,Ahyp_v2.0,Scaffold_10,Scaffold_10,14609799,15064891,,ok
+AQ00309,Ludwig2026,Ahyp_v3,6,20322569,24290483,,Ahyp_v3,6,OZ364107.1,20322569,24290483,,ok
+AQ00309,Ludwig2026,Ahyp_v3,6,20322569,24290483,,Ahyp_v2.0,Scaffold_6,Scaffold_6,19492444,23477038,,ok
+AQ00310,Winkler2026,Ahyp_v3,9,17655000,17971000,,Ahyp_v3,9,OZ364110.1,17655000,17971000,,ok
+AQ00310,Winkler2026,Ahyp_v3,9,17655000,17971000,,Ahyp_v2.0,Scaffold_9,Scaffold_9,14400589,14759100,,ok
+AQ00311,Winkler2026,Ahyp_v3,3,,,,Ahyp_v3,,,,,,not converted: position not in an alignment block
+AQ00311,Winkler2026,Ahyp_v3,3,,,,Ahyp_v2.0,,,,,,not converted: position not in an alignment block
+AQ00312,Winkler2026,Ahyp_v3,9,17791000,17971000,,Ahyp_v3,9,OZ364110.1,17791000,17971000,,ok
+AQ00312,Winkler2026,Ahyp_v3,9,17791000,17971000,,Ahyp_v2.0,Scaffold_9,Scaffold_9,14572723,14759100,,ok
+AQ00313,Winkler2026,Ahyp_v3,6,,,,Ahyp_v3,,,,,,not converted: position not in an alignment block
+AQ00313,Winkler2026,Ahyp_v3,6,,,,Ahyp_v2.0,,,,,,not converted: position not in an alignment block
+AQ00314,Winkler2026,Ahyp_v3,11,,,,Ahyp_v3,,,,,,not converted: position not in an alignment block
+AQ00314,Winkler2026,Ahyp_v3,11,,,,Ahyp_v2.0,,,,,,not converted: position not in an alignment block
+AQ00315,Winkler2026,Ahyp_v3,9,,,,Ahyp_v3,,,,,,not converted: position not in an alignment block
+AQ00315,Winkler2026,Ahyp_v3,9,,,,Ahyp_v2.0,,,,,,not converted: position not in an alignment block
+AQ00316,Winkler2024,Ahyp_v2.2,16,1,5244109,,Ahyp_v3,16,OZ364117.1,6663,5190783,,ok; outside alignment (21167 bp to nearest block)
+AQ00316,Winkler2024,Ahyp_v2.2,16,1,5244109,,Ahyp_v2.0,Scaffold_16,Scaffold_16,4183,5243774,,ok; outside alignment (4154 bp to nearest block)
+AQ00317,Winkler2024,Ahyp_v2.2,16,1080628,14358251,3205818,Ahyp_v3,16,OZ364117.1,1035200,14552428,3166460,ok
+AQ00317,Winkler2024,Ahyp_v2.2,16,1080628,14358251,3205818,Ahyp_v2.0,Scaffold_16,Scaffold_16,1080461,14354031,3205504,ok
+AQ00318,LinY2026,,3,,,5131103,,,,,,,not converted: no source assembly / position
+AQ00319,LinY2026,,6,,,11090793,,,,,,,not converted: no source assembly / position
+AQ00320,LinY2026,,13,,,174259,,,,,,,not converted: no source assembly / position
+AQ00321,LinY2026,,17,,,6168377,,,,,,,not converted: no source assembly / position
+AQ00322,LinY2026,,unplaced,,,181109920,,,,,,,not converted: no source assembly / position
+AQ00323,LinY2026,,12,,,6719988,,,,,,,not converted: no source assembly / position
+AQ00324,Murphy2021,Atub_Kreiner2019,4,,,,Atub_hap1,,,,,,not converted: position not in an alignment block
+AQ00325,Murphy2021,Atub_Kreiner2019,12,,,,Atub_hap1,,,,,,not converted: position not in an alignment block
+AQ00326,Laforest2026,Atub_hap1,unplaced,,,4555459,Atub_hap1,,,,,4555459,ok
+AQ00327,Laforest2026,Atub_hap1,unplaced,,,4605586,Atub_hap1,,,,,4605586,ok
+AQ00328,Laforest2026,Atub_hap1,6,,,69381,Atub_hap1,6,CM136832.1,,,69381,ok
+AQ00329,Laforest2026,Atub_hap1,8,,,12751902,Atub_hap1,8,CM136834.1,,,12751902,ok
+AQ00330,Laforest2026,Atub_hap1,8,,,8328744,Atub_hap1,8,CM136834.1,,,8328744,ok
+AQ00331,Laforest2026,Atub_hap1,9,,,19488907,Atub_hap1,9,CM136835.1,,,19488907,ok
+AQ00332,Laforest2026,Atub_hap1,12,,,20355278,Atub_hap1,12,CM136838.1,,,20355278,ok
+AQ00333,Laforest2026,Atub_hap1,12,,,4941960,Atub_hap1,12,CM136838.1,,,4941960,ok
+AQ00334,Laforest2026,Atub_hap1,13,,,11306035,Atub_hap1,13,CM136839.1,,,11306035,ok
+AQ00335,Laforest2026,Atub_hap1,13,,,21037430,Atub_hap1,13,CM136839.1,,,21037430,ok
+AQ00336,Laforest2026,Atub_hap1,14,,,25693063,Atub_hap1,14,CM136840.1,,,25693063,ok
+AQ00337,Raiyemo2025PJ,Apal_hap1,3,,,24609596,Apal_hap1,3,CM122058.1,,,24609596,ok
+AQ00338,Raiyemo2025PJ,Apal_hap1,3,,,24595358,Apal_hap1,3,CM122058.1,,,24595358,ok
+AQ00339,Raiyemo2025PJ,Apal_hap1,4,,,13423105,Apal_hap1,4,CM122059.1,,,13423105,ok
+AQ00340,Raiyemo2025PJ,Apal_hap1,16,,,7114501,Apal_hap1,16,CM122071.1,,,7114501,ok
+AQ00341,Raiyemo2025PJ,Apal_hap1,3,22994134,25836006,,Apal_hap1,3,CM122058.1,22994134,25836006,,ok
+AQ00342,CarvalhoMoore2025,Apal_hap1,15,9240010,9283115,,Apal_hap1,15,CM122070.1,9240010,9283115,,ok

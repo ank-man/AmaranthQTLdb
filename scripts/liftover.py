@@ -53,18 +53,20 @@ ASSEMBLIES = {
     "Apal_BASF": ("Amaranthus palmeri", "BASF male draft scaffolds (Montgomery et al. 2020)", "coge_55760.fa", "{}", "CoGe gid 55760"),
     "Apal_hap1": ("Amaranthus palmeri", "IWGC hap1 v01", "GCA_051800445.1.zip", None, "NCBI GCA_051800445.1"),
 }
-PAIRS = [("Ahyp_v2.0", "Ahyp_v3", "asm5"), ("Ahyp_v2.2", "Ahyp_v3", "asm5"), ("Ahyp_v2.2", "Ahyp_v2.0", "asm5"),
+PAIRS = [("Ahyp_v2.0", "Ahyp_v3", "asm5"), ("Ahyp_v2.2", "Ahyp_v3", "asm5"), ("Ahyp_v2.2", "Ahyp_v2.0", "asm5"), ("Ahyp_v3", "Ahyp_v2.0", "asm5"),
          ("Atub_Kreiner2019", "Atub_hap1", "asm20"), ("Atub_Walpole_hap2", "Atub_hap1", "asm20"),
          ("Apal_BASF", "Apal_hap1", "asm20")]
 
 # reference_genome text in loci.csv -> assembly key
 SOURCE_OF = [
+    (r"^A\. hypochondriacus v3", "Ahyp_v3"),
     (r"^A\. hypochondriacus v2\.2", "Ahyp_v2.2"),
     (r"^A\. hypochondriacus (v2\.1|v2 |v2$|PGA2)", "Ahyp_v2.0"),
     (r"Kreiner et al\. 2019", "Atub_Kreiner2019"),
     (r"Atub_193", "Atub_Walpole_hap2"),
-    (r"AmaTu_Ref|Hap1 \(Raiyemo", "Atub_hap1"),
+    (r"AmaTu_Ref|tuberculatus Hap1", "Atub_hap1"),
     (r"A\. palmeri draft", "Apal_BASF"),
+    (r"A\. palmeri Hap1", "Apal_hap1"),
 ]
 TARGET_OF = {"Amaranthus hypochondriacus": "Ahyp_v3", "Amaranthus tuberculatus": "Atub_hap1", "Amaranthus palmeri": "Apal_hap1"}
 

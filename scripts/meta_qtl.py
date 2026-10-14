@@ -57,11 +57,11 @@ TRAIT_GROUP = {
     "Seed albumin": "Seed protein", "Seed globulin": "Seed protein", "Seed glutelin": "Seed protein",
     "Seed total protein": "Seed protein",
     "Grain calcium": "Grain calcium", "Grain iron": "Grain iron", "Grain magnesium": "Grain magnesium",
-    "Grain zinc": "Grain zinc",
+    "Grain zinc": "Grain zinc", "Seed dormancy": "Seed dormancy",
 }
 ABBR = {"Flowering time": "FT", "Betalain pigmentation": "BET", "Seed coat color": "SCC", "Plant height": "PH",
         "Stem diameter": "SD", "Number of nodes": "NN", "Branching": "BI", "Leaf shape": "LS", "Seed protein": "PRO",
-        "Grain calcium": "CA", "Grain iron": "FE", "Grain magnesium": "MG", "Grain zinc": "ZN"}
+        "Seed dormancy": "DOR", "Grain calcium": "CA", "Grain iron": "FE", "Grain magnesium": "MG", "Grain zinc": "ZN"}
 
 
 def f(x):
@@ -130,7 +130,8 @@ def main():
     lifted = os.path.join(CUR, "coordinates_lifted.csv")
     if os.path.exists(lifted):
         conv = {x["locus_id"]: x for x in csv.DictReader(open(lifted))
-                if x.get("source_assembly") == "Ahyp_v2.2" and x.get("target_assembly") == "Ahyp_v2.0"
+                if x.get("source_assembly", "").startswith("Ahyp") and x.get("source_assembly") != "Ahyp_v2.0"
+                and x.get("target_assembly") == "Ahyp_v2.0"
                 and x["status"].startswith("ok")}
         n = 0
         for r in R:
@@ -140,9 +141,9 @@ def main():
                 for a, b in (("start_bp", "target_start"), ("end_bp", "target_end"), ("peak_bp", "target_peak")):
                     if r[a]:
                         r[a] = c[b]
-                r["reference_genome"] = "A. hypochondriacus v2.1 (lifted from v2.2)"
+                r["reference_genome"] = f"A. hypochondriacus v2.1 (lifted from {c['source_assembly'].split('_')[1]})"
                 n += 1
-        print(f"{n} v2.2 loci placed on v2.0/v2.1 by liftover")
+        print(f"{n} v2.2 / v3 loci placed on v2.0/v2.1 by liftover")
     ah = [r for r in R if r["reference_genome"].startswith("A. hypochondriacus") and r["chromosome"].isdigit()]
     cells = defaultdict(list)
     for r in ah:

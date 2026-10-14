@@ -1,5 +1,5 @@
 assembly_key,species,assembly,source,downloaded,used_as_target_for
-Ahyp_v2.0,Amaranthus hypochondriacus,"v2.0 sequence / v2.1 annotation (PGA2, Lightfoot et al. 2017)",CoGe gid 34733 (= Phytozome Ahypochondriacus_459 v2.0),yes,Ahyp_v2.2
+Ahyp_v2.0,Amaranthus hypochondriacus,"v2.0 sequence / v2.1 annotation (PGA2, Lightfoot et al. 2017)",CoGe gid 34733 (= Phytozome Ahypochondriacus_459 v2.0),yes,Ahyp_v2.2; Ahyp_v3
 Ahyp_v2.2,Amaranthus hypochondriacus,v2.2 (polished PGA2),CoGe gid 66602,yes,
 Ahyp_v3,Amaranthus hypochondriacus,v3 (Ahypochondriacus_v3),NCBI GCA_977020195.1,yes,Ahyp_v2.0; Ahyp_v2.2
 Atub_Kreiner2019,Amaranthus tuberculatus,female reference (Kreiner et al. 2019),CoGe gid 54057,yes,

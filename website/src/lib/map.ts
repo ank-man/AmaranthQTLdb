@@ -12,6 +12,7 @@ export const TRAIT_CATEGORIES = [
   'Seed minerals',
   'Herbicide resistance',
   'Sex determination',
+  'Seed dormancy',
 ] as const
 
 export type TraitCategory = (typeof TRAIT_CATEGORIES)[number]
@@ -31,6 +32,7 @@ export const TRAIT_COLORS: Record<TraitCategory, string> = {
   'Seed minerals': '#56B4E9',
   'Herbicide resistance': '#D55E00',
   'Sex determination': '#882255',
+  'Seed dormancy': '#999933',
 }
 
 export function centromerePosition(_chromosome: string): number | null {
