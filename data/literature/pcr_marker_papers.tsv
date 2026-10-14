@@ -1,0 +1,30 @@
+year	source	doi	pmcid	open_access	title	assay
+2001	AGR	10.1614/0043-1745(2001)049[0598:ihagfo]2.0.co;2		N	Interspecific hybridization and gene flow of ALS resistance in Amaranthus species	
+2005	MED	10.1038/sj.hdy.6800563		N	Amaranthus hybridus can be pollinated frequently by A. tuberculatus under field conditions.	
+2005	MED	10.1111/j.1365-294x.2005.02581.x		N	Fertility, segregation at a herbicide-resistance locus, and genome structure in BC hybrids from two important weedy Amaranthus species.	
+2008	AGR	10.1614/ws-07-194.1		N	Prevalence of a Novel Resistance Mechanism to PPO-Inhibiting Herbicides in Waterhemp (Amaranthus tuberculatus)	allele-specific
+2009	AGR	10.1614/ws-09-021.1		N	Sampling the Waterhemp (Amaranthus tuberculatus) Genome Using Pyrosequencing Technology	pyrosequencing
+2010	MED	10.1002/ps.2006		N	Characterization of de novo transcriptome for waterhemp (Amaranthus tuberculatus) using GS-FLX 454 pyrosequencing and its application for studies of herbicide target-site genes.	pyrosequencing
+2011	MED	10.1186/1471-2164-12-363	PMC3146458	Y	Transcriptomic analysis of grain amaranth (Amaranthus hypochondriacus) using 454 pyrosequencing: comparison with A. tuberculatus, expression profiling in stems and in response to biotic and abiotic stress.	pyrosequencing
+2014	MED	10.1007/s11033-014-3628-1		N	Genetic improvement of purslane (Portulaca oleracea L.) and its future prospects.	
+2015	AGR	10.1614/ws-d-15-00037.1		N	Distribution of the ΔG210 Protoporphyrinogen Oxidase Mutation in Illinois Waterhemp (Amaranthus tuberculatus) and an Improved Molecular Method for Detection	allele-specific; taqman
+2017	AGR	10.1017/wsc.2017.1		N	Multiple Resistance to Glyphosate and Acetolactate Synthase Inhibitors in Palmer Amaranth (Amaranthus palmeri) Identified in Brazil	
+2017	AGR	10.1614/ws-d-16-00090.1		N	Target-Site Resistances to ALS and PPO Inhibitors Are Linked in Waterhemp (Amaranthus tuberculatus)	
+2017	MED	10.1002/ps.4581		N	Two new PPX2 mutations associated with resistance to PPO-inhibiting herbicides in Amaranthus palmeri.	dcaps
+2018	AGR	10.1017/wsc.2017.68		N	A Statewide Survey of PPO-Inhibitor Resistance and the Prevalent Target-Site Mechanisms in Palmer amaranth (Amaranthus palmeri) Accessions from Arkansas	taqman
+2018	AGR	10.1017/wsc.2018.60		N	Confirmation and Characterization of Non–Target Site Resistance to Fomesafen in Palmer Amaranth (Amaranthus palmeri)	taqman
+2019	AGR	10.1017/wsc.2019.41		N	Coevolution of Resistance to PPO Inhibitors in Waterhemp (Amaranthus tuberculatus) and Palmer Amaranth (Amaranthus palmeri)	
+2019	AGR	10.1016/j.pmpp.2018.08.004		N	Diversity of Meloidogyne spp. from peri-urban areas of sub-Saharan Africa and their genetic similarity with populations from the Latin America	scar
+2019	AGR	10.1017/wsc.2019.29		N	Protoporphyrinogen Oxidase (PPO) Inhibitor–Resistant Waterhemp (Amaranthus tuberculatus) from Nebraska is Multiple Herbicide Resistant: Confirmation, Mechanism of Resistance, and Management	kasp
+2019	MED	10.1371/journal.pone.0216001	PMC6483260	Y	RNA-sequencing analysis reveals betalains metabolism in the leaf of Amaranthus tricolor L.	
+2019	AGR	10.1017/wsc.2019.27		N	Sex-Specific Markers for Waterhemp (Amaranthus tuberculatus) and Palmer Amaranth (Amaranthus palmeri)	sex-specific
+2020	MED	10.1002/ps.5667		N	A family affair: resistance mechanism and alternative control of three Amaranthus species resistant to acetolactate synthase inhibitors in Italy.	
+2020	AGR	10.1017/wsc.2020.4		N	Differences in Efficacy, Resistance Mechanism and Target Protein Interaction between Two PPO Inhibitors in Palmer Amaranth (Amaranthus palmeri)	taqman
+2022	PPR	10.1101/2022.01.21.477186		N	Can double PPO mutations exist in a same allele and are such mutants functional?	pyrosequencing
+2022	MED	10.1002/ps.6850	PMC9314999	Y	Can double PPO mutations exist in the same allele and are such mutants functional?	pyrosequencing
+2023	MED	10.3390/plants12020332	PMC9860533	Y	Diversity and Spread of Acetolactate Synthase Allelic Variants at Position 574 Endowing Resistance in Amaranthus hybridus in Italy.	allele-specific
+2024	MED	10.1002/jsfa.13385		N	Development of a rapid detection assay for acetolactate synthase inhibitors resistance in three Amaranthus weed species through loop-mediated isothermal amplification.	allele-specific
+2024	AGR			N	Development of a rapid detection assay for acetolactate synthase inhibitors resistance in three Amaranthus weed species through loop‐mediated isothermal amplification	
+2025	MED	10.3390/plants14040515	PMC11858902	Y	Rapid Resistance Detection of Amaranthus retroflexus to Fomesafen via Kompetitive Allele-Specific PCR (KASP).	allele-specific; kasp
+2026	MED	10.1186/s12864-026-12595-0	PMC13005450	Y	Deciphering the genetic determinants of calcium, iron, magnesium and zinc accumulation in grain amaranth (Amaranthus hypochondriacus) through a multi environment GWAS approach.	
+2026	MED	10.3389/fnut.2026.1758193	PMC13008625	Y	Genetic architecture of seed protein composition in grain amaranth (Amaranthus hypochondriacus): a multi-environment genome-wide association study.	

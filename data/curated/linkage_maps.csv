@@ -1,0 +1,9 @@
+map_id,study_id,species,population,marker_type,markers,linkage_groups,total_cM,reference_genome,marker_positions,doi,source
+AT_Werle2025_CHRxWUS,Werle2025,Amaranthus tuberculatus,"F2 (188 plants), CHR x WUS","SNP (GBS, named by physical position)",1612,16,2575.5,A. tuberculatus reference (AmaTu_Ref),yes,10.1002/ps.8712,Supplementary Table S1 (PS-81-3464-s001.xlsx)
+AH_Lightfoot2017_RIL,Lightfoot2017,Amaranthus hypochondriacus,"RIL, PI 642741 x PI 481125",SNP (GBS),3510,16,1414.0,A. hypochondriacus PGA2 (v2.1),no (per-chromosome summary only),10.1186/s12915-017-0412-4,Additional file 3 Table S2
+AH_Zaelani2025_F2_Summer2023,Zaelani2025,Amaranthus hypochondriacus,"F2, Golden x Pygmy Torch (Summer2023)",SNP (ddRAD-seq),3692,16,5640.0,A. hypochondriacus v2.2,no (per-LG summary only),10.1270/jsbbs.25032,Supplemental Table 3 (75_392_s2.pdf)
+AH_Zaelani2025_F2_Autumn2023,Zaelani2025,Amaranthus hypochondriacus,"F2, Golden x Pygmy Torch (Autumn2023)",SNP (ddRAD-seq),3478,16,5970.4,A. hypochondriacus v2.2,no (per-LG summary only),10.1270/jsbbs.25032,Supplemental Table 3 (75_392_s2.pdf)
+AH_Zaelani2025_F2_Spring2024,Zaelani2025,Amaranthus hypochondriacus,"F2, Golden x Pygmy Torch (Spring2024)",SNP (ddRAD-seq),4234,16,6960.1,A. hypochondriacus v2.2,no (per-LG summary only),10.1270/jsbbs.25032,Supplemental Table 3 (75_392_s2.pdf)
+AH_Maughan2011_F2,Maughan2011,A. hypochondriacus x A. caudatus,interspecific F2,SNP (KASPar),411,16,1288,,no (publisher access blocked),10.3835/plantgenome2010.12.0027,abstract
+AC_Stetter2020_F2,Stetter2020,A. caudatus x A. quitensis,"F2 (206 plants), Oscar Blanco x PI 490705",SNP (GBS),,,,A. hypochondriacus v2.1,no (raw reads ENA PRJEB30533),10.1093/molbev/msz304,article text
+AT_Murphy2021_pseudoF2,Murphy2021,Amaranthus tuberculatus,pseudo-F2 (Nebraska HPPD-resistant population),SNP,,,,,no (paper not accessible),10.1002/ps.6560,abstract

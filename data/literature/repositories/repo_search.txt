@@ -1,0 +1,26 @@
+### Dryad: Amaranthus QTL
+### Zenodo: Amaranthus QTL
+### Dryad: Amaranthus GWAS
+### Zenodo: Amaranthus GWAS
+### Dryad: Amaranthus linkage map
+### Zenodo: Amaranthus linkage map
+### Dryad: amaranth genome-wide association
+### Zenodo: amaranth genome-wide association
+### Dryad: Amaranthus tuberculatus
+  doi:10.5061/dryad.jp13f | 2015-05-27 | Data from: Population genetics and origin of the native North American agricultural weed waterhemp (Amaranthus
+  doi:10.5061/dryad.vdncjsxr6 | 2020-09-01 | Data from: Agricultural adaptation in the native North American weed waterhemp, Amaranthus tuberculatus (Amara
+  doi:10.5061/dryad.43874 | 2011-07-29 | Data from: Interspecific hybridization transfers a previously unknown glyphosate resistance mechanism in Amara
+### Zenodo: Amaranthus tuberculatus
+### Dryad: Amaranthus palmeri
+  doi:10.5061/dryad.pzgmsbcmw | 2021-09-27 | Amaranthus palmeri EPSPS copy number and glyphosate resistance variation
+  doi:10.5061/dryad.8kprr4xwg | 2025-06-19 | Limits to the evolution of herbicide escape and tolerance in the agricultural weed Amaranthus palmeri
+  doi:10.5061/dryad.zpc866tc4 | 2022-11-22 | Potential distribution prediction of Amaranthus palmeri S. Watson in China under current and future climate sc
+  doi:10.5061/dryad.156j4 | 2019-03-01 | Data from: A phylogeny of the genus Amaranthus (Amaranthaceae), based on several low-copy nuclear loci and chl
+  doi:10.5061/dryad.43874 | 2011-07-29 | Data from: Interspecific hybridization transfers a previously unknown glyphosate resistance mechanism in Amara
+  doi:10.5061/dryad.vdncjsz8v | 2026-01-14 | Data from: Barley cover crops outperform brown mustard for early-season weed control in New Mexico chile peppe
+  doi:10.5061/dryad.sbcc2frjv | 2026-05-01 | Data and code from: Departures from Mendelian inheritance of EPSPS gene copies in a herbicide-resistant weed
+  doi:10.5061/dryad.rb7h0 | 2017-05-05 | Data from: A new resource for the development of SSR markers: millions of loci from a thousand plant transcrip
+### Zenodo: Amaranthus palmeri
+### Dryad: Amaranthus hypochondriacus
+  doi:10.5061/dryad.1bv83 | 2017-03-14 | Data from: Analysis of phylogenetic relationships and genome size evolution of the Amaranthus genus using GBS 
+### Zenodo: Amaranthus hypochondriacus

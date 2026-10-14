@@ -1,0 +1,9 @@
+assembly_key,species,assembly,source,downloaded,used_as_target_for
+Ahyp_v2.0,Amaranthus hypochondriacus,"v2.0 sequence / v2.1 annotation (PGA2, Lightfoot et al. 2017)",CoGe gid 34733 (= Phytozome Ahypochondriacus_459 v2.0),yes,Ahyp_v2.2
+Ahyp_v2.2,Amaranthus hypochondriacus,v2.2 (polished PGA2),CoGe gid 66602,yes,
+Ahyp_v3,Amaranthus hypochondriacus,v3 (Ahypochondriacus_v3),NCBI GCA_977020195.1,yes,Ahyp_v2.0; Ahyp_v2.2
+Atub_Kreiner2019,Amaranthus tuberculatus,female reference (Kreiner et al. 2019),CoGe gid 54057,yes,
+Atub_hap1,Amaranthus tuberculatus,hap1 v01 (Raiyemo et al. 2025),NCBI GCA_054443085.1,yes,Atub_Kreiner2019; Atub_Walpole_hap2
+Atub_Walpole_hap2,Amaranthus tuberculatus,Walpole hap2 / Atub_193 (Kreiner et al. 2025),NCBI GCA_060155655.1,yes,
+Apal_BASF,Amaranthus palmeri,BASF male draft scaffolds (Montgomery et al. 2020),CoGe gid 55760,yes,
+Apal_hap1,Amaranthus palmeri,IWGC hap1 v01,NCBI GCA_051800445.1,yes,Apal_BASF

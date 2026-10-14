@@ -1,0 +1,4 @@
+meta_qtl,trait_group,chromosome,position_bp,ci_start_bp,ci_end_bp,studies,study_ids,observations,loci,traits,record_types,candidate_genes,reference_genome,v3_chromosome,v3_position_bp,v3_ci_start_bp,v3_ci_end_bp
+MQTL-BET-16.1,Betalain pigmentation,16,5521559,5175076,5868041,2,Lightfoot2017; Zaelani2025,2,7,Hypocotyl color; Inflorescence color; Stem color (betalain),Mendelian locus; QTL,AH2023177 (DODA1); AH2023178 (CYP76AD1),A. hypochondriacus v2.x,16,5466993,5122084,5809935
+MQTL-FT-4.1,Flowering time,4,21563493,21181468,21945517,3,Lin2022; Singh2025; Zaelani2025,3,3,Anthesis date; Days to flowering,GWAS MTA; GWAS QTN; QTL,"AH007573; AH007639-RA, AH007640-RA",A. hypochondriacus v2.x,4,23606102,23223990,23986594
+MQTL-SCC-9.1,Seed coat color,9,14490877,14144395,14837359,2,Stetter2020; Zaelani2025,2,4,Seed coat color,QTL,AmMYBL1 (MYB-like transcription factor),A. hypochondriacus v2.x,9,17709066,17387568,18049284

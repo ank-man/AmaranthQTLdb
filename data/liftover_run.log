@@ -1,0 +1,11 @@
+  Ahyp_v2.0 -> Ahyp_v3: 7314 alignment blocks
+  Ahyp_v2.2 -> Ahyp_v3: 6020 alignment blocks
+  Ahyp_v2.2 -> Ahyp_v2.0: 4740 alignment blocks
+flank-aligning 39 positions Atub_Kreiner2019 -> Atub_hap1 ...
+  Atub_Kreiner2019 -> Atub_hap1: 33/39 positions aligned
+flank-aligning 2 positions Atub_Walpole_hap2 -> Atub_hap1 ...
+  Atub_Walpole_hap2 -> Atub_hap1: 1/2 positions aligned
+flank-aligning 19 positions Apal_BASF -> Apal_hap1 ...
+  Apal_BASF -> Apal_hap1: 17/19 positions aligned
+Counter({('Ahyp_v3', 'ok'): 247, ('Atub_hap1', 'ok'): 43, ('Ahyp_v2.0', 'ok'): 39, ('Apal_hap1', 'ok'): 7, ('Atub_hap1', 'not converted: position not in an alignment block'): 6, ('', 'not converted: no source assembly / position'): 3, ('Apal_hap1', 'interval ends on different target chromosomes'): 1})
+EXIT 0
