@@ -227,10 +227,13 @@ def main():
     from PIL import Image
     shutil.rmtree(FIG, ignore_errors=True)
     os.makedirs(FIG, exist_ok=True)
-    for f in glob.glob(os.path.join(ROOT, "figures", "species", "*.png")) + [os.path.join(ROOT, "figures", "linkage_map_A_tuberculatus_QTL.png")]:
+    for f in glob.glob(os.path.join(ROOT, "figures", "species", "*.png")) + [os.path.join(ROOT, "figures", "linkage_map_A_tuberculatus_QTL.png"),
+                                                                      os.path.join(ROOT, "figures", "database_flowchart.png")]:
         im = Image.open(f).convert("RGB")
         im.thumbnail((2200, 2200))
         im.save(os.path.join(FIG, os.path.basename(f)), optimize=True)
+    if os.path.exists(os.path.join(ROOT, "figures", "database_flowchart.svg")):
+        shutil.copy(os.path.join(ROOT, "figures", "database_flowchart.svg"), FIG)
     print(f"qtl {len(qtl)}, gwas {len(gwas)}, mqtl {len(mq)}, maps {len(maps)}, placed {summary['counts']['placed']}; "
           f"{len(glob.glob(os.path.join(FIG, '*.png')))} figures -> website/public")
 

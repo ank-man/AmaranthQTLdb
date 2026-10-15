@@ -5,6 +5,12 @@ export default function About() {
   return (
     <div>
       <PageHero eyebrow="About" title="About AmaranthQTLdb" subtitle="An open, source-traceable compilation of the genetic mapping results published for Amaranthus." variant="side" />
+      <figure className="card mb-6">
+        <a href={`${import.meta.env.BASE_URL}figures/database_flowchart.svg`} target="_blank" rel="noreferrer">
+          <img src={`${import.meta.env.BASE_URL}figures/database_flowchart.png`} alt="AmaranthQTLdb: sources, curation, data, analyses and website features" className="w-full" />
+        </a>
+        <figcaption className="mt-2 text-xs text-wheat-600">How the database is built: sources, curation and verification, data, analyses and the website. Click for the SVG.</figcaption>
+      </figure>
       <div className="card max-w-4xl space-y-4 text-sm leading-relaxed text-wheat-700">
         <p>
           Amaranths include pseudocereal grain crops (<em>A. hypochondriacus</em>, <em>A. cruentus</em>, <em>A. caudatus</em>),

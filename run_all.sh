@@ -16,5 +16,6 @@ $PY scripts/compile_pcr_markers.py     # validated_pcr_markers.csv
 Rscript scripts/plots.R                # grain-amaranth karyotype / circos (v2.1) and linkage map figure
 Rscript scripts/plots_species.R        # karyotype + circos for every species on its current assembly
 $PY scripts/finish_figures.py
+Rscript scripts/flowchart.R            # figures/database_flowchart.svg/.png (+ .jpeg)
 $PY scripts/export_site_data.py        # website/public/data, figures, src/lib/genomes.json
 (cd website && npm run build)          # website/dist
