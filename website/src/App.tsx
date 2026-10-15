@@ -17,6 +17,7 @@ import Map from './pages/Map'
 import LiteraturePage from './pages/LiteraturePage'
 import LinkageMapsPage from './pages/LinkageMapsPage'
 import MarkersPage from './pages/MarkersPage'
+import RNASeqPage from './pages/RNASeqPage'
 import AssembliesPage from './pages/AssembliesPage'
 import FiguresPage from './pages/FiguresPage'
 import AdvancedSearch from './pages/AdvancedSearch'
@@ -41,6 +42,7 @@ export default function App() {
         <Route path="/literature" element={<LiteraturePage />} />
         <Route path="/linkage-maps" element={<LinkageMapsPage />} />
         <Route path="/markers" element={<MarkersPage />} />
+        <Route path="/rnaseq" element={<RNASeqPage />} />
         <Route path="/assemblies" element={<AssembliesPage />} />
         <Route path="/figures" element={<FiguresPage />} />
         <Route path="/map" element={<Map />} />

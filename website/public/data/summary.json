@@ -1,5 +1,5 @@
 {
- "built": "2026-10-14",
+ "built": "2026-10-15",
  "counts": {
   "loci": 342,
   "qtl": 76,
@@ -12,6 +12,8 @@
   "map_markers": 16937,
   "pcr_markers": 20,
   "inheritance": 14,
+  "rnaseq_studies": 46,
+  "rnaseq_bioprojects": 57,
   "species": 7,
   "traits": 31,
   "placed": 318,

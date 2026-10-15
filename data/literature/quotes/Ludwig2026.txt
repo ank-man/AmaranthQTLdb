@@ -1,0 +1,6 @@
+Source: bioRxiv 10.64898/2026.01.08.698315 v2 full text (sentences quoted verbatim, fetched 2026-10-14)
+"We recorded the flowering time of the parental lines and 449 RILs in the field in Cologne, Germany."
+"The parental accessions (mean days till flowering: PI 558499, 71.4 days; PI 604581, 114 days)"
+"one on chromosome 10 (11,911,867 bp to 12,485,518 bp, 44 genes; one LOD range)"
+"one on chromosome 6 (20,322,569 bp to 24,290,483 bp, 382 genes; one LOD range;"
+Effects as reported: early-parent genotype 16.4 days (chr 10) and 11.5 days (chr 6) earlier than the population mean; candidates AHq016812 (TOE2 ortholog), AHq011814 (FT ortholog), AHq011570 (KHZ1 ortholog).

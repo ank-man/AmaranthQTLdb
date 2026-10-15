@@ -167,6 +167,9 @@ def main():
     wr("consensus_status.csv", rd("consensus_status.csv"))
 
     wr("markers.csv", rd("validated_pcr_markers.csv"))
+    wr("rnaseq_studies.csv", rd("rnaseq_studies.csv"))
+    wr("rnaseq_datasets.csv", rd("rnaseq_datasets.csv"))
+    wr("rnaseq_metaqtl_support.csv", rd("rnaseq_metaqtl_support.csv"))
     wr("inheritance.csv", rd("inheritance_studies.csv"))
     lit = []
     for s in studies.values():
@@ -206,7 +209,8 @@ def main():
         "counts": {"loci": len(allrec), "qtl": len(qtl), "gwas": len(gwas), "studies_extracted": sum(1 for s in studies.values() if s["extracted"] == "yes"),
                    "studies_listed": len(studies), "mqtl": len(mq), "clusters": len(rd("qtl_clusters.csv")), "maps": len(maps),
                    "map_markers": sum(int(m["n_loci"] or 0) for m in maps), "pcr_markers": len({m["marker"] for m in rd("validated_pcr_markers.csv")}),
-                   "inheritance": len(rd("inheritance_studies.csv")), "species": len(by_sp), "traits": len({r["parameter"] for r in allrec}),
+                   "inheritance": len(rd("inheritance_studies.csv")), "rnaseq_studies": len(rd("rnaseq_studies.csv")),
+                   "rnaseq_bioprojects": len(rd("rnaseq_datasets.csv")), "species": len(by_sp), "traits": len({r["parameter"] for r in allrec}),
                    "placed": sum(1 for r in allrec if r["map_bp"]), "suggestive": sum(1 for r in allrec if r["evidence"].startswith("suggestive"))},
         "by_species": dict(by_sp.most_common()), "by_category": dict(by_cat), "by_record_type": dict(by_type),
         "top_traits": dict(top), "per_chromosome": per_chr,

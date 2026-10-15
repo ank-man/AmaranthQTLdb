@@ -1,0 +1,1307 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="pld370105" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Plant Direct</journal-id><journal-id journal-id-type="iso-abbrev">Plant Direct</journal-id><journal-id journal-id-type="pmc-domain-id">3655</journal-id><journal-id journal-id-type="pmc-domain">plantdirect</journal-id><journal-id journal-id-type="nlm-id">101716131</journal-id><journal-id journal-id-type="publisher-id">PLD3</journal-id><journal-title-group><journal-title>Plant Direct</journal-title></journal-title-group><issn pub-type="epub">2475-4455</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12426415</article-id><article-id pub-id-type="pmcid-ver">PMC12426415.1</article-id><article-id pub-id-type="pmcaid">12426415</article-id><article-id pub-id-type="pmcaiid">12426415</article-id><article-id pub-id-type="pmid">40950555</article-id><article-id pub-id-type="doi">10.1002/pld3.70105</article-id><article-id pub-id-type="publisher-id">PLD370105</article-id><article-id pub-id-type="other">2025-01709</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Determination of the Mechanisms of MCPA Resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content>
+</article-title></title-group><contrib-group><contrib id="pld370105-cr-0001" contrib-type="author" corresp="yes"><name name-style="western"><surname>Aicklen</surname><given-names initials="I">Isabelle</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-5120-3463</contrib-id><xref rid="pld370105-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><address><email>iaicklen@uoguelph.ca</email></address></contrib><contrib id="pld370105-cr-0002" contrib-type="author"><name name-style="western"><surname>Jugulam</surname><given-names initials="M">Mithila</given-names></name><xref rid="pld370105-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="pld370105-cr-0003" contrib-type="author"><name name-style="western"><surname>Gaines</surname><given-names initials="T">Todd</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-1485-7665</contrib-id><xref rid="pld370105-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="pld370105-cr-0004" contrib-type="author"><name name-style="western"><surname>Kramer</surname><given-names initials="W">William</given-names></name><xref rid="pld370105-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="pld370105-cr-0005" contrib-type="author"><name name-style="western"><surname>Laforest</surname><given-names initials="M">Martin</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-6066-5117</contrib-id><xref rid="pld370105-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="pld370105-cr-0006" contrib-type="author"><name name-style="western"><surname>Robinson</surname><given-names initials="D">Darren</given-names></name><xref rid="pld370105-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="pld370105-cr-0007" contrib-type="author"><name name-style="western"><surname>Sikkema</surname><given-names initials="P">Peter</given-names></name><xref rid="pld370105-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref></contrib><contrib id="pld370105-cr-0008" contrib-type="author"><name name-style="western"><surname>Tardif</surname><given-names initials="F">François</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-3023-1937</contrib-id><xref rid="pld370105-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="pld370105-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<named-content content-type="organisation-division">Department of Plant Agriculture</named-content>
+<institution>University of Guelph</institution>
+<city>Guelph</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="pld370105-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<named-content content-type="organisation-division">Department of Soil and Crop Sciences</named-content>
+<institution>Texas A&amp;M University</institution>
+<city>College Station</city>
+<named-content content-type="country-part">Texas</named-content>
+<country country="US">USA</country>
+</aff><aff id="pld370105-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Agricultural Biology</named-content>
+<institution>Colorado State University</institution>
+<city>Fort Collins</city>
+<named-content content-type="country-part">Colorado</named-content>
+<country country="US">USA</country>
+</aff><aff id="pld370105-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Agriculture and Agri‐Food Canada</named-content>
+<institution>Saint‐Jean‐sur‐Richelieu Research and Development Centre</institution>
+<city>Saint‐Jean‐sur‐Richelieu</city>
+<named-content content-type="country-part">Québec</named-content>
+<country country="CA">Canada</country>
+</aff><aff id="pld370105-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<named-content content-type="organisation-division">Department of Plant Agriculture</named-content>
+<institution>University of Guelph</institution>
+<city>Ridgetown</city>
+<named-content content-type="country-part">Ontario</named-content>
+<country country="CA">Canada</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold>
+<break/>
+Isabelle Aicklen (<email>iaicklen@uoguelph.ca</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>11</day><month>9</month><year>2025</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2025</year></pub-date><volume>9</volume><issue seq="60">9</issue><issue-id pub-id-type="pmc-issue-id">496747</issue-id><issue-id pub-id-type="doi">10.1002/pld3.v9.9</issue-id><elocation-id>e70105</elocation-id><history>
+<date date-type="rev-recd"><day>09</day><month>5</month><year>2025</year></date>
+<date date-type="received"><day>13</day><month>1</month><year>2025</year></date>
+<date date-type="accepted"><day>25</day><month>8</month><year>2025</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>11</day><month>09</month><year>2025</year></date></event><event event-type="pmc-live"><date><day>13</day><month>09</month><year>2025</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-09-25 13:11:25.977"><day>25</day><month>09</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2025 The Author(s). <italic toggle="yes">Plant Direct</italic> published by American Society of Plant Biologists and the Society for Experimental Biology and John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="PLD3-9-e70105.pdf"><?pdf-name PLD3-9-e70105.pdf?><?pdf-size 3055054?><?pdf-md5 35b204531ecd5df3e4ab27f1a86a5f50?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:4124/12426415/35b204531ecd/PLD3-9-e70105.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:PLD3-9-e70105.pdf"/><abstract><title>ABSTRACT</title><p>Resistance to 2‐methyl‐4‐chloro‐phenoxyacetic acid (MCPA) was recently confirmed in a population of green pigweed (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content>) from Dresden, Ontario, Canada, with a resistance factor of 4.4. Resistance to synthetic auxin herbicides in <italic toggle="yes">Amaranthus</italic> species has previously been linked to non‐target site resistance mechanisms with low‐level resistance factors (&lt; 10). Based on this information, an investigation into the mechanism of resistance to MCPA was conducted in this population of green pigweed. No significant differences in absorption, translocation, and metabolism of <sup>14</sup>C‐MCPA existed between the resistant and a susceptible population of green pigweed. An RNA‐Sequencing experiment to identify differentially expressed genes also confirmed this result. Genes that were differentially expressed in the resistant population were linked to target site modifications. A single nucleotide polymorphism (SNP) conferring a leucine to phenylalanine substitution was identified in auxin response factor (ARF) 9. This mutation may be in the Phox and Bem1p (PB1) domain in ARF9, which facilitates the interaction between ARFs and Aux/IAA repressor proteins. The results demonstrate that the mechanism of resistance to MCPA is not a non‐target site mechanism and may be linked to a target site modification. Specifically, a SNP in ARF9 could disrupt the interaction between ARF9 and other Aux/IAAs, which could prevent ubiquitination of Aux/IAAs and subsequent lethal action of MCPA.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="pld370105-kwd-0001">2‐methyl‐4‐chloro‐phenoxyacetic acid</kwd><kwd id="pld370105-kwd-0002">non‐target site resistance</kwd><kwd id="pld370105-kwd-0003">radiolabelled herbicide</kwd><kwd id="pld370105-kwd-0004">RNA sequencing</kwd><kwd id="pld370105-kwd-0005">SNP</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Grain Farmers of Ontario</institution><institution-id institution-id-type="doi">10.13039/100013379</institution-id></institution-wrap>
+</funding-source></award-group><award-group id="funding-0002"><funding-source>
+<institution-wrap><institution>Ontario Agri‐Food Innovation Alliance</institution></institution-wrap>
+</funding-source></award-group><award-group id="funding-0003"><funding-source>
+<institution-wrap><institution>Schneller and Summers Scholarship</institution></institution-wrap>
+</funding-source></award-group></funding-group><counts><fig-count count="7"/><table-count count="3"/><page-count count="17"/><word-count count="10900"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>September 2025</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.6.2 mode:remove_FC converted:12.09.2025</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="pld370105-cit-1001">
+<string-name name-style="western">
+<surname>Aicklen</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jugulam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Gaines</surname>
+</string-name>, et al. <year>2025</year>. “<article-title>Determination of the Mechanisms of MCPA Resistance in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content>
+</article-title>.” <source>Plant Direct</source>
+<volume>9</volume>, no. <issue>9</issue>: <elocation-id>e70105</elocation-id>. <pub-id pub-id-type="doi">10.1002/pld3.70105</pub-id>.<pub-id pub-id-type="pmcid">PMC12426415</pub-id><pub-id pub-id-type="pmid">40950555</pub-id></mixed-citation>
+</p><fn-group id="pld370105-ntgp-0001"><fn fn-type="funding" id="pld370105-note-0001"><p>
+<bold>Funding:</bold> This research was funded in part by the Grain Farmers of Ontario, the Ontario Agri‐Food Innovation Alliance, and the Schneller and Summers Scholarship.</p></fn></fn-group></notes></front><body id="pld370105-body-0001"><sec id="pld370105-sec-0001"><label>1</label><title>Introduction</title><p>Synthetic auxin herbicides (SAHs) are among the oldest synthetic herbicides used in crop production. Following the introduction of the phenoxy‐carboxylates 2‐methyl‐4‐chloro‐phenoxyacetic acid (MCPA) and 2,4‐dichlorophenoxyacetic acid (2,4‐D) in the 1940s, SAHs have been widely used primarily to control dicotyledonous weeds in monocot crops and are the third most widely used herbicide class (Sterling and Hall <xref rid="pld370105-bib-0079" ref-type="bibr">1997</xref>; Busi et al. <xref rid="pld370105-bib-0008" ref-type="bibr">2018</xref>). There are six subclasses of SAHs including the phenoxycarboxylates, benzoates, 6‐arylpicolinates, pyridyloxycarboxylates, 6‐chloropicolinates, and quinolinecarboxylates (Herbicide Resistance Action Committee <xref rid="pld370105-bib-0044" ref-type="bibr">2024</xref>). Each subclass acts in competition with endogenous auxins, which are phytohormones that regulate plant processes such as cell division and elongation, trophic responses, and senescence (Herbicide Resistance Action Committee <xref rid="pld370105-bib-0044" ref-type="bibr">2024</xref>; Sauer et al. <xref rid="pld370105-bib-0072" ref-type="bibr">2013</xref>; Woodward and Bartel <xref rid="pld370105-bib-0093" ref-type="bibr">2005</xref>; Ellis et al. <xref rid="pld370105-bib-0026" ref-type="bibr">2005</xref>). Synthetic auxin herbicides mimic the activity of auxins such as indole acetic acid (IAA) by increasing the level of auxin beyond normal physiological levels, causing an auxin overdose and unregulated gene expression (Sterling and Hall <xref rid="pld370105-bib-0079" ref-type="bibr">1997</xref>; Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). Synthetic auxin herbicides bind to the promiscuous pocket of TIR1 (Transporter Inhibitor Response 1), an F‐box protein that is a subunit of Skp1‐Cullin‐F‐box (SCF<sup>TIR1/AFB</sup>) ubiquitin E3 ligase, which is found in the nucleus of cells in meristematic tissue (Tan et al. <xref rid="pld370105-bib-0082" ref-type="bibr">2007</xref>; Dharmasiri et al. <xref rid="pld370105-bib-0023" ref-type="bibr">2005</xref>; Kepinski and Leyser <xref rid="pld370105-bib-0051" ref-type="bibr">2005</xref>; Cobb and Reade <xref rid="pld370105-bib-0014" ref-type="bibr">2011</xref>). The binding of a synthetic auxin herbicide to TIR1 or one of its analogs facilitates the interaction of the F‐box protein with Aux/IAA repressor proteins, which causes their subsequent ubiquitination (Gray et al. <xref rid="pld370105-bib-0035" ref-type="bibr">2001</xref>; Guilfoyle <xref rid="pld370105-bib-0038" ref-type="bibr">2007</xref>; Jugulam et al. <xref rid="pld370105-bib-0049" ref-type="bibr">2011</xref>). The degradation of Aux/IAA repressor proteins promotes the activity of auxin response factors (ARFs) that mediate the transcription of auxin responsive genes (Tan et al. <xref rid="pld370105-bib-0082" ref-type="bibr">2007</xref>; Gray et al. <xref rid="pld370105-bib-0035" ref-type="bibr">2001</xref>; Hagen and Guilfoyle <xref rid="pld370105-bib-0042" ref-type="bibr">2002</xref>). The signal transduction pathway of auxin is mediated by auxin responsive genes such as GRETCHEN HAGEN 3 (GH3) genes, which conjugate and inactivate excess auxin and Aux/IAA repressor proteins that block the transcription of auxin responsive genes (Kelley and Riechers <xref rid="pld370105-bib-0050" ref-type="bibr">2007</xref>; Staswick et al. <xref rid="pld370105-bib-0078" ref-type="bibr">2005</xref>). Although SAHs such as 2,4‐D can undergo conjugation to some extent, this is a reversible process that allows the herbicide to retain its lethal effect (Chiu et al. <xref rid="pld370105-bib-0013" ref-type="bibr">2018</xref>). The lack of feedback inhibition ultimately results in plant death due to the increased production of ethylene, abscisic acid (ABA), and reactive oxygen species (ROS) (Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). Selectivity between monocot and dicot weeds is primarily attributed to differences in herbicide metabolism (Sterling and Hall <xref rid="pld370105-bib-0079" ref-type="bibr">1997</xref>). In monocotyledonous species, ring‐hydroxylation of synthetic auxin herbicides by cytochrome P450 enzymes is the primary mechanism of metabolism, allowing for rapid detoxification (Feung et al. <xref rid="pld370105-bib-0029" ref-type="bibr">1975</xref>; Peterson et al. <xref rid="pld370105-bib-0067" ref-type="bibr">2016</xref>). Although susceptible dicot species can detoxify synthetic auxins to some extent, this detoxification is primarily through conjugation with sugars and amino acids, which is a reversible process and still allows for the lethal effect of the herbicide (Chiu et al. <xref rid="pld370105-bib-0013" ref-type="bibr">2018</xref>). The effectiveness of this class of herbicides to control dicotyledonous weed species has contributed to widespread use and ultimately has resulted in increased selection pressure for herbicide resistance.</p><p>As of 2025, there are 44 weed species that have evolved resistance to SAHs globally (Heap <xref rid="pld370105-bib-0043" ref-type="bibr">2025</xref>). More specifically, in Canada, there are seven species with resistance to SAHs (Heap <xref rid="pld370105-bib-0043" ref-type="bibr">2025</xref>). To date, both target site resistance (TSR) and non‐target site resistance (NTSR) mechanisms to SAHs have been elucidated; however, of the cases where the mechanism has been elucidated, there have been limited cases of target site resistance (LeClere et al. <xref rid="pld370105-bib-0056" ref-type="bibr">2018</xref>; de Figueiredo, Küpper, et al. <xref rid="pld370105-bib-0018" ref-type="bibr">2022</xref>). Target site resistance mechanisms include those that modify and reduce the herbicide's ability to bind to the target protein, such as single nucleotide polymorphisms (SNPs), codon deletions, and modified gene expression (Gaines et al. <xref rid="pld370105-bib-0031" ref-type="bibr">2020</xref>). NTSR mechanisms reduce the amount of herbicide reaching the site of action by diverting the herbicide to other pathways through mechanisms such as reduced herbicide uptake, altered translocation, enhanced metabolism, and sequestration (Délye et al. <xref rid="pld370105-bib-0022" ref-type="bibr">2013</xref>; Powles and Yu <xref rid="pld370105-bib-0068" ref-type="bibr">2010</xref>; Torra et al. <xref rid="pld370105-bib-0085" ref-type="bibr">2024</xref>). Within the <italic toggle="yes">Amaranthus</italic> species, there are populations of smooth pigweed (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">A. hybridus</italic>
+</styled-content>), waterhemp (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus tuberculatus</italic>
+</styled-content>), and Palmer amaranth (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus palmeri</italic>
+</styled-content>) with confirmed resistance to some SAHs (Heap <xref rid="pld370105-bib-0043" ref-type="bibr">2025</xref>). Several smooth pigweed populations from Argentina have been confirmed to be resistant to 2,4‐D and dicamba, and pre‐treatment with the cytochrome P450 inhibitor piperonil butoxide indicated enhanced metabolism as a putative resistance mechanism (Dellaferrera et al. <xref rid="pld370105-bib-0021" ref-type="bibr">2018</xref>). Further investigation into the mechanism of resistance to 2,4‐D in one of the populations indicated reduced translocation and enhanced metabolism by cytochrome P450 monooxygenases as the proposed mechanisms (Palma‐Bautista et al. <xref rid="pld370105-bib-0066" ref-type="bibr">2020</xref>). At least three waterhemp populations from Nebraska, Missouri, and Illinois have confirmed 3‐, 5‐, and 6‐way multiple herbicide resistance, including resistance to SAHs (Bernards et al. <xref rid="pld370105-bib-0006" ref-type="bibr">2012</xref>; Crespo et al. <xref rid="pld370105-bib-0015" ref-type="bibr">2017</xref>; Shergill, Barlow, et al. <xref rid="pld370105-bib-0073" ref-type="bibr">2018</xref>; Evans et al. <xref rid="pld370105-bib-0027" ref-type="bibr">2019</xref>). In the Nebraska and Missouri populations, enhanced metabolism by cytochrome P450 monooxygenases was implicated as the mechanism of resistance (de Figueiredo et al. <xref rid="pld370105-bib-0019" ref-type="bibr">2018</xref>; de Figueiredo, Barnes, et al. <xref rid="pld370105-bib-0017" ref-type="bibr">2022</xref>; Shergill, Bish, et al. <xref rid="pld370105-bib-0074" ref-type="bibr">2018</xref>). Similarly, in Palmer amaranth, a population from Kansas with resistance to six modes of action was confirmed to be resistant to 2,4‐D via enhanced metabolism (Shyam et al. <xref rid="pld370105-bib-0075" ref-type="bibr">2022</xref>). Given the widespread resistance to SAHs demonstrated in <italic toggle="yes">Amaranthus</italic> species, it is only a matter of time before resistant populations become an issue in Ontario production systems.</p><p>Green pigweed is a monoecious, annual, dicot weed species in the <italic toggle="yes">Amaranthaceae</italic> family, and its competitive nature has contributed to significant yield reductions in row crops (Weaver and McWilliams <xref rid="pld370105-bib-0091" ref-type="bibr">1980</xref>; Uva et al. <xref rid="pld370105-bib-0088" ref-type="bibr">1997</xref>). Recent field studies in soybean and corn have demonstrated that uncontrolled green pigweed can reduce crop yields up to 38% and 54%, respectively (Aicklen, Soltani, Tardif, Robinson, Laforest, and Sikkema <xref rid="pld370105-bib-0002" ref-type="bibr">2022</xref>; Aicklen, Soltani, Tardif, Robinson, and Sikkema <xref rid="pld370105-bib-0003" ref-type="bibr">2022</xref>). The use of efficacious preemergence and postemergence herbicides provides acceptable levels of control of green pigweed in these crops (Aicklen, Soltani, Tardif, Robinson, Laforest, and Sikkema <xref rid="pld370105-bib-0002" ref-type="bibr">2022</xref>; Aicklen, Soltani, Tardif, Robinson, and Sikkema <xref rid="pld370105-bib-0003" ref-type="bibr">2022</xref>); however, the evolution of herbicide resistance threatens the effectiveness of these herbicides.</p><p>Previous research confirmed resistance to SAHs MCPA, mecoprop, dichlorprop‐p, and aminocyclopyrachlor and the acetolactate synthase (ALS) inhibitor imazethapyr in a population of green pigweed collected from a field of processing peas near Dresden, Ontario, Canada (Aicklen et al. <xref rid="pld370105-bib-0001" ref-type="bibr">2024</xref>). Historical herbicide use patterns in the field site included the use of SAHs, primarily MCPA, one or two times during the 6‐year crop rotation. Prior to this discovery, herbicide‐resistant green pigweed in Ontario was only documented for ALS inhibitors and photosystem II inhibitors and was linked to TSR mechanisms (Diebold et al. <xref rid="pld370105-bib-0024" ref-type="bibr">2003</xref>; Ferguson et al. <xref rid="pld370105-bib-0028" ref-type="bibr">2001</xref>). Of the 44 cases of resistance to SAHs, 19 of these cases include weed species with resistance to MCPA (Heap <xref rid="pld370105-bib-0043" ref-type="bibr">2025</xref>). However, in most of these cases, the mechanism of resistance to MCPA has not been elucidated. In the cases where the mechanism was investigated, the mechanism was linked to an NTSR mechanism (Weinberg et al. <xref rid="pld370105-bib-0092" ref-type="bibr">2006</xref>; Jugulam et al. <xref rid="pld370105-bib-0048" ref-type="bibr">2013</xref>; Singh et al. <xref rid="pld370105-bib-0076" ref-type="bibr">2023</xref>). Based on the limited knowledge base surrounding mechanisms of MCPA resistance, this provides a unique opportunity to investigate the mechanism of resistance to MCPA in this population of green pigweed. The objective of this study is to determine the mechanism of resistance to MCPA in this population of green pigweed by quantifying MCPA absorption, translocation, and metabolism and by identifying differentially expressed genes between resistant and susceptible green pigweed populations.</p></sec><sec sec-type="materials-and-methods" id="pld370105-sec-0002"><label>2</label><title>Materials and Methods</title><sec id="pld370105-sec-0003"><label>2.1</label><title>Preparation of Plant Material</title><p>Seeds from a surviving population of green pigweed, AMAPO 501 (hereinafter referred to as 501), were collected from a field site near Dresden, Ontario, Canada, (42.582811° N, −82.113953° W) following application of MCPA ester (MCPA Ester 600, Nufarm Canada, Calgary, AB, Canada) at 600 g a.e. ha<sup>−1</sup>. The field site had minimal exposure to SAHs, with these herbicides only applied once or twice during a 6‐year crop rotation. The collected seed was dried at room temperature and cleaned by threshing. Seed treatment in 97% H<sub>2</sub>SO<sub>4</sub> for 30 s, followed by neutralization with a 0.1‐M solution of sodium bicarbonate and water, was used to promote seed germination (Aicklen et al. <xref rid="pld370105-bib-0001" ref-type="bibr">2024</xref>). Following acid treatment, the seeds were dried at room temperature, packaged, and stored at 5°C prior to commencing the experiments. The resistant green pigweed population was compared to a known synthetic auxin‐susceptible population, AMAPO 511 (hereinafter referred to as 511). The susceptible green pigweed was collected from an untreated green pigweed population near Elora, Ontario (Elora Research Station, Ariss, ON, Canada). All protocols for seed cleaning, treatment, and storage were applied for both resistant and susceptible populations.</p><p>To ensure optimal germination, seeds of both populations were spread in Petri dishes containing a 0.6% (w/v) agar medium and then were placed in a growth cabinet for 24 h. Conditions in the growth cabinet consisted of a 2‐h photophase at 15°C followed by a 22 h scotophase at 40°C. Once germinated, the seedlings (at cotyledon stage) were transplanted into commercial potting soil (Pro Mix, Premier Horticulture, Quakertown, PA, USA) in 7.6 × 7.6 cm square pots with one plant per pot in a greenhouse. The greenhouse conditions consisted of a 14‐h photophase at 30°C and a 10‐h scotophase at 23°C and 60% ± 10% relative humidity. Supplemental light was provided by sodium vapor lamps at 250 μmol m<sup>−2</sup> s<sup>−1</sup>. Plants were hand watered as required.</p><p>A resistance screening was conducted previously as described by Aicklen et al. (<xref rid="pld370105-bib-0001" ref-type="bibr">2024</xref>), with surviving plants grown out for seed collection. When plants from 501 were 8–10 cm in height, they were treated with 350 g a.e. ha<sup>−1</sup> of MCPA, which was based on the herbicide label. Surviving plants were subsequently grown out for seed to produce the OP<sub>1</sub> (open‐pollinated) generation. This process was repeated a second time to produce the OP<sub>2</sub> generation, which was the seed lot used in the main dose response experiments, as described by Aicklen et al. (<xref rid="pld370105-bib-0001" ref-type="bibr">2024</xref>). These experiments confirmed resistance to MCPA, mecoprop, dichlorprop‐p, and aminocyclopyrachlor in 501 (Aicklen et al. <xref rid="pld370105-bib-0001" ref-type="bibr">2024</xref>). This was the same seedlot used in the present study.</p></sec><sec id="pld370105-sec-0004"><label>2.2</label><title>Absorption and Translocation of <sup>14</sup>C‐MCPA</title><p>At 48 h prior to treatment, plants were transferred to a growth chamber maintained at 25°C/20°C (16‐h photophase:8‐h scotophase) to acclimate the plants. When plants of both populations were approximately 8–10 cm tall, the fourth fully expanded leaf of each plant was marked and 10 μL of <sup>14</sup>C‐MCPA (0.17 kBq μL of radioactivity, Moravek Inc., Brea, CA, USA) was applied to the adaxial leaf surface using a micropipette (Wiretrol, 10 μL, Drummond Scientific Company, Broomall, PA, USA). Following treatment, the plants were returned to the growth chamber. Plants were harvested at 6, 24, 48, and 72 h after treatment (HAT) and divided into treated leaf (TL), tissue above treated leaf (ATL), and tissue below treated leaf (BTL). The experiments were set up as a completely randomized design with four replicates, and each experiment was repeated twice. Treated leaves were cut and rinsed twice for 60 s in 20‐mL scintillation vials using 5 mL of a rinse solution of 10% (v/v) ethanol with 0.5% (v/v) Tween 20 (Fisher Scientific, Waltham, MA, USA). Thereafter, 10 mL of scintillation fluid (EcoLite, MP Biomedicals LLC, Irvine, CA, USA) was added to the vials, and the radioactivity of the rinse solution was quantified using a liquid scintillation counter (LSC; LS 6500 Multi‐Purpose Scintillation Counter, Beckman Coulter, Brea, CA, USA). Separated plant parts were dried for 72 h at 60°C and combusted using a biological oxidizer (OX‐501, RJ Harvey Instruments, Tappan, NY, USA). Each plant part was combusted for 3 min followed by the quantification of the radioactivity of each plant part using LSC. Equations (<xref rid="pld370105-disp-0001" ref-type="disp-formula">1</xref>–<xref rid="pld370105-disp-0003" ref-type="disp-formula">3</xref>) were used to calculate percent absorption and percent translocation at each timepoint:<disp-formula id="pld370105-disp-0001">
+<label>(1)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-1" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>Recovery</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>ATL</mml:mi></mml:msub><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>BTL</mml:mi></mml:msub><mml:mo linebreak="goodbreak">+</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>TL</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo>/</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="pld370105-disp-0002">
+<label>(2)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-2" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>Absorption</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub></mml:mrow></mml:mfenced><mml:mo>/</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="pld370105-disp-0003">
+<label>(3)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-3" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>Translocation</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:mrow><mml:mn>100</mml:mn><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>TL</mml:mi></mml:msub></mml:mrow></mml:mfenced><mml:mo>/</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where R<sub>rinsate</sub> is the radioactivity recovered in the treated leaf rinsate, R<sub>applied</sub> is the radioactivity applied to the plant, R<sub>ATL</sub> is the radioactivity recovered in tissue above the treated leaf, R<sub>BTL</sub> is the radioactivity recovered in tissue below the treated leaf, and R<sub>TL</sub> is the radioactivity recovered in the treated leaf. Equations (<xref rid="pld370105-disp-0004" ref-type="disp-formula">4</xref>–<xref rid="pld370105-disp-0006" ref-type="disp-formula">6</xref>) were used to calculate the percent <sup>14</sup>C MCPA recovered in each section of plant tissue.<disp-formula id="pld370105-disp-0004">
+<label>(4)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-4" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>in</mml:mtext><mml:mspace width="0.25em"/><mml:mi>ATL</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>ATL</mml:mi></mml:msub></mml:mfenced><mml:mo>/</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="pld370105-disp-0005">
+<label>(5)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-5" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>in</mml:mtext><mml:mspace width="0.25em"/><mml:mi>BTL</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>BTL</mml:mi></mml:msub></mml:mfenced><mml:mo>/</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="pld370105-disp-0006">
+<label>(6)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-6" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mo>%</mml:mo><mml:mtext>in</mml:mtext><mml:mspace width="0.25em"/><mml:mi>TL</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mfenced close=")" open="("><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mi>TL</mml:mi></mml:msub></mml:mfenced><mml:mo>/</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>applied</mml:mtext></mml:msub><mml:mo linebreak="goodbreak">−</mml:mo><mml:msub><mml:mi mathvariant="normal">R</mml:mi><mml:mtext>rinsate</mml:mtext></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+</p></sec><sec id="pld370105-sec-0005"><label>2.3</label><title>Metabolism of <sup>14</sup>C‐MCPA</title><p>Plants were treated as described above. At 6, 24, 48, and 72 HAT, the whole plant was harvested and frozen at −80°C with the treated leaf rinsed as described above. The experiment was set up as a completely randomized design with four replicates per timepoint, and each experiment was repeated twice. The whole plant was homogenized with a mortar and pestle with parent <sup>14</sup>C‐MCPA, and its metabolites extracted by adding 15 mL of acetone (HPLC Grade, Fisher Scientific, Waltham, MA, USA) and incubating the samples for 16 h at 4°C in 50‐mL polypropylene tubes. Following the incubation period, samples were centrifuged (J2‐MC Centrifuge, Beckman Coulter, Brea, CA, USA) at 5000 × <italic toggle="yes">g</italic> for 10 min at 4°C. Evaporation using a rotary evaporator (Centrivap, Labconco, Kansas City, MO, USA) for 2 h at 45°C allowed the supernatant to be concentrated. Once the supernatant was reduced to a volume of 500–1000 μL, it was transferred into 1.5‐mL microcentrifuge tubes and was centrifuged at 10,000 × <italic toggle="yes">g</italic> for 10 min at room temperature. The total extractable <sup>14</sup>C‐MCPA was measured using liquid scintillation spectrometry and normalized to 100,000 dpm μL<sup>−1</sup> by diluting with 50:50 (v/v) acetonitrile:water.</p><p>Reverse‐phase high‐performance liquid chromatography (HPLC) (1260 Infinity II LC System, Agilent Technologies Inc., Santa Clara, CA, USA) was used to resolve total extractable radioactivity into <sup>14</sup>C‐MCPA parent compound and its metabolites. Prior to commencing analysis, methods were optimized for MCPA. Reverse‐phase HPLC was conducted using a Zorbax SB‐C18 column (4.6 × 250 mm, 5‐μm particle size; Agilent Technologies Inc., Santa Clara, CA, USA) at a flow rate of 1 mL min<sup>−1</sup> with eluent A (water with 0.1% trifluoroacetic acid; HPLC Grade, Fisher Scientific, Waltham, MA, USA) and eluent B (acetonitrile with 0.1% trifluoroacetic acid; HPLC Grade, Fisher Scientific, Waltham, MA, USA). The elution profile followed 0–2 min, 0%–20% (of eluent B) linear gradient; 2–4 min, 20%–30% linear gradient; 4–7 min, 30%–45% linear gradient; 7–15 min, 45%–80% linear gradient; 15–16 min, 80%–100% linear gradient; 16–18 min, 100%–70% linear gradient; 18–19 min, 70%–40% linear gradient; 19–20 min, 40%–10% linear gradient followed by 10% isocratic hold prior to the next sample injection (21 min total). The retention time of the parent compound was 13.9 min. The parent compound and its metabolites were detected with a radioflow detector (EG &amp; G Berthold, LB 509, Bad Wildbad, Germany) and Ultima‐Flo AP cocktail (PerkinElmer, Waltham, MA, USA). At 13.9 min, the % parent compound was quantified as a percentage of total extractable radioactivity by the peak area determined.</p></sec><sec id="pld370105-sec-0006"><label>2.4</label><title>RNA Sequencing Study</title><sec id="pld370105-sec-0007"><label>2.4.1</label><title>RNA Extraction</title><p>Sampling for the RNA Sequencing experiment was completed when plants from both populations were 8–10 cm tall. There were four treatments: resistant‐treated (RT), resistant‐untreated (RU), susceptible‐treated (ST), and susceptible‐untreated (SU). The treated individuals for both populations were sprayed with 1225 g a.e. ha<sup>−1</sup> of MCPA (3.5‐fold higher than the label rate), which was determined to be the discriminating dose for MCPA resistance in these populations. At 6 h after application (HAT), plants from all treatments were sampled by cutting the fourth fully expanded leaf, wrapping it in aluminum foil, and placing it directly into liquid N<sub>2</sub> then later storing frozen tissue at −80°C until extraction occurred. Sampling occurred at this timepoint as this is within the stimulation phase when metabolic processes are activated by the application of SAHs (Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). Plants were kept until 21 days after treatment, at which point they were phenotyped based on survival, and the three most representative plants from each treatment were chosen for extraction. Total RNA was extracted using the Direct‐zol RNA Miniprep kit (Zymo Research, Irvine, CA, USA). RNA was purified using a DNase I treatment, and the final elution volume was 50 μL. RNA quality and concentration were assessed using the Agilent TapeStation 4150 (Agilent Technologies Inc., Santa Clara, CA, USA), and samples that had an RNA integrity score (RIN) of over 6.5 were submitted for sequencing. Three replicates per treatment were chosen for a total of 12 samples. An additional RNA sample obtained from a mixture of treated and untreated susceptible leaf tissue was submitted for PacBio IsoSeq long read sequencing to construct a de novo transcriptome.</p></sec><sec id="pld370105-sec-0008"><label>2.4.2</label><title>Reference‐Based Alignment</title><p>Quality check, library construction, and sequencing were completed by Génome Québec (Génome Québec Centre of Expertise and Services, Montréal, QC, Canada). Library preparation was completed using an Illumina Stranded mRNA Prep Kit (Illumina Inc., San Diego, CA, USA). Samples were sequenced on an Illumina NovaSeq S4 (Illumina Inc., San Diego, CA, USA) using 2 × 100 bp paired‐end mode and obtaining ~25 million read pairs per sample. Adapter trimming and removal of low‐quality read clipping were completed using fastp (v0.23.4, Chen et al. <xref rid="pld370105-bib-0012" ref-type="bibr">2018</xref>; Chen <xref rid="pld370105-bib-0011" ref-type="bibr">2023</xref>). As there is no reference genome sequence available for green pigweed, reads were aligned to the reference sequence from smooth pigweed (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus hybridus</italic>
+</styled-content>) (available at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://genomevolution.org/coge" ext-link-type="uri">https://genomevolution.org/coge</ext-link>, ID: 57429, Montgomery et al. <xref rid="pld370105-bib-0064" ref-type="bibr">2020</xref>) as this species is the most closely related based on available genomes. Reads were also aligned to the <italic toggle="yes">de novo</italic> assembled transcriptome.</p><p>Indexing and read alignment to the smooth pigweed genome sequence was completed using STAR (v2.7.4a, Dobin and Gingeras <xref rid="pld370105-bib-0025" ref-type="bibr">2015</xref>) with average alignment rates of 85%. Annotation and gene ontology were completed using blastp (v2.15.0, Altschul et al. <xref rid="pld370105-bib-0004" ref-type="bibr">1990</xref>) by aligning the smooth pigweed genome to the UniProt Swiss‐Prot database and selecting the most appropriate match based on the lowest E‐value.</p></sec><sec id="pld370105-sec-0009"><label>2.4.3</label><title>De Novo Assembly</title><p>PacBio IsoSeq standard library preparation and SMRT cell sequencing was completed by Génome Québec (Génome Québec Centre of Expertise and Services, Montréal, QC, Canada) following the <italic toggle="yes">Preparing Iso‐Seq libraries using SMRTbell prep kit 3.0</italic> protocol (PacBio, Corporate Headquarters, Menlo Park, CA, USA) to obtain circular consensus sequences (CCS). Quality control was assessed using fastp as described above (Chen et al. <xref rid="pld370105-bib-0012" ref-type="bibr">2018</xref>; Chen <xref rid="pld370105-bib-0011" ref-type="bibr">2023</xref>). Clustering of CCS was completed using isoseq cluster2 (IsoSeq v3, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/PacificBiosciences/IsoSeq/blob/master/isoseq-clustering.md" ext-link-type="uri">https://github.com/PacificBiosciences/IsoSeq/blob/master/isoseq‐clustering.md</ext-link>). Samtools (v1.19, Danecek et al. <xref rid="pld370105-bib-0016" ref-type="bibr">2021</xref>) was used to extract sequences from the BAM file, and further clustering was completed using CD‐HIT with default parameters (v4.8.1, Li and Godzik <xref rid="pld370105-bib-0057" ref-type="bibr">2006</xref>; Fu et al. <xref rid="pld370105-bib-0030" ref-type="bibr">2012</xref>). Samples were aligned to the de novo transcriptome using Bowtie 2 (v2.5.2, Langmead and Salzberg <xref rid="pld370105-bib-0055" ref-type="bibr">2012</xref>). Bowtie 2 was used in this instance as the alignment rates were much higher than those obtained with STAR (28% average alignment compared to 92% with Bowtie 2). SAM files from Bowtie 2 were then converted to BAM files using samtools (v1.19, Danecek et al. <xref rid="pld370105-bib-0016" ref-type="bibr">2021</xref>), and read summarization was quantified using featureCounts in the Subread package (v2.0.6, Liao et al. <xref rid="pld370105-bib-0059" ref-type="bibr">2014</xref>). Annotation of the transcriptome was completed by first translating the transcripts to protein using TransDecoder (v5.7.1, Haas BJ, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://github.com/TransDecoder/TransDecoder" ext-link-type="uri">https://github.com/TransDecoder/TransDecoder</ext-link>), then protein sequences were aligned to the UniProt Swiss‐Prot database using blastp (v2.15.0, Altschul et al. <xref rid="pld370105-bib-0004" ref-type="bibr">1990</xref>), and finally, GO terms were added using InterProScan (v.5.66‐98.0, Jones et al. <xref rid="pld370105-bib-0047" ref-type="bibr">2014</xref>; Blum et al. <xref rid="pld370105-bib-0007" ref-type="bibr">2020</xref>).</p></sec><sec id="pld370105-sec-0010"><label>2.4.4</label><title>SNP Analysis</title><p>To identify potential resistance mutations in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content>, genes previously linked to synthetic auxin herbicide resistance were used as queries in a BLAST search against a custom local database constructed from the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content> assembly. The local database was generated using BLAST+ provided by NCBI (Camacho et al. <xref rid="pld370105-bib-0009" ref-type="bibr">2009</xref>). Protein sequences for known resistant genes (list of references describing genes involved in SAH resistance) were aligned against the local database to identify homologous sequences. The resulting high‐confidence homologs in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus powellii</italic>
+</styled-content> were selected as targets for further sequence analysis. Sequence variation in genomic regions corresponding to the gene candidates in resistant and susceptible populations was manually compared. DNA sequencing reads were aligned to the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">A. powellii</italic>
+</styled-content> reference genome, and variants within the identified genes were called using FreeBayes. The resulting VCF files were visualized in Integrative Genomics Viewer (IGV) to manually assess nucleotide variation, confirm variant calls, and evaluate possible resistance‐associated polymorphisms in the homologous gene regions.</p></sec></sec><sec id="pld370105-sec-0011"><label>2.5</label><title>Statistical Analysis</title><sec id="pld370105-sec-0012"><label>2.5.1</label><title>Absorption, Translocation, and Metabolism of <sup>14</sup>C‐MCPA</title><p>All data were analyzed using the statistical software, R (v4.2.0, R Core Team <xref rid="pld370105-bib-0069" ref-type="bibr">2024</xref>). Population and time were determined to be the fixed effects, and experimental run was the random effect for the experiments. The assumptions of nonlinear regression were met by assessing residual plots to ensure that residuals were independent, randomly distributed, with equal variance, and a mean of 0. Normality was assessed by calculating the Shapiro–Wilk test statistic for normality. There was no significant variation attributed to experimental run; therefore, the data from each run were pooled.</p><p>For the absorption and translocation study, the data were fitted to three models using the method and R code developed by Kniss et al. (<xref rid="pld370105-bib-0053" ref-type="bibr">2011</xref>) including the asymptotic regression model, rectangular hyperbolic model, and linear model. The AICc fit statistic for each model was compared, and the rectangular hyperbolic model was determined to best fit both the absorption and translocation data, as this model had the lowest AICc value. The rectangular hyperbolic model for the absorption and translocation data was calculated based on Equations (<xref rid="pld370105-disp-0007" ref-type="disp-formula">7</xref>) and (<xref rid="pld370105-disp-0008" ref-type="disp-formula">8</xref>):<disp-formula id="pld370105-disp-0007">
+<label>(7)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-7" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>Absorption</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi mathvariant="normal">A</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mo linebreak="goodbreak">×</mml:mo><mml:mfenced close="}" open="{"><mml:mrow><mml:mn>1</mml:mn><mml:mo linebreak="goodbreak">−</mml:mo><mml:mi>exp</mml:mi><mml:mfenced close="]" open="["><mml:mrow><mml:mfenced close=")" open="("><mml:mrow><mml:mi>log</mml:mi><mml:mspace width="0.25em"/><mml:mn>0.1</mml:mn></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mi>t</mml:mi><mml:mo>/</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mn>90</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>
+<disp-formula id="pld370105-disp-0008">
+<label>(8)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-8" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mtext>Translocation</mml:mtext><mml:mo linebreak="goodbreak">=</mml:mo><mml:msub><mml:mi mathvariant="normal">T</mml:mi><mml:mi>max</mml:mi></mml:msub><mml:mo linebreak="goodbreak">×</mml:mo><mml:mfenced close="}" open="{"><mml:mrow><mml:mn>1</mml:mn><mml:mo linebreak="goodbreak">−</mml:mo><mml:mi>exp</mml:mi><mml:mfenced close="]" open="["><mml:mrow><mml:mfenced close=")" open="("><mml:mrow><mml:mi>log</mml:mi><mml:mspace width="0.25em"/><mml:mn>0.1</mml:mn></mml:mrow></mml:mfenced><mml:mo linebreak="goodbreak">×</mml:mo><mml:mfenced close=")" open="("><mml:mrow><mml:mi>t</mml:mi><mml:mo>/</mml:mo><mml:msub><mml:mi>t</mml:mi><mml:mn>90</mml:mn></mml:msub></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula>where A<sub>max</sub> and T<sub>max</sub> indicate the maximum absorption and translocation values, <italic toggle="yes">t</italic> is the time, and <italic toggle="yes">t</italic>
+<sub>90</sub> is the time to reach 90% of the maximum absorption (A<sub>max</sub>) or translocation (T<sub>max</sub>) values. The absorption and translocation values are calculated based on the percentage absorbed or translocated at time <italic toggle="yes">t</italic>. None of these models could be used to analyze the percent translocation in each plant part (TL, ATL, and BTL); therefore, these data were analyzed using a one‐way ANOVA. After ensuring that the data met all the assumptions of ANOVA, treatments were separated using Tukey's HSD at a significance level of <italic toggle="yes">p</italic> = 0.05.</p><p>The metabolism data were fitted to a four‐parameter log‐logistic model using Equation (<xref rid="pld370105-disp-0009" ref-type="disp-formula">9</xref>):<disp-formula id="pld370105-disp-0009">
+<label>(9)</label>
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="jats-math-9" display="block" overflow="scroll"><mml:mrow><mml:mrow><mml:mi>y</mml:mi><mml:mo linebreak="goodbreak">=</mml:mo><mml:mi>C</mml:mi><mml:mo linebreak="goodbreak">+</mml:mo><mml:mi>D</mml:mi><mml:mo linebreak="goodbreak">−</mml:mo><mml:mi>C</mml:mi><mml:mo>/</mml:mo><mml:mn>1</mml:mn><mml:mo linebreak="goodbreak">+</mml:mo><mml:mi>exp</mml:mi><mml:mfenced close="}" open="{"><mml:mrow><mml:mi>b</mml:mi><mml:mfenced close="]" open="["><mml:mrow><mml:mi>log</mml:mi><mml:mfenced close=")" open="("><mml:mi>x</mml:mi></mml:mfenced><mml:mo linebreak="goodbreak">−</mml:mo><mml:mi>log</mml:mi><mml:mfenced close=")" open="("><mml:msub><mml:mi>t</mml:mi><mml:mn>50</mml:mn></mml:msub></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mfenced></mml:mrow></mml:mrow></mml:math>
+</disp-formula> where <italic toggle="yes">C</italic> is the lower limit, <italic toggle="yes">D</italic> is the upper limit, <italic toggle="yes">b</italic> is the slope, and <italic toggle="yes">t</italic>
+<sub>50</sub> is the time to 50% metabolism of parent <sup>14</sup>C MCPA or half‐life.</p></sec><sec id="pld370105-sec-0013"><label>2.5.2</label><title>RNA Sequencing Study</title><p>Differential expression analysis was conducted in R (v4.2.0, R Core Team <xref rid="pld370105-bib-0069" ref-type="bibr">2024</xref>) using the DESeq2 package (v1.38.3, Love et al. <xref rid="pld370105-bib-0061" ref-type="bibr">2014</xref>) to identify differentially expressed genes (DEGs) between the treatment conditions. Four contrasts were constructed based on population (resistant or susceptible) and treatment (treated with MCPA or untreated). The contrasts were as follows: RT versus ST, RU versus SU, RT versus RU, and ST versus SU. A log fold‐change shrinkage using the apeglm method and Benjamin‐Hochberg false discovery rate correction were applied to all contrasts. Significant DEGs were identified based on log2 fold change &gt; 2 or &lt; −2 and a <italic toggle="yes">p</italic>‐value of &lt; 0.05. The same procedure was followed for assessing differentially expressed transcripts from the de novo transcriptome.</p></sec></sec></sec><sec sec-type="results" id="pld370105-sec-0014"><label>3</label><title>Results</title><sec id="pld370105-sec-0015"><label>3.1</label><title>Absorption and Translocation of <sup>14</sup>C‐MCPA</title><p>There were no differences in absorption between population 501 and 511 at any of the time points. <sup>14</sup>C‐MCPA absorption values ranged from 79% to 91% across the 72‐h period (Figure <xref rid="pld370105-fig-0001" ref-type="fig">1A</xref>). The absorption data were found to best fit a rectangular hyperbolic model as presented in Figure <xref rid="pld370105-fig-0001" ref-type="fig">1A</xref>. Maximum <sup>14</sup>C‐MCPA absorption (A<sub>max</sub>) was 91% for population 501 and 87% for population 511 (Table <xref rid="pld370105-tbl-0001" ref-type="table">1</xref>) with the estimates being significantly different. The <italic toggle="yes">t</italic>
+<sub>90</sub> occurred at 4 h for 511 and at 9 h for 501 (Table <xref rid="pld370105-tbl-0001" ref-type="table">1</xref>). Although 501 took longer to achieve maximum absorption, there were no significant differences between the <italic toggle="yes">t</italic>
+<sub>90</sub> values for 501 and 511. Even though there were statistical differences between the A<sub>max</sub> values, the A<sub>max</sub> value occurs at infinity, which is outside of the 72‐h period for the study. Within the 72‐h period when the experiment was conducted, there were no significant differences in absorption, and therefore, it can be confirmed that differential MCPA absorption is not contributing to the mechanism of resistance in population 501.</p><fig position="float" fig-type="FIGURE" id="pld370105-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>(A) <sup>14</sup>C‐MCPA absorption; (B) <sup>14</sup>C‐MCPA translocation; <bold>(</bold>C) <sup>14</sup>C‐MCPA retained in treated leaf; (D) <sup>14</sup>C‐MCPA translocated to tissue above treated leaf; (E) <sup>14</sup>C‐MCPA translocated to tissue below treated leaf in <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">A. powellii</italic>
+</styled-content> populations 501 (R) and 511 (S). Means followed by the same letter are not statistically different at a significance level of <italic toggle="no">p</italic> &lt; 0.05. In (A) and (B), population 511 is designated by a triangle with a dashed line, and population 501 is designated by a circle and solid line. In (C)–(E), population 511 is designated by dark blue bars, and population 501 is designated by dark green bars. Error bars represent standard error.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="PLD3-9-e70105-g006.jpg"><?image-name PLD3-9-e70105-g006.jpg?><?image-size 140709?><?image-md5 bf7a46b41a68910141e1d522a6d74489?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 2952?><?image-original-width 1064?><?image-scaled-height 1967?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/bf7a46b41a68/PLD3-9-e70105-g006.jpg?><?thumb-name PLD3-9-e70105-g006.gif?><?thumb-size 13363?><?thumb-md5 871c4cd87e52cc2404daec12067a2f91?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 277?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/871c4cd87e52/PLD3-9-e70105-g006.gif?></graphic></fig><table-wrap position="float" id="pld370105-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Parameter estimates of rectangular hyperbolic model for absorption of <sup>14</sup>C‐MCPA at 6, 24, 48, and 72 h after treatment.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Parameter estimates</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">A<sub>max</sub>
+<xref rid="pld370105-note-0003" ref-type="table-fn">
+<sup>a</sup>
+</xref> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="no">t</italic>
+<sub>90</sub>
+<xref rid="pld370105-note-0004" ref-type="table-fn">
+<sup>b</sup>
+</xref> (hours)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">501 (R)</td><td align="center" valign="top" rowspan="1" colspan="1">91.19a</td><td align="center" valign="top" rowspan="1" colspan="1">8.75a</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">511 (S)</td><td align="center" valign="top" rowspan="1" colspan="1">86.74b</td><td align="center" valign="top" rowspan="1" colspan="1">3.69a</td></tr></tbody></table><table-wrap-foot id="pld370105-ntgp-0002"><fn id="pld370105-note-0002"><p>
+<italic toggle="yes">Note:</italic> Estimates followed by the same letter are not statistically different based on Tukey's HSD (<italic toggle="yes">p</italic> &lt; 0.05).</p></fn><fn id="pld370105-note-0003"><label>
+<sup>a</sup>
+</label><p>A<sub>max</sub> = asymptotic value of maximum absorption.</p></fn><fn id="pld370105-note-0004"><label>
+<sup>b</sup>
+</label><p>
+<italic toggle="yes">t</italic>
+<sub>90</sub> = time to reach 90% of the maximum absorption (A<sub>max</sub>).</p></fn></table-wrap-foot></table-wrap><p>The data for translocation were also fitted to a rectangular hyperbolic model, and translocation of <sup>14</sup>C‐MCPA ranged from 29% to 54% over the course of the study (Figure <xref rid="pld370105-fig-0001" ref-type="fig">1B</xref>). The T<sub>max</sub> values were 48% and 54% for populations 511 and 501, respectively, and were not statistically different (Table <xref rid="pld370105-tbl-0002" ref-type="table">2</xref>). The <italic toggle="yes">t</italic>
+<sub>90</sub> values occurred at 10 and 29 h for 511 and 501 (Table <xref rid="pld370105-tbl-0002" ref-type="table">2</xref>). Interestingly, even though 501 took over twice the amount of time to reach 90% of the T<sub>max</sub> value compared to 511, no statistical differences were found. The <sup>14</sup>C‐MCPA found in each section of plant tissue (TL, ATL, and BTL) was quantified, but no differences were found (Figure <xref rid="pld370105-fig-0001" ref-type="fig">1C–E</xref>). For both populations, the majority of <sup>14</sup>C‐MCPA was translocated to tissue below the treated leaf. The % <sup>14</sup>C‐MCPA remaining in the treated leaf decreased from 73% to 49% across both populations over time, and there were no significant differences. Translocation of <sup>14</sup>C‐MCPA to ATL tissue remained consistently below 11%, whereas translocation to BTL tissue increased from 21% to 42% in both populations across time. Regardless of time point, there were no significant differences in % translocation to ATL or BTL tissue between the two populations. These results show that differential translocation does not cause resistance to MCPA in population 501.</p><table-wrap position="float" id="pld370105-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Parameter estimates of rectangular hyperbolic model for translocation of <sup>14</sup>C‐MCPA at 6, 24, 48, and 72 h after treatment.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Parameter estimates</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">T<sub>max</sub>
+<xref rid="pld370105-note-0006" ref-type="table-fn">
+<sup>a</sup>
+</xref> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic toggle="no">t</italic>
+<sub>90</sub>
+<xref rid="pld370105-note-0007" ref-type="table-fn">
+<sup>b</sup>
+</xref> (hours)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">501 (R)</td><td align="center" valign="top" rowspan="1" colspan="1">54.41a</td><td align="center" valign="top" rowspan="1" colspan="1">28.70a</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">511 (S)</td><td align="center" valign="top" rowspan="1" colspan="1">48.36a</td><td align="center" valign="top" rowspan="1" colspan="1">9.87a</td></tr></tbody></table><table-wrap-foot id="pld370105-ntgp-0003"><fn id="pld370105-note-0005"><p>
+<italic toggle="yes">Note:</italic> Estimates followed by the same letter are not statistically different based on Tukey's HSD (<italic toggle="yes">p</italic> &lt; 0.05).</p></fn><fn id="pld370105-note-0006"><label>
+<sup>a</sup>
+</label><p>T<sub>max</sub> = asymptotic value of maximum translocation.</p></fn><fn id="pld370105-note-0007"><label>
+<sup>b</sup>
+</label><p>
+<italic toggle="yes">t</italic>
+<sub>90</sub> = time to reach 90% of the maximum translocation (T<sub>max</sub>).</p></fn></table-wrap-foot></table-wrap></sec><sec id="pld370105-sec-0016"><label>3.2</label><title>Metabolism of <sup>14</sup>C‐MCPA</title><p>The amount of parent MCPA remaining at each time point is represented in a four‐parameter log logistic regression model in Figure <xref rid="pld370105-fig-0002" ref-type="fig">2A</xref>. No statistical differences were found when comparing the parent MCPA remaining at each time point between the two populations. The half‐life of parent MCPA (<italic toggle="yes">t</italic>
+<sub>50</sub>) occurred at 20 and 22 h for 501 and 511, respectively, with no statistical differences between the populations (Figure <xref rid="pld370105-fig-0002" ref-type="fig">2A</xref>). Chromatograms for each population at 24 HAT are represented in Figure <xref rid="pld370105-fig-0002" ref-type="fig">2B,C</xref>. Parent MCPA was resolved at 13.9 min in both populations. The chromatograms indicated the production of at least five secondary metabolites in both populations; however, their metabolic profiles were almost identical across time. The identity of the metabolites produced was not determined. These results indicate that differential metabolism does not contribute to MCPA resistance in population 501.</p><fig position="float" fig-type="FIGURE" id="pld370105-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>(A) Four parameter log‐logistic regression (<italic toggle="no">y</italic> = <italic toggle="no">C</italic> + <italic toggle="no">D</italic> − <italic toggle="no">C</italic>/1+ exp{<italic toggle="no">b</italic>[log(<italic toggle="no">x</italic>) − log(<italic toggle="no">t</italic>
+<sub>50</sub>)]}) of <sup>14</sup>C‐MCPA metabolism in populations 501 (R) and 511 (S) at 6, 24, 48, and 72 HAT; (B) HPLC chromatograms of <sup>14</sup>C‐MCPA at 24 HAT for 501; and (C) 511. In (A), population 511 is designated by a triangle with a dashed line, and population 501 is designated by a circle and solid line. Error bars represent standard error.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="PLD3-9-e70105-g004.jpg"><?image-name PLD3-9-e70105-g004.jpg?><?image-size 98426?><?image-md5 a893479ec830cc9e5df4970911eb311d?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1535?><?image-original-width 1064?><?image-scaled-height 1023?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/a893479ec830/PLD3-9-e70105-g004.jpg?><?thumb-name PLD3-9-e70105-g004.gif?><?thumb-size 3133?><?thumb-md5 a5cf949eb8fd3d0b198fe22b8ad34d82?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 144?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/a5cf949eb8fd/PLD3-9-e70105-g004.gif?></graphic></fig></sec><sec id="pld370105-sec-0017"><label>3.3</label><title>RNA Sequencing Study</title><p>For the reference‐based alignment, there were 17 DEGs shared between all four contrasts (Figure <xref rid="pld370105-fig-0003" ref-type="fig">3</xref>, Oliveros <xref rid="pld370105-bib-0065" ref-type="bibr">2007–2015</xref>), and for the de novo transcriptome alignment, there were 38 DETs shared between all four contrasts (Figure <xref rid="pld370105-fig-0004" ref-type="fig">4</xref>, Oliveros <xref rid="pld370105-bib-0065" ref-type="bibr">2007–2015</xref>). In both treated and untreated contrasts for both approaches, there were consistently more genes that were significantly upregulated compared to downregulated (Figure <xref rid="pld370105-fig-0005" ref-type="fig">5A–D</xref>). Figure <xref rid="pld370105-fig-0006" ref-type="fig">6A–D</xref> demonstrates that there are more DEGs in the resistant and susceptible contrasts compared to the treated and untreated contrasts. The most frequent gene ontology (GO) terms were linked to basic cellular processes such as metal ion binding, ATP binding, DNA binding, and protein binding. Some of the lower frequency GO terms that have been linked to the auxin pathway include ABC‐type transporter activity [GO:0140359], SCF ubiquitin ligase complex [GO:0019005], ubiquitin conjugating enzyme activity [GO:0061631], and UDP glucosyltransferase activity [GO:0008194].</p><fig position="float" fig-type="FIGURE" id="pld370105-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>Venn diagram of differentially expressed genes from the reference‐based alignment. Overlapping ovals represent differentially expressed genes that are shared among contrasts. Genes are considered differentially expressed if they have a log2 fold‐change of &gt; 2 or &lt; −2 and an adjusted <italic toggle="no">p‐</italic>value of &lt; 0.05. The contrasts are represented as follows: <bold>(1)</bold> 501‐treated (RT) versus 511‐treated (ST), <bold>(2)</bold> 501‐untreated (RU) versus 511‐untreated (SU), <bold>(3)</bold> RT versus RU, and <bold>(4)</bold> ST versus SU.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="PLD3-9-e70105-g005.jpg"><?image-name PLD3-9-e70105-g005.jpg?><?image-size 107894?><?image-md5 e067640d31971edfc729768a7057e4c2?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 825?><?image-original-width 1004?><?image-scaled-height 550?><?image-scaled-width 669?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/e067640d3197/PLD3-9-e70105-g005.jpg?><?thumb-name PLD3-9-e70105-g005.gif?><?thumb-size 3037?><?thumb-md5 f6ba81539c9a05ebceba7421b5407261?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 82?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/f6ba81539c9a/PLD3-9-e70105-g005.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="pld370105-fig-0004" orientation="portrait"><label>FIGURE 4</label><caption><p>Venn diagram of differentially expressed transcripts from the de novo transcriptome alignment. Overlapping ovals represent differentially expressed transcripts that are shared among contrasts. Transcripts are considered differentially expressed if they have a log2 fold‐change of &gt; 2 or &lt; −2 and an adjusted <italic toggle="no">p‐</italic>value of &lt; 0.05. The contrasts are represented as follows: <bold>(1)</bold> 501‐treated (RT) versus 511‐treated (ST), <bold>(2)</bold> 501‐untreated (RU) versus 511‐untreated (SU), <bold>(3)</bold> RT versus RU, and <bold>(4)</bold> ST versus SU.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-7" orientation="portrait" xlink:href="PLD3-9-e70105-g002.jpg"><?image-name PLD3-9-e70105-g002.jpg?><?image-size 112941?><?image-md5 2c1b8ff34e35dfd56705a5e66e0b81bb?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 821?><?image-original-width 1004?><?image-scaled-height 547?><?image-scaled-width 669?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/2c1b8ff34e35/PLD3-9-e70105-g002.jpg?><?thumb-name PLD3-9-e70105-g002.gif?><?thumb-size 3510?><?thumb-md5 cebcc2999afa5b1ecdeddc330b508f59?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 82?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/cebcc2999afa/PLD3-9-e70105-g002.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="pld370105-fig-0005" orientation="portrait"><label>FIGURE 5</label><caption><p>Volcano plots displaying differentially expressed genes for the reference‐based alignment or de novo transcriptome alignment for treated and untreated contrasts between populations 501 and 511. The contrasts displayed are as follows: (A) 501‐treated (RT) versus 511‐treated (ST) for the reference‐based alignment, (B) RT versus ST for the de novo transcriptome alignment, (C) 501‐untreated (RU) versus 511‐untreated (SU) for the reference‐based alignment, and (D) RU versus SU for the de novo transcriptome alignment. Differentially expressed genes are differentiated from other genes by red circles. Dashed lines distinguish differentially expressed genes that are significantly upregulated or downregulated by a log2 fold‐change of &gt; 2 or &lt; −2 and an adjusted <italic toggle="no">p‐</italic>value of &lt; 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-9" orientation="portrait" xlink:href="PLD3-9-e70105-g007.jpg"><?image-name PLD3-9-e70105-g007.jpg?><?image-size 72597?><?image-md5 aaf396b6599c49f7b139806c619cf3c6?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 631?><?image-original-width 1064?><?image-scaled-height 420?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/aaf396b6599c/PLD3-9-e70105-g007.jpg?><?thumb-name PLD3-9-e70105-g007.gif?><?thumb-size 9951?><?thumb-md5 a03c7b613b19f95f5c2815f7110cd90f?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 134?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/a03c7b613b19/PLD3-9-e70105-g007.gif?></graphic></fig><fig position="float" fig-type="FIGURE" id="pld370105-fig-0006" orientation="portrait"><label>FIGURE 6</label><caption><p>Volcano plots displaying differentially expressed genes for the reference‐based alignment or de novo transcriptome alignment for resistant and susceptible contrasts between populations 501 and 511. The contrasts displayed are as follows: (A) 501‐treated (RT) versus 501‐untreated (RU) for the reference‐based alignment, (B) RT versus RU for the de novo transcriptome alignment, (C) 511‐treated (ST) versus 511‐untreated (SU) for the reference‐based alignment, and (D) ST versus SU for the de novo transcriptome alignment. Differentially expressed genes are differentiated from other genes by red circles. Dashed lines distinguish differentially expressed genes that are significantly upregulated or downregulated by a log2 fold‐change of &gt; 2 or &lt; −2 and an adjusted <italic toggle="no">p‐</italic>value of &lt; 0.05.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-11" orientation="portrait" xlink:href="PLD3-9-e70105-g003.jpg"><?image-name PLD3-9-e70105-g003.jpg?><?image-size 131555?><?image-md5 55cab9f34b587c248b7dd35eedd18abb?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 670?><?image-original-width 1064?><?image-scaled-height 446?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/55cab9f34b58/PLD3-9-e70105-g003.jpg?><?thumb-name PLD3-9-e70105-g003.gif?><?thumb-size 4394?><?thumb-md5 1b535e031179b8de9e00ff002f286750?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 127?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/1b535e031179/PLD3-9-e70105-g003.gif?></graphic></fig><p>Given the likelihood of a modification at the target site, investigation into potential mutations in critical auxin proteins was carried out using <italic toggle="yes">freebayes</italic> and IGV (Integrative Genomics Viewer) (v1.3.6, Garrison and Marth <xref rid="pld370105-bib-0032" ref-type="bibr">2012</xref>; Robinson et al. <xref rid="pld370105-bib-0071" ref-type="bibr">2011</xref>). No mutations were identified in TIR1, AFB1‐6, Aux/IAA1‐29, SAUR36, At3g23880, or ARF1‐8. However, a single nucleotide polymorphism (SNP) in ARF9 was identified in population 501 that caused a leucine to phenylalanine substitution at the protein level (Figures <xref rid="pld370105-supitem-0002" ref-type="supplementary-material">S1</xref> and <xref rid="pld370105-supitem-0003" ref-type="supplementary-material">S2</xref>). After locating the ARF9 gene sequence in the smooth pigweed genome, the gene sequence was extracted for each sample. The sequences for each sample for populations 501 and 511 were then aligned to the smooth pigweed genome in IGV (Figures <xref rid="pld370105-supitem-0002" ref-type="supplementary-material">S1</xref> and <xref rid="pld370105-supitem-0003" ref-type="supplementary-material">S2</xref>) to ensure that the SNP was unique to the resistant individuals. The exact SNP and location were verified using <italic toggle="yes">freebayes</italic>, and the process was repeated with the de novo transcriptome assembly. When the protein sequences for the 501 samples were aligned to the Arabidopsis genome, the amino acid substitution was further verified to be unique to population 501, with the substitution occurring at position 557 in Arabidopsis, which is predicted to be in the PB1 (Phox and Bem1p) domain.</p></sec></sec><sec sec-type="discussion" id="pld370105-sec-0018"><label>4</label><title>Discussion</title><p>The results of the absorption, translocation, and metabolism <sup>14</sup>C studies demonstrated that these NTSR mechanisms do not contribute to MCPA resistance in population 501. The findings of the RNA‐Seq experiment further validate this conclusion. Of the genes that typically contribute to NTSR mechanisms such as ABC‐transporters, cytochrome‐P450 monooxygenases, glucosyltransferases, and glutathione <italic toggle="yes">S</italic>‐transferases, very few were found to be differentially expressed between the two populations. Of these genes, there were two cytochrome P450 genes (cytochrome P450 76<sc>ad</sc>1 and alkane hydroxylase MAH1) that were differentially expressed. Cytochrome P450 76<sc>ad</sc>1 is involved in pigment biosynthesis (Sunnadeniya et al. <xref rid="pld370105-bib-0081" ref-type="bibr">2016</xref>) and was not differentially expressed in treated and untreated contrasts but had significantly lower activity in the resistant and susceptible contrasts. The alkane hydroxylase MAH1 plays a role in maintaining cuticular wax composition by producing secondary alcohols and ketones (Greer et al. <xref rid="pld370105-bib-0036" ref-type="bibr">2007</xref>) and was not differentially expressed in the untreated and resistant contrasts but had significantly lower activity in the treated contrast and significantly increased activity in the susceptible contrast. Based on our understanding of the functions of these genes, it is not likely that they play a meaningful role in the resistance mechanism and therefore it can be concluded that these NTSR mechanisms do not play a role in conferring MCPA resistance in population 501.</p><p>Both a reference‐based approach and a constructed de novo transcriptome were used to identify differentially expressed genes between resistant and susceptible individuals. Smooth pigweed was selected as a reference as it is the most phylogenetically similar <italic toggle="yes">Amaranthus</italic> species, with both smooth pigweed and green pigweed being members of the Hybridus clade (Waselkov et al. <xref rid="pld370105-bib-0090" ref-type="bibr">2018</xref>). Using a reference‐based approach can be beneficial as transcripts of low abundance can be detected; however, this is only possible if the reference genome is of high quality and accuracy (Martin and Wang <xref rid="pld370105-bib-0062" ref-type="bibr">2011</xref>). If no reference genome is available, assembling a <italic toggle="yes">de novo</italic> transcriptome is an appropriate solution depending on the availability of the genome of a closely related species. This approach can be beneficial to discover new transcripts not identified in the reference but requires a greater sequencing depth (Benjamin et al. <xref rid="pld370105-bib-0005" ref-type="bibr">2014</xref>; Martin and Wang <xref rid="pld370105-bib-0062" ref-type="bibr">2011</xref>). Although not required, both approaches were incorporated to serve as a means of comparison and strengthen the validity of the results.</p><p>Given the absence of involvement of major NTSR mechanisms, it was postulated that the mechanism of resistance may be linked to modifications of genes at the target site. To date, there have been at least three reported cases of target site mechanisms conferring resistance to SAHs in weed species (LeClere et al. <xref rid="pld370105-bib-0056" ref-type="bibr">2018</xref>; de Figueiredo, Küpper, et al. <xref rid="pld370105-bib-0018" ref-type="bibr">2022</xref>; Ghanizadeh et al. <xref rid="pld370105-bib-0033" ref-type="bibr">2024</xref>). There were at least four differentially expressed genes that were identified as playing a role in the auxin signaling pathway (Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref>). The first is 1‐aminocyclopropane‐1‐carboxylate synthase (ACS), a key enzyme in the ethylene biosynthesis pathway (Figure <xref rid="pld370105-fig-0007" ref-type="fig">7A,B</xref>). ACS is a cytosolic protein and is activated in response to auxin (Khan et al. <xref rid="pld370105-bib-0052" ref-type="bibr">2024</xref>). Ethylene is important for plant development as it regulates processes such as fruit ripening, senescence, and wounding response (Capitani et al. <xref rid="pld370105-bib-0010" ref-type="bibr">1999</xref>). ACS catalyzes the conversion of <italic toggle="yes">S</italic>‐adenosylmethionine (SAM) to 1‐aminocyclopropane‐1‐carboxylic acid (ACC) (Liang et al. <xref rid="pld370105-bib-0058" ref-type="bibr">1992</xref>), which is then converted to ethylene by ACC oxidase (Capitani et al. <xref rid="pld370105-bib-0010" ref-type="bibr">1999</xref>). The stability and degradation of certain ACS enzymes are regulated by E3 ligases (Khan et al. <xref rid="pld370105-bib-0052" ref-type="bibr">2024</xref>). ACS is critical for the mode of action of SAHs as increased ethylene biosynthesis is one of the key biochemical changes causing plant death by SAHs (Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). Shortly after the application of SAHs, auxin responsive genes are activated, causing increased transcription of ACS, which converts SAM to ACC, ultimately producing ethylene (Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). This subsequently causes several physiological responses such as leaf epinasty, tissue swelling, and senescence (Grossmann <xref rid="pld370105-bib-0037" ref-type="bibr">2009</xref>). In both the reference‐based alignment and de novo transcriptome alignment, the activity of ACS was significantly lower in the treated contrast and resistant contrast (Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref>). It is possible that if the function of ACS is reduced in resistant treated individuals, then ethylene does not accumulate in a significant concentration to impair plant functions in population 501.</p><table-wrap position="float" id="pld370105-tbl-0003" content-type="TABLE" orientation="portrait"><label>TABLE 3</label><caption><p>Comparison of differentially expressed genes of interest between reference‐based alignment and de novo transcriptome.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th colspan="10" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Reference‐based alignment</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Gene name</th><th align="center" valign="bottom" rowspan="1" colspan="1">Gene/transcript ID</th><th align="center" valign="bottom" rowspan="1" colspan="1">RT<xref rid="pld370105-note-0008" ref-type="table-fn">
+<sup>a</sup>
+</xref> vs. ST<xref rid="pld370105-note-0009" ref-type="table-fn">
+<sup>b</sup>
+</xref> LFC<xref rid="pld370105-note-0010" ref-type="table-fn">
+<sup>c</sup>
+</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">RT vs. ST adj. <italic toggle="no">p</italic>‐value</th><th align="center" valign="bottom" rowspan="1" colspan="1">RU<xref rid="pld370105-note-0011" ref-type="table-fn">
+<sup>d</sup>
+</xref> vs. SU<xref rid="pld370105-note-0012" ref-type="table-fn">
+<sup>e</sup>
+</xref> LFC</th><th align="center" valign="bottom" rowspan="1" colspan="1">RU vs. SU adj. <italic toggle="no">p‐</italic>value</th><th align="center" valign="bottom" rowspan="1" colspan="1">RT vs. RU LFC</th><th align="center" valign="bottom" rowspan="1" colspan="1">RT vs. RU adj. <italic toggle="no">p</italic>‐value</th><th align="center" valign="bottom" rowspan="1" colspan="1">ST vs. SU LFC</th><th align="center" valign="bottom" rowspan="1" colspan="1">ST vs. SU adj. <italic toggle="no">p</italic>‐value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">1‐Aminocyclopropane‐1‐carboxylate synthase</td><td align="center" valign="top" rowspan="1" colspan="1">Ah.12g05189</td><td align="center" valign="top" rowspan="1" colspan="1">−3.79</td><td align="center" valign="top" rowspan="1" colspan="1">3.82e<sup>−9</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−1.64</td><td align="center" valign="top" rowspan="1" colspan="1">−0.0148</td><td align="center" valign="top" rowspan="1" colspan="1">−2.75</td><td align="center" valign="top" rowspan="1" colspan="1">2.89e<sup>−6</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Auxin responsive SAUR36</td><td align="center" valign="top" rowspan="1" colspan="1">Ah.12g0564</td><td align="center" valign="top" rowspan="1" colspan="1">−2.88</td><td align="center" valign="top" rowspan="1" colspan="1">1.01e<sup>−3</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−0.081</td><td align="center" valign="top" rowspan="1" colspan="1">−0.0332</td><td align="center" valign="top" rowspan="1" colspan="1">−2.41</td><td align="center" valign="top" rowspan="1" colspan="1">6.72e<sup>−4</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−1.20</td><td align="center" valign="top" rowspan="1" colspan="1">0.0281</td></tr><tr><td colspan="10" align="left" valign="top" rowspan="1">De novo transcriptome</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">1‐Aminocyclopropane‐1‐carboxylate synthase</td><td align="center" valign="top" rowspan="1" colspan="1">499079</td><td align="center" valign="top" rowspan="1" colspan="1">−3.63</td><td align="center" valign="top" rowspan="1" colspan="1">7.09e<sup>−8</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−1.64</td><td align="center" valign="top" rowspan="1" colspan="1">0.0328</td><td align="center" valign="top" rowspan="1" colspan="1">−2.62</td><td align="center" valign="top" rowspan="1" colspan="1">1.23e<sup>−5</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">F‐Box/kelch‐repeat At3g23880</td><td align="center" valign="top" rowspan="1" colspan="1">433384</td><td align="center" valign="top" rowspan="1" colspan="1">−2.05</td><td align="center" valign="top" rowspan="1" colspan="1">1.90e<sup>−4</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">−1.72</td><td align="center" valign="top" rowspan="1" colspan="1">7.37e<sup>−4</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td><td align="center" valign="top" rowspan="1" colspan="1">NA</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Auxin‐repressed 12.5 kDa</td><td align="center" valign="top" rowspan="1" colspan="1">613765</td><td align="center" valign="top" rowspan="1" colspan="1">0.592</td><td align="center" valign="top" rowspan="1" colspan="1">0.0155</td><td align="center" valign="top" rowspan="1" colspan="1">−0.867</td><td align="center" valign="top" rowspan="1" colspan="1">9.62e<sup>−5</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">2.64</td><td align="center" valign="top" rowspan="1" colspan="1">9.70e<sup>−43</sup>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0.980</td><td align="center" valign="top" rowspan="1" colspan="1">9.94e<sup>−7</sup>
+</td></tr></tbody></table><table-wrap-foot id="pld370105-ntgp-0004"><fn id="pld370105-note-0008"><label>
+<sup>a</sup>
+</label><p>Resistant treated.</p></fn><fn id="pld370105-note-0009"><label>
+<sup>b</sup>
+</label><p>Susceptible treated.</p></fn><fn id="pld370105-note-0010"><label>
+<sup>c</sup>
+</label><p>Log2 fold change.</p></fn><fn id="pld370105-note-0011"><label>
+<sup>d</sup>
+</label><p>Resistant untreated.</p></fn><fn id="pld370105-note-0012"><label>
+<sup>e</sup>
+</label><p>Susceptible untreated.</p></fn></table-wrap-foot></table-wrap><fig position="float" fig-type="FIGURE" id="pld370105-fig-0007" orientation="portrait"><label>FIGURE 7</label><caption><p>Expression profiles of 1‐aminocyclopropane‐1‐carboxylate synthase (A, reference‐based alignment; B, de novo transcriptome alignment), SAUR36 (C, reference‐based alignment), At3g23880 (D, de novo transcriptome alignment), and auxin‐repressed 12.5 kDa (E, de novo transcriptome alignment) using boxplots based on raw counts. Condition represents the presence or absence of MCPA treatment in population 501 or 511.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-13" orientation="portrait" xlink:href="PLD3-9-e70105-g001.jpg"><?image-name PLD3-9-e70105-g001.jpg?><?image-size 80165?><?image-md5 80bbd7b671f7c188bc31c90966a6f8a3?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1114?><?image-original-width 1064?><?image-scaled-height 742?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/4124/12426415/80bbd7b671f7/PLD3-9-e70105-g001.jpg?><?thumb-name PLD3-9-e70105-g001.gif?><?thumb-size 2393?><?thumb-md5 ec46dcf5d2abbc230dfce6339164ae3e?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 105?><?thumb-scaled-width 100?><?thumb-cloudpmc-urn urn:cdn:blobs/4124/12426415/ec46dcf5d2ab/PLD3-9-e70105-g001.gif?></graphic></fig><p>Another gene of interest is small auxin up mRNA (SAUR) 36 (Figure <xref rid="pld370105-fig-0007" ref-type="fig">7C</xref>). SAURs are short‐lived auxin responsive genes that are transcribed following exposure to auxin (both endogenous and exogenous sources) (McClure and Guilfoyle <xref rid="pld370105-bib-0063" ref-type="bibr">1987</xref>; Hagen and Guilfoyle <xref rid="pld370105-bib-0042" ref-type="bibr">2002</xref>). SAUR genes have many distinctive functions including cell wall acidification, hypocotyl elongation in soybean, and senescence (Hagen and Guilfoyle <xref rid="pld370105-bib-0042" ref-type="bibr">2002</xref>; Stortenbeker and Bemer <xref rid="pld370105-bib-0080" ref-type="bibr">2019</xref>). In Arabidopsis, SAUR36 was significantly upregulated in response to auxin and was found to be a positive regulator of leaf senescence (Hou et al. <xref rid="pld370105-bib-0045" ref-type="bibr">2013</xref>). SAUR36 has also been identified as a critical gene in seed germination as it mediates the interaction between auxin and gibberellins in developing Arabidopsis seeds (Stamm and Kumar <xref rid="pld370105-bib-0077" ref-type="bibr">2013</xref>). Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref> demonstrates that SAUR36 is not differentially expressed in the untreated or susceptible contrasts but has significantly lower activity in the treated and resistant contrasts (Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref>). This finding could indicate that the reduced activity in SAUR36 in the treated 501 individuals could be preventing leaf senescence in the resistant population but not the susceptible, which could explain the lack of epinasty in 501 immediately following treatment. This is also important because although there has been no demonstrated link between ACS and SAUR36, ethylene production can play an important role in senescence, meaning that a modification at the target site could have multiple downstream effects in the auxin pathway.</p><p>At the auxin target site, there are several genes that play a critical role in the mode of action, including TIR1 and its F‐box homologs and Aux/IAA repressor proteins. When auxin is applied, this promotes the interaction of TIR1 or one of the AFB (Auxin‐signaling F‐box) homologs with Aux/IAAs (Tan et al. <xref rid="pld370105-bib-0082" ref-type="bibr">2007</xref>). This interaction causes the ubiquitination of Aux/IAAs by the 26S proteasome (Sauer et al. <xref rid="pld370105-bib-0072" ref-type="bibr">2013</xref>). The gene encoding one F‐box protein, identified as At3g23880, was identified as being significantly downregulated in the treated contrast (Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref>, Figure <xref rid="pld370105-fig-0007" ref-type="fig">7D</xref>). The function of At3g23880 is not well defined, although it may play a role in plant defense. In pepper (<styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Capsicum annuum</italic>
+</styled-content>), 2,4‐D repressed the expression of At3g23880, whereas 1‐aminocyclopropane‐1‐carboxylate, gibberellic acid, and IAA induced the expression of this gene (Gómez‐Merino et al. <xref rid="pld370105-bib-0034" ref-type="bibr">2020</xref>). Although this demonstrates that At3g23880 is responsive to auxin, there has been no direct link to the mode of action of SAHs, and therefore, At3g23880 is likely not critical to the mechanism of resistance. Another gene of interest, auxin‐repressed 12.5 kDa, had significantly increased activity in the resistant contrast (Table <xref rid="pld370105-tbl-0003" ref-type="table">3</xref>, Figure <xref rid="pld370105-fig-0007" ref-type="fig">7E</xref>). The function of auxin‐repressed 12.5 kDa in relation to the auxin signaling pathway is not well defined, although it has been linked to stress response, disease tolerance, and the formation of adventitious roots (Jing et al. <xref rid="pld370105-bib-0046" ref-type="bibr">2016</xref>; Hadjieva et al. <xref rid="pld370105-bib-0041" ref-type="bibr">2021</xref>; Libao et al. <xref rid="pld370105-bib-0060" ref-type="bibr">2019</xref>). Given that several auxin‐related genes are expressed in response to MCPA, this supports the finding that the mechanism of resistance is linked to the target site.</p><p>A SNP in ARF9 could be significant for several reasons. First, this mutation is in an ARF gene and ARFs are important transcription factors for the functioning of the auxin pathway. Following the ubiquitination of Aux/IAAs, ARFs are activated and bind to auxin responsive elements (AuxREs) to promote the expression of auxin responsive genes such as ACS, SAUR, and GH3 (Guilfoyle <xref rid="pld370105-bib-0038" ref-type="bibr">2007</xref>; Kelley and Riechers <xref rid="pld370105-bib-0050" ref-type="bibr">2007</xref>). ARFs contain three domains: an amino B3‐type DNA‐binding domain, a middle domain that determines whether the ARF is an activator or repressor of transcription, and a carboxy‐terminal dimerization domain (PB1) that is similar to domain III and IV in Aux/IAAs (Ulmasov et al. <xref rid="pld370105-bib-0086" ref-type="bibr">1997</xref>; Ulmasov et al. <xref rid="pld370105-bib-0087" ref-type="bibr">1999</xref>; Guilfoyle and Hagen <xref rid="pld370105-bib-0040" ref-type="bibr">2007</xref>; Korasick et al. <xref rid="pld370105-bib-0054" ref-type="bibr">2014</xref>). The PB1 domain is the only domain that is auxin responsive, and the interaction between Aux/IAAs and ARFs in this domain is critical to the repression of auxin responsive genes (Tiwari et al. <xref rid="pld370105-bib-0083" ref-type="bibr">2003</xref>). ARF9 was initially characterized as a transcriptional repressor, with the middle domain being rich in serine, proline, and leucine (Guilfoyle and Hagen <xref rid="pld370105-bib-0040" ref-type="bibr">2007</xref>; Tiwari et al. <xref rid="pld370105-bib-0083" ref-type="bibr">2003</xref>). However, ARF9 has been found to interact with many Aux/IAAs and was later classified as acting more as a transcriptional activator (Vernoux et al. <xref rid="pld370105-bib-0089" ref-type="bibr">2011</xref>). ARF9 has been found to mediate suspensor development during embryogenesis and directly interacts with Aux/IAA10 (Rademacher et al. <xref rid="pld370105-bib-0070" ref-type="bibr">2012</xref>). ARF9 has also been identified as a negative regulator of cell division during tomato fruit development, with decreased transcript levels linked to increased fruit size (De Jong et al. <xref rid="pld370105-bib-0020" ref-type="bibr">2015</xref>). To date, no mutations in ARFs have been linked to herbicide resistance in weeds; however, mutations in ARFs characterized as transcriptional activators (ARF 5, 7, and 19) have been found to confer resistance to SAHs (Todd et al. <xref rid="pld370105-bib-0084" ref-type="bibr">2020</xref>). A modification to ARF9 could impact the interaction with Aux/IAAs, which may alter the mode of action of MCPA.</p><p>The interaction between Aux/IAAs and ARFs is facilitated through the presence of a conserved lysine in the N‐terminus and an acidic motif in the C‐terminus in the PB1 domain (Guilfoyle <xref rid="pld370105-bib-0039" ref-type="bibr">2015</xref>). This promotes the formation of electrostatic and hydrogen bonds between Aux/IAAs and ARFs, allowing for dimerization (Guilfoyle <xref rid="pld370105-bib-0039" ref-type="bibr">2015</xref>). This specific leucine to phenylalanine substitution occurs on the positive face of ARF9 in α1 of domain III, and Aux/IAAs associate with ARFs through a front‐to‐back configuration (Guilfoyle <xref rid="pld370105-bib-0039" ref-type="bibr">2015</xref>). How the positive face of ARF9 (where the amino acid substitution occurs) associates with the negative face of PB1 in Aux/IAAs is important, as the amino acid substitution could alter the interaction and prevent dimerization. It is possible that dimerization is an important step in targeting Aux/IAAs for ubiquitination by the 26S proteasome. If dimerization cannot occur or the function is impaired, then this could also prevent the expression of auxin‐responsive genes, as ARF9 acts as a transcription factor to activate the transcription of genes such as ACS, SAUR36, and At3g23880. Given that all three of these genes were significantly downregulated in the resistant treated individuals, this means that their biological processes are not being activated, which allows the plant to survive the herbicide. The actual function of this ARF9 mutation remains to be fully validated but could indicate a novel mechanism of resistance.</p></sec><sec sec-type="conclusions" id="pld370105-sec-0019"><label>5</label><title>Conclusions</title><p>Resistance to MCPA in population 501 is not linked to NTSR mechanisms including altered absorption, translocation, and metabolism. Based on this finding, it is likely that the mechanism of resistance involves modifications in target site genes. The results from the RNA Sequencing study highlighted some unique genes of interest including ACS, SAUR36, and F‐box At3g23880. Given that these genes were all significantly downregulated in the resistant treated population, this indicates that the cascade of events leading to plant death by MCPA is altered, permitting survival in the resistant population. Finally, the identification of a SNP in ARF9 could further support that the mechanism of resistance is linked to a modification of the target site. The role of ARF genes in the auxin pathway is significant, as the interaction between Aux/IAAs and ARFs promotes dimerization, a necessary process for ubiquitination of Aux/IAAs. If the interaction between Aux/IAAs and ARF9 is altered due to this mutation, activation of auxin responsive genes such as ACS, SAUR36, and At3g23880 could be subsequently prevented or reduced. Further research must be conducted to fully validate the involvement of this SNP in the functioning of ARF9 and to determine if this SNP has functional significance in the mechanism of MCPA resistance.</p></sec><sec id="pld370105-sec-0020"><title>Author Contributions</title><p>
+<bold>Isabelle Aicklen:</bold> conceptualization, methodology, investigation, data collection, data analysis, writing, manuscript revision. <bold>Mithila Jugulam:</bold> conceptualization, methodology, manuscript revision. <bold>Todd Gaines:</bold> conceptualization, methodology, manuscript revision. <bold>William Kramer:</bold> conceptualization, methodology, investigation, data analysis, manuscript revision. <bold>Martin Laforest:</bold> conceptualization, data analysis, manuscript revision. <bold>Darren Robinson:</bold> conceptualization, manuscript revision. <bold>Peter Sikkema:</bold> conceptualization, manuscript revision. <bold>François Tardif:</bold> conceptualization, manuscript revision, supervision.</p></sec><sec sec-type="COI-statement" id="pld370105-sec-0022"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec><sec id="pld370105-sec-0025"><title>Peer Review</title><p>The peer review history for this article is available in the <xref rid="pld370105-supitem-0001" ref-type="supplementary-material">Supporting Information</xref> for this article.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material id="pld370105-supitem-0001" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Data S1:</bold> Peer Review.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PLD3-9-e70105-s003.pdf" position="float" orientation="portrait"><?suppdata-name PLD3-9-e70105-s003.pdf?><?suppdata-size 124091?><?suppdata-md5 b6c23b9aa9c7e16d22153437a4e7a0dd?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type application?><?suppdata-mime-sub-type pdf?><?suppdata-cloudpmc-urn urn:app:4124/12426415/b6c23b9aa9c7/PLD3-9-e70105-s003.pdf?></media></supplementary-material><supplementary-material id="pld370105-supitem-0002" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S1:</bold> Comparison of auxin response factor 9 (ARF9) sequence data between three untreated individuals from population 501 (MCPA‐resistant) and three untreated individuals from population 511 (MCPA‐susceptible) when aligned to the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus hybridus</italic>
+</styled-content> genome. The figure demonstrates a single nucleotide polymorphism conferring a leucine (Leu) to phenylalanine (Phe) substitution at this location in ARF9.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PLD3-9-e70105-s001.jpg" position="float" orientation="portrait"><?suppdata-name PLD3-9-e70105-s001.jpg?><?suppdata-size 175893?><?suppdata-md5 e4619a8e976081d46dc56c311953e106?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:4124/12426415/e4619a8e9760/PLD3-9-e70105-s001.jpg?></media></supplementary-material><supplementary-material id="pld370105-supitem-0003" position="float" content-type="local-data" orientation="portrait"><caption><p>
+<bold>Figure S2:</bold> Comparison of auxin response factor 9 (ARF9) sequence data between three treated individuals from population 501 (MCPA‐resistant) and three treated individuals from population 511 (MCPA‐susceptible) when aligned to the <styled-content style="fixed-case" toggle="no">
+<italic toggle="no">Amaranthus hybridus</italic>
+</styled-content> genome. The figure demonstrates a single nucleotide polymorphism conferring a leucine (Leu) to phenylalanine (Phe) substitution at this location in ARF9.</p></caption><media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="PLD3-9-e70105-s002.jpg" position="float" orientation="portrait"><?suppdata-name PLD3-9-e70105-s002.jpg?><?suppdata-size 179779?><?suppdata-md5 1125b7d7d5653e259e8461da0fb9e088?><?suppdata-image-server-status NEVER_LOAD?><?suppdata-mime-type image?><?suppdata-mime-sub-type jpeg?><?suppdata-cloudpmc-urn urn:app:4124/12426415/1125b7d7d565/PLD3-9-e70105-s002.jpg?></media></supplementary-material></sec></body><back><ack id="pld370105-sec-0021"><title>Acknowledgments</title><p>This research was funded in part by the Grain Farmers of Ontario, the Ontario Agri‐Food Innovation Alliance, and the Schneller and Summers Scholarship. We acknowledge the technical support provided by Dr. Aarthy Selvam, Dr. Yaiphabi Kuman, Dr. Caio Brunharo, and Dr. Sasan Amirsadeghi.</p></ack><sec sec-type="data-availability" id="pld370105-sec-0024"><title>Data Availability Statement</title><p>The data underlying this article are available in the Gene Expression Omnibus at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276701" ext-link-type="uri" specific-use="software is-supplemented-by">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276701</ext-link> and can be accessed with GEO Accession <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276701" ext-link-type="uri">GSE276701</ext-link>.</p></sec><ref-list content-type="cited-references" id="pld370105-bibl-0001"><title>References</title><ref id="pld370105-bib-0001"><mixed-citation publication-type="journal" id="pld370105-cit-0001">
+<string-name name-style="western">
+<surname>Aicklen</surname>, <given-names>I. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Smith</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Metzger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Sikkema</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Tardif</surname>
+</string-name>. <year>2024</year>. “<article-title>Confirmation of Synthetic Auxin Herbicide Resistance in a Green Pigweed (<italic toggle="yes">Amaranthus powellii</italic>) Population From Ontario, Canada</article-title>.” <source>Weed Science</source>
+<volume>72</volume>: <fpage>1</fpage>–<lpage>8</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0002"><mixed-citation publication-type="journal" id="pld370105-cit-0002">
+<string-name name-style="western">
+<surname>Aicklen</surname>, <given-names>I. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Soltani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Tardif</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Robinson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Laforest</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Sikkema</surname>
+</string-name>. <year>2022</year>. “<article-title>Control of Multiple‐Herbicide‐Resistant Green Pigweed (<italic toggle="yes">Amaranthus powellii</italic>) With Preemergence and Postemergence Herbicides in Ontario Soybean Production</article-title>.” <source>Agronomy</source>
+<volume>12</volume>: <elocation-id>2075</elocation-id>.</mixed-citation></ref><ref id="pld370105-bib-0003"><mixed-citation publication-type="journal" id="pld370105-cit-0003">
+<string-name name-style="western">
+<surname>Aicklen</surname>, <given-names>I. K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Soltani</surname>
+</string-name>, <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Tardif</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Robinson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. H.</given-names>
+<surname>Sikkema</surname>
+</string-name>. <year>2022</year>. “<article-title>Control of Multiple‐Herbicide‐Resistant Green Pigweed (<italic toggle="yes">Amaranthus powellii</italic>) With Preemergence and Postemergence Herbicides in Ontario Corn Production</article-title>.” <source>Journal of Agricultural Science</source>
+<volume>14</volume>: <fpage>1</fpage>.</mixed-citation></ref><ref id="pld370105-bib-0004"><mixed-citation publication-type="journal" id="pld370105-cit-0004">
+<string-name name-style="western">
+<surname>Altschul</surname>, <given-names>S. F.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Gish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Miller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. W.</given-names>
+<surname>Myers</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. J.</given-names>
+<surname>Lipman</surname>
+</string-name>. <year>1990</year>. “<article-title>Basic Local Alignment Search Tool</article-title>.” <source>Journal of Molecular Biology</source>
+<volume>215</volume>: <fpage>403</fpage>–<lpage>410</lpage>.<pub-id pub-id-type="pmid">2231712</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/S0022-2836(05)80360-2</pub-id></mixed-citation></ref><ref id="pld370105-bib-0005"><mixed-citation publication-type="journal" id="pld370105-cit-0005">
+<string-name name-style="western">
+<surname>Benjamin</surname>, <given-names>A. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nichols</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. W.</given-names>
+<surname>Burke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. S.</given-names>
+<surname>Ginsburg</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. E.</given-names>
+<surname>Lucas</surname>
+</string-name>. <year>2014</year>. “<article-title>Comparing Reference‐Based RNA‐Seq Mapping Methods for Non‐Human Primate Data</article-title>.” <source>BMC Genomics</source>
+<volume>15</volume>: <fpage>1</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="pmid">25001289</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2164-15-570</pub-id><pub-id pub-id-type="pmcid">PMC4112205</pub-id></mixed-citation></ref><ref id="pld370105-bib-0006"><mixed-citation publication-type="journal" id="pld370105-cit-0006">
+<string-name name-style="western">
+<surname>Bernards</surname>, <given-names>M. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Crespo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. R.</given-names>
+<surname>Kruger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Gaussoin</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Tranel</surname>
+</string-name>. <year>2012</year>. “<article-title>A Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>) Population Resistant to 2,4‐D</article-title>.” <source>Weed Science</source>
+<volume>60</volume>: <fpage>379</fpage>–<lpage>384</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0007"><mixed-citation publication-type="journal" id="pld370105-cit-0007">
+<string-name name-style="western">
+<surname>Blum</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H. Y.</given-names>
+<surname>Chang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Chuguransky</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>The InterPro Protein Families and Domains Database: 20 Years On</article-title>.” <source>Nucleic Acids Research</source>
+<volume>49</volume>: <fpage>D344</fpage>–<lpage>D354</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/nar/gkaa977</pub-id><pub-id pub-id-type="pmcid">PMC7778928</pub-id><pub-id pub-id-type="pmid">33156333</pub-id></mixed-citation></ref><ref id="pld370105-bib-0008"><mixed-citation publication-type="journal" id="pld370105-cit-0008">
+<string-name name-style="western">
+<surname>Busi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Goggin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I. M.</given-names>
+<surname>Heap</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Weed Resistance to Synthetic Auxin Herbicides</article-title>.” <source>Pest Management Science</source>
+<volume>74</volume>: <fpage>2265</fpage>–<lpage>2276</lpage>.<pub-id pub-id-type="pmid">29235732</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ps.4823</pub-id><pub-id pub-id-type="pmcid">PMC6175398</pub-id></mixed-citation></ref><ref id="pld370105-bib-0009"><mixed-citation publication-type="journal" id="pld370105-cit-0009">
+<string-name name-style="western">
+<surname>Camacho</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Coulouris</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Avagyan</surname>
+</string-name>, et al. <year>2009</year>. “<article-title>BLAST+: Architecture and Applications</article-title>.” <source>BMC Bioinformatics</source>
+<volume>10</volume>: <fpage>1</fpage>–<lpage>9</lpage>.<pub-id pub-id-type="pmid">20003500</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/1471-2105-10-421</pub-id><pub-id pub-id-type="pmcid">PMC2803857</pub-id></mixed-citation></ref><ref id="pld370105-bib-0010"><mixed-citation publication-type="journal" id="pld370105-cit-0010">
+<string-name name-style="western">
+<surname>Capitani</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Hohenester</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Feng</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Storici</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. F.</given-names>
+<surname>Kirsch</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. N.</given-names>
+<surname>Jansonius</surname>
+</string-name>. <year>1999</year>. “<article-title>Structure of 1‐Aminocyclopropane‐1‐Carboxylate Synthase, a Key Enzyme in the Biosynthesis of the Plant Hormone Ethylene</article-title>.” <source>Journal of Molecular Biology</source>
+<volume>294</volume>: <fpage>745</fpage>–<lpage>756</lpage>.<pub-id pub-id-type="pmid">10610793</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1006/jmbi.1999.3255</pub-id></mixed-citation></ref><ref id="pld370105-bib-0011"><mixed-citation publication-type="journal" id="pld370105-cit-0011">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>
+<year>2023</year>. “<article-title>Ultrafast One‐Pass FASTQ Data Preprocessing, Quality Control, and Deduplication Using Fastp</article-title>.” <source>iMeta</source>
+<volume>2</volume>: <elocation-id>e107</elocation-id>.<pub-id pub-id-type="pmid">38868435</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/imt2.107</pub-id><pub-id pub-id-type="pmcid">PMC10989850</pub-id></mixed-citation></ref><ref id="pld370105-bib-0012"><mixed-citation publication-type="journal" id="pld370105-cit-0012">
+<string-name name-style="western">
+<surname>Chen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Zhou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Chen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Gu</surname>
+</string-name>. <year>2018</year>. “<article-title>Fastp: An Ultra‐Fast All‐in‐One FASTQ Preprocessor</article-title>.” <source>Bioinformatics</source>
+<volume>34</volume>: <fpage>i884</fpage>–<lpage>i890</lpage>.<pub-id pub-id-type="pmid">30423086</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bty560</pub-id><pub-id pub-id-type="pmcid">PMC6129281</pub-id></mixed-citation></ref><ref id="pld370105-bib-0013"><mixed-citation publication-type="journal" id="pld370105-cit-0013">
+<string-name name-style="western">
+<surname>Chiu</surname>, <given-names>L. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Heckert</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>You</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Members of the GH3 Family of Proteins Conjugate 2,4‐D and Dicamba With Aspartate and Glutamate</article-title>.” <source>Plant and Cell Physiology</source>
+<volume>59</volume>: <fpage>2366</fpage>–<lpage>2380</lpage>.<pub-id pub-id-type="pmid">30101323</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/pcp/pcy160</pub-id></mixed-citation></ref><ref id="pld370105-bib-0014"><mixed-citation publication-type="book" id="pld370105-cit-0014">
+<person-group person-group-type="editor">
+<string-name name-style="western">
+<surname>Cobb</surname>, <given-names>A. H.</given-names>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Reade</surname>
+</string-name>
+</person-group>, eds. <year>2011</year>. <source>Herbicides and Plant Physiology</source>. <edition>2nd</edition> ed, <fpage>286</fpage>. <publisher-name>John Wiley &amp; Sons</publisher-name>.</mixed-citation></ref><ref id="pld370105-bib-0015"><mixed-citation publication-type="journal" id="pld370105-cit-0015">
+<string-name name-style="western">
+<surname>Crespo</surname>, <given-names>R. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. B.</given-names>
+<surname>Wingeyer</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. R.</given-names>
+<surname>Kruger</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Riggins</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Tranel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. L.</given-names>
+<surname>Bernards</surname>
+</string-name>. <year>2017</year>. “<article-title>Multiple‐Herbicide Resistance in a 2,4‐D–Resistant Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>) Population From Nebraska</article-title>.” <source>Weed Science</source>
+<volume>65</volume>: <fpage>743</fpage>–<lpage>754</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0016"><mixed-citation publication-type="journal" id="pld370105-cit-0016">
+<string-name name-style="western">
+<surname>Danecek</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Bonfield</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Liddle</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>Twelve Years of SAMtools and BCFtools</article-title>.” <source>GigaScience</source>
+<volume>10</volume>: <elocation-id>giab008</elocation-id>.<pub-id pub-id-type="pmid">33590861</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gigascience/giab008</pub-id><pub-id pub-id-type="pmcid">PMC7931819</pub-id></mixed-citation></ref><ref id="pld370105-bib-0017"><mixed-citation publication-type="journal" id="pld370105-cit-0017">
+<string-name name-style="western">
+<surname>de Figueiredo</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Barnes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Boot</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>Identification of a Novel 2,4‐D Metabolic Detoxification Pathway in 2,4‐D‐Resistant Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>)</article-title>.” <source>Journal of Agricultural and Food Chemistry</source>
+<volume>70</volume>: <fpage>15380</fpage>–<lpage>15389</lpage>.<pub-id pub-id-type="pmid">36453610</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/acs.jafc.2c05908</pub-id></mixed-citation></ref><ref id="pld370105-bib-0018"><mixed-citation publication-type="journal" id="pld370105-cit-0018">
+<string-name name-style="western">
+<surname>de Figueiredo</surname>, <given-names>M. R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Küpper</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Malone</surname>
+</string-name>, et al. <year>2022</year>. “<article-title>An In‐Frame Deletion Mutation in the Degron Tail of Auxin Coreceptor IAA2 Confers Resistance to the Herbicide 2,4‐D in <italic toggle="yes">Sisymbrium orientale</italic>
+</article-title>.” <source>Proc Nat Acad Sci</source>
+<volume>119</volume>: <elocation-id>e2105819119</elocation-id>.<pub-id pub-id-type="pmid">35217601</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.2105819119</pub-id><pub-id pub-id-type="pmcid">PMC8892348</pub-id></mixed-citation></ref><ref id="pld370105-bib-0019"><mixed-citation publication-type="journal" id="pld370105-cit-0019">
+<string-name name-style="western">
+<surname>de Figueiredo</surname>, <given-names>M. R. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Leibhart</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z. J.</given-names>
+<surname>Reicher</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Metabolism of 2,4‐Dichlorophenoxyacetic Acid Contributes to Resistance in a Common Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>) Population</article-title>.” <source>Pest Management Science</source>
+<volume>74</volume>: <fpage>2356</fpage>–<lpage>2362</lpage>.<pub-id pub-id-type="pmid">29194949</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ps.4811</pub-id></mixed-citation></ref><ref id="pld370105-bib-0020"><mixed-citation publication-type="journal" id="pld370105-cit-0020">
+<string-name name-style="western">
+<surname>De Jong</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wolters‐Arts</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B. C.</given-names>
+<surname>Schimmel</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>
+<italic toggle="yes">Solanum lycopersicum</italic> Auxin Response Factor 9 Regulates Cell Division Activity During Early Tomato Fruit Development</article-title>.” <source>Journal of Experimental Botany</source>
+<volume>66</volume>: <fpage>3405</fpage>–<lpage>3416</lpage>.<pub-id pub-id-type="pmid">25883382</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jxb/erv152</pub-id><pub-id pub-id-type="pmcid">PMC4449553</pub-id></mixed-citation></ref><ref id="pld370105-bib-0021"><mixed-citation publication-type="journal" id="pld370105-cit-0021">
+<string-name name-style="western">
+<surname>Dellaferrera</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Cortés</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Panigo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>De Prado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Christoffoleti</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Perreta</surname>
+</string-name>. <year>2018</year>. “<article-title>First Report of <italic toggle="yes">Amaranthus hybridus</italic> With Multiple Resistance to 2,4‐D, Dicamba, and Glyphosate</article-title>.” <source>Agronomy</source>
+<volume>8</volume>: <elocation-id>140</elocation-id>.</mixed-citation></ref><ref id="pld370105-bib-0022"><mixed-citation publication-type="journal" id="pld370105-cit-0022">
+<string-name name-style="western">
+<surname>Délye</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jasieniuk</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Le Corre</surname>
+</string-name>. <year>2013</year>. “<article-title>Deciphering the Evolution of Herbicide Resistance in Weeds</article-title>.” <source>Trends in Genetics</source>
+<volume>29</volume>: <fpage>649</fpage>–<lpage>658</lpage>.<pub-id pub-id-type="pmid">23830583</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.tig.2013.06.001</pub-id></mixed-citation></ref><ref id="pld370105-bib-0023"><mixed-citation publication-type="journal" id="pld370105-cit-0023">
+<string-name name-style="western">
+<surname>Dharmasiri</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Dharmasiri</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Estelle</surname>
+</string-name>. <year>2005</year>. “<article-title>The F‐Box Protein TIR1 Is an Auxin Receptor</article-title>.” <source>Nature</source>
+<volume>435</volume>: <fpage>441</fpage>–<lpage>445</lpage>.<pub-id pub-id-type="pmid">15917797</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature03543</pub-id></mixed-citation></ref><ref id="pld370105-bib-0024"><mixed-citation publication-type="journal" id="pld370105-cit-0024">
+<string-name name-style="western">
+<surname>Diebold</surname>, <given-names>R. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K. E.</given-names>
+<surname>McNaughton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Lee</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Tardif</surname>
+</string-name>. <year>2003</year>. “<article-title>Multiple Resistance to Imazethapyr and Atrazine in Powell Amaranth (<italic toggle="yes">Amaranthus powellii</italic>)</article-title>.” <source>Weed Science</source>
+<volume>51</volume>: <fpage>312</fpage>–<lpage>318</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0025"><mixed-citation publication-type="journal" id="pld370105-cit-0025">
+<string-name name-style="western">
+<surname>Dobin</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>T. R.</given-names>
+<surname>Gingeras</surname>
+</string-name>. <year>2015</year>. “<article-title>Mapping RNA‐Seq Reads With STAR</article-title>.” <source>Current Protocols in Bioinformatics</source>
+<volume>51</volume>: <fpage>11</fpage>–<lpage>14</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/0471250953.bi1114s51</pub-id><pub-id pub-id-type="pmcid">PMC4631051</pub-id><pub-id pub-id-type="pmid">26334920</pub-id></mixed-citation></ref><ref id="pld370105-bib-0026"><mixed-citation publication-type="journal" id="pld370105-cit-0026">
+<string-name name-style="western">
+<surname>Ellis</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Nagpal</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Young</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Reed</surname>
+</string-name>. <year>2005</year>. “<article-title>Auxin Response Factor1 and Auxin Response Factor2 Regulate Senescence and Floral Organ Abscission in <italic toggle="yes">Arabidopsis thaliana</italic>
+</article-title>.” <source>Development</source>
+<volume>132</volume>: <fpage>4563</fpage>–<lpage>4574</lpage>.<pub-id pub-id-type="pmid">16176952</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1242/dev.02012</pub-id></mixed-citation></ref><ref id="pld370105-bib-0027"><mixed-citation publication-type="journal" id="pld370105-cit-0027">
+<string-name name-style="western">
+<surname>Evans</surname>, <given-names>C. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>Strom</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Riecher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Davis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P. J.</given-names>
+<surname>Tranel</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Hager</surname>
+</string-name>. <year>2019</year>. “<article-title>Characterization of A Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>) Population From Illinois Resistant to Herbicides From Five Site‐of‐Action Groups</article-title>.” <source>Weed Technology</source>
+<volume>33</volume>: <fpage>400</fpage>–<lpage>410</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0028"><mixed-citation publication-type="journal" id="pld370105-cit-0028">
+<string-name name-style="western">
+<surname>Ferguson</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hamill</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Tardif</surname>
+</string-name>. <year>2001</year>. “<article-title>ALS Inhibitor Resistance in Populations of Powell Amaranth and Redroot Pigweed</article-title>.” <source>Weed Science</source>
+<volume>49</volume>: <fpage>448</fpage>–<lpage>453</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0029"><mixed-citation publication-type="journal" id="pld370105-cit-0029">
+<string-name name-style="western">
+<surname>Feung</surname>, <given-names>C. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R. H.</given-names>
+<surname>Hamilton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. O.</given-names>
+<surname>Mumma</surname>
+</string-name>. <year>1975</year>. “<article-title>Metabolism of 2,4‐Dichlorophenoxyacetic Acid. VII. Comparison of Metabolites From Five Species of Plant Callus Tissue Cultures</article-title>.” <source>Journal of Agricultural and Food Chemistry</source>
+<volume>23</volume>: <fpage>373</fpage>–<lpage>376</lpage>.<pub-id pub-id-type="pmid">1150979</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/jf60199a065</pub-id></mixed-citation></ref><ref id="pld370105-bib-0030"><mixed-citation publication-type="journal" id="pld370105-cit-0030">
+<string-name name-style="western">
+<surname>Fu</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Niu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Zhu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Li</surname>
+</string-name>. <year>2012</year>. “<article-title>CD‐HIT: Accelerated for Clustering the Next‐Generation Sequencing Data</article-title>.” <source>Bioinformatics</source>
+<volume>28</volume>: <fpage>3150</fpage>–<lpage>3152</lpage>.<pub-id pub-id-type="pmid">23060610</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/bts565</pub-id><pub-id pub-id-type="pmcid">PMC3516142</pub-id></mixed-citation></ref><ref id="pld370105-bib-0031"><mixed-citation publication-type="journal" id="pld370105-cit-0031">
+<string-name name-style="western">
+<surname>Gaines</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. O.</given-names>
+<surname>Duke</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Morran</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Mechanisms of Evolved Herbicide Resistance</article-title>.” <source>Journal of Biological Chemistry</source>
+<volume>295</volume>: <fpage>10307</fpage>–<lpage>10330</lpage>.<pub-id pub-id-type="pmid">32430396</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1074/jbc.REV120.013572</pub-id><pub-id pub-id-type="pmcid">PMC7383398</pub-id></mixed-citation></ref><ref id="pld370105-bib-0032"><mixed-citation publication-type="miscellaneous" id="pld370105-cit-0032">
+<string-name name-style="western">
+<surname>Garrison</surname>, <given-names>E.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Marth</surname>
+</string-name>. <year>2012</year>. “<article-title>Haplotype‐Based Variant Detection From Short‐Read Sequencing</article-title>.” arXiv Preprint arXiv:1207.3907.</mixed-citation></ref><ref id="pld370105-bib-0033"><mixed-citation publication-type="journal" id="pld370105-cit-0033">
+<string-name name-style="western">
+<surname>Ghanizadeh</surname>, <given-names>H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>He</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. G.</given-names>
+<surname>Griffiths</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>A novel Mutation in IAA16 Is Associated With Dicamba Resistance in <italic toggle="yes">Chenopodium album</italic>
+</article-title>.” <source>Pest Management Science</source>
+<volume>80</volume>: <fpage>3675</fpage>–<lpage>3683</lpage>.<pub-id pub-id-type="pmid">38459963</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ps.8071</pub-id></mixed-citation></ref><ref id="pld370105-bib-0034"><mixed-citation publication-type="journal" id="pld370105-cit-0034">
+<string-name name-style="western">
+<surname>Gómez‐Merino</surname>, <given-names>F. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. I.</given-names>
+<surname>Trejo‐Téllez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>García‐Jiménez</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H. F.</given-names>
+<surname>Escobar‐Sepúlveda</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. M.</given-names>
+<surname>Ramírez‐Olvera</surname>
+</string-name>. <year>2020</year>. “<article-title>Silicon Flow From Root to Shoot in Pepper: A Comprehensive In Silico Analysis Reveals a Potential Linkage Between Gene Expression and Hormone Signaling That Stimulates Plant Growth and Metabolism</article-title>.” <source>PeerJ</source>
+<volume>8</volume>: <elocation-id>e10053</elocation-id>.<pub-id pub-id-type="pmid">33194376</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.7717/peerj.10053</pub-id><pub-id pub-id-type="pmcid">PMC7648454</pub-id></mixed-citation></ref><ref id="pld370105-bib-0035"><mixed-citation publication-type="journal" id="pld370105-cit-0035">
+<string-name name-style="western">
+<surname>Gray</surname>, <given-names>W. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Kepinski</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Rouse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Leyser</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Estelle</surname>
+</string-name>. <year>2001</year>. “<article-title>Auxin Regulates SCFTIR1‐Dependent Degradation of AUX/IAA Proteins</article-title>.” <source>Nature</source>
+<volume>414</volume>: <fpage>271</fpage>–<lpage>276</lpage>.<pub-id pub-id-type="pmid">11713520</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/35104500</pub-id></mixed-citation></ref><ref id="pld370105-bib-0036"><mixed-citation publication-type="journal" id="pld370105-cit-0036">
+<string-name name-style="western">
+<surname>Greer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Wen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Bird</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>The Cytochrome P450 Enzyme CYP96A15 Is the Midchain Alkane Hydroxylase Responsible for Formation of Secondary Alcohols and Ketones in Stem Cuticular Wax of Arabidopsis</article-title>.” <source>Plant Physiology</source>
+<volume>145</volume>: <fpage>653</fpage>–<lpage>667</lpage>.<pub-id pub-id-type="pmid">17905869</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1104/pp.107.107300</pub-id><pub-id pub-id-type="pmcid">PMC2048791</pub-id></mixed-citation></ref><ref id="pld370105-bib-0037"><mixed-citation publication-type="journal" id="pld370105-cit-0037">
+<string-name name-style="western">
+<surname>Grossmann</surname>, <given-names>K.</given-names>
+</string-name>
+<year>2009</year>. “<article-title>Auxin Herbicides: Current Status of Mechanism and Mode of Action</article-title>.” <source>Pest Management Science</source>
+<volume>66</volume>: <fpage>113</fpage>–<lpage>120</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ps.1860</pub-id><pub-id pub-id-type="pmid">19823992</pub-id></mixed-citation></ref><ref id="pld370105-bib-0038"><mixed-citation publication-type="journal" id="pld370105-cit-0038">
+<string-name name-style="western">
+<surname>Guilfoyle</surname>, <given-names>T. J.</given-names>
+</string-name>
+<year>2007</year>. “<article-title>Sticking with auxin</article-title>.” <source>Nature</source>
+<volume>446</volume>: <fpage>621</fpage>–<lpage>622</lpage>.<pub-id pub-id-type="pmid">17410164</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/446621a</pub-id></mixed-citation></ref><ref id="pld370105-bib-0039"><mixed-citation publication-type="journal" id="pld370105-cit-0039">
+<string-name name-style="western">
+<surname>Guilfoyle</surname>, <given-names>T. J.</given-names>
+</string-name>
+<year>2015</year>. “<article-title>The PB1 Domain in Auxin Response Factor and Aux/IAA Proteins: A Versatile Protein Interaction Module in the Auxin Response</article-title>.” <source>Plant Cell</source>
+<volume>27</volume>: <fpage>33</fpage>–<lpage>43</lpage>.<pub-id pub-id-type="pmid">25604444</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1105/tpc.114.132753</pub-id><pub-id pub-id-type="pmcid">PMC4330575</pub-id></mixed-citation></ref><ref id="pld370105-bib-0040"><mixed-citation publication-type="journal" id="pld370105-cit-0040">
+<string-name name-style="western">
+<surname>Guilfoyle</surname>, <given-names>T. J.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagen</surname>
+</string-name>. <year>2007</year>. “<article-title>Auxin Response Factors</article-title>.” <source>Journal of Plant Growth Regulation</source>
+<volume>20</volume>: <fpage>453</fpage>–<lpage>460</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.pbi.2007.08.014</pub-id><pub-id pub-id-type="pmid">17900969</pub-id></mixed-citation></ref><ref id="pld370105-bib-0041"><mixed-citation publication-type="journal" id="pld370105-cit-0041">
+<string-name name-style="western">
+<surname>Hadjieva</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Apostolova</surname>
+</string-name>, <string-name name-style="western">
+<given-names>V.</given-names>
+<surname>Baev</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Yahubyan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Gozmanova</surname>
+</string-name>. <year>2021</year>. “<article-title>Transcriptome Analysis Reveals Dynamic Cultivar‐Dependent Patterns of Gene Expression in Potato Spindle Tuber Viroid‐Infected Pepper</article-title>.” <source>Plants</source>
+<volume>10</volume>: <elocation-id>2687</elocation-id>.<pub-id pub-id-type="pmid">34961158</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/plants10122687</pub-id><pub-id pub-id-type="pmcid">PMC8706270</pub-id></mixed-citation></ref><ref id="pld370105-bib-0042"><mixed-citation publication-type="journal" id="pld370105-cit-0042">
+<string-name name-style="western">
+<surname>Hagen</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>. <year>2002</year>. “<article-title>Auxin‐Responsive Gene Expression: Genes, Promoters and Regulatory Factors</article-title>.” <source>Plant Molecular Biology</source>
+<volume>49</volume>: <fpage>373</fpage>–<lpage>385</lpage>.<pub-id pub-id-type="pmid">12036261</pub-id>
+</mixed-citation></ref><ref id="pld370105-bib-0043"><mixed-citation publication-type="miscellaneous" id="pld370105-cit-0043">
+<string-name name-style="western">
+<surname>Heap</surname>, <given-names>I.</given-names>
+</string-name>
+<year>2025</year>. “<article-title>The International Herbicide‐Resistant Weed Database</article-title>.” <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.weedscience.org/Home.aspx" ext-link-type="uri">https://www.weedscience.org/Home.aspx</ext-link>.</mixed-citation></ref><ref id="pld370105-bib-0044"><mixed-citation publication-type="miscellaneous" id="pld370105-cit-0044">
+<collab collab-type="authors">Herbicide Resistance Action Committee</collab>
+. <year>2024</year>. “<article-title>2024 HRAC Global Herbicide MOA Classification</article-title>.” <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://hracglobal.com/tools/2024-hrac-global-herbicide-moa-classification" ext-link-type="uri">https://hracglobal.com/tools/2024‐hrac‐global‐herbicide‐moa‐classification</ext-link>.</mixed-citation></ref><ref id="pld370105-bib-0045"><mixed-citation publication-type="journal" id="pld370105-cit-0045">
+<string-name name-style="western">
+<surname>Hou</surname>, <given-names>K.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Wu</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. S.</given-names>
+<surname>Gan</surname>
+</string-name>. <year>2013</year>. “<article-title>SAUR36, a Small Auxin Up RNA gene, Is Involved in the Promotion of Leaf Senescence in Arabidopsis</article-title>.” <source>Plant Physiology</source>
+<volume>161</volume>: <fpage>1002</fpage>–<lpage>1009</lpage>.<pub-id pub-id-type="pmid">23250625</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1104/pp.112.212787</pub-id><pub-id pub-id-type="pmcid">PMC3560998</pub-id></mixed-citation></ref><ref id="pld370105-bib-0046"><mixed-citation publication-type="journal" id="pld370105-cit-0046">
+<string-name name-style="western">
+<surname>Jing</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Zhang</surname>
+</string-name>, <string-name name-style="western">
+<given-names>Y.</given-names>
+<surname>Xia</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Proteomic Analysis of Stress‐Related Proteins and Metabolic Pathways in <italic toggle="yes">Picea asperata</italic> Somatic Embryos During Partial Desiccation</article-title>.” <source>Plant Biotechnology Journal</source>
+<volume>15</volume>: <fpage>27</fpage>–<lpage>38</lpage>.<pub-id pub-id-type="pmid">27271942</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/pbi.12588</pub-id><pub-id pub-id-type="pmcid">PMC5253475</pub-id></mixed-citation></ref><ref id="pld370105-bib-0047"><mixed-citation publication-type="journal" id="pld370105-cit-0047">
+<string-name name-style="western">
+<surname>Jones</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Binns</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.‐Y.</given-names>
+<surname>Chang</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>InterProScan 5: Genome‐Scale Protein Function Classification</article-title>.” <source>Bioinformatics</source>
+<volume>30</volume>: <fpage>1236</fpage>–<lpage>1240</lpage>.<pub-id pub-id-type="pmid">24451626</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btu031</pub-id><pub-id pub-id-type="pmcid">PMC3998142</pub-id></mixed-citation></ref><ref id="pld370105-bib-0048"><mixed-citation publication-type="journal" id="pld370105-cit-0048">
+<string-name name-style="western">
+<surname>Jugulam</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>DiMeo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Veldhuis</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Walsh</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Hall</surname>
+</string-name>. <year>2013</year>. “<article-title>Investigation of MCPA (4‐Chloro2‐Ethylphenoxyacetate) Resistance in Wild Radish (<italic toggle="yes">Raphanus raphanistrum</italic> L.)</article-title>.” <source>Journal of Agricultural and Food Chemistry</source>
+<volume>61</volume>: <fpage>12516</fpage>–<lpage>12521</lpage>.<pub-id pub-id-type="pmid">24299071</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/jf404095h</pub-id></mixed-citation></ref><ref id="pld370105-bib-0049"><mixed-citation publication-type="journal" id="pld370105-cit-0049">
+<string-name name-style="western">
+<surname>Jugulam</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Hall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W. G.</given-names>
+<surname>Johnson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. B.</given-names>
+<surname>Kelley</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Riechers</surname>
+</string-name>. <year>2011</year>. “<article-title>Evolution of Resistance to Auxinic Herbicides: Historical Perspectives, Mechanisms of Resistance, and Implications for Broadleaf Weed Management in Agronomic Crops</article-title>.” <source>Weed Science</source>
+<volume>59</volume>: <fpage>445</fpage>–<lpage>457</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0050"><mixed-citation publication-type="journal" id="pld370105-cit-0050">
+<string-name name-style="western">
+<surname>Kelley</surname>, <given-names>K. B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Riechers</surname>
+</string-name>. <year>2007</year>. “<article-title>Recent Developments in Auxin Biology and New Opportunities for Auxinic Herbicide Research</article-title>.” <source>Pesticide Biochemistry and Physiology</source>
+<volume>89</volume>, no. <issue>1</issue>: <fpage>1</fpage>–<lpage>11</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0051"><mixed-citation publication-type="journal" id="pld370105-cit-0051">
+<string-name name-style="western">
+<surname>Kepinski</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Leyser</surname>
+</string-name>. <year>2005</year>. “<article-title>The <italic toggle="yes">Arabidopsis</italic> F‐Box Protein TIR1 Is an Auxin Receptor</article-title>.” <source>Nature</source>
+<volume>435</volume>: <fpage>446</fpage>–<lpage>451</lpage>.<pub-id pub-id-type="pmid">15917798</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature03542</pub-id></mixed-citation></ref><ref id="pld370105-bib-0052"><mixed-citation publication-type="journal" id="pld370105-cit-0052">
+<string-name name-style="western">
+<surname>Khan</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. F.</given-names>
+<surname>Alvi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Saify</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Iqbal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. A.</given-names>
+<surname>Khan</surname>
+</string-name>. <year>2024</year>. “<article-title>The Ethylene Biosynthetic Enzymes, 1‐Aminocyclopropane‐1‐Carboxylate (ACC) Synthase (ACS) and ACC Oxidase (ACO): The Less Explored Players in Abiotic Stress Tolerance</article-title>.” <source>Biomolecules</source>
+<volume>14</volume>: <elocation-id>90</elocation-id>.<pub-id pub-id-type="pmid">38254690</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.3390/biom14010090</pub-id><pub-id pub-id-type="pmcid">PMC10813531</pub-id></mixed-citation></ref><ref id="pld370105-bib-0053"><mixed-citation publication-type="journal" id="pld370105-cit-0053">
+<string-name name-style="western">
+<surname>Kniss</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Vassios</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Nissen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Ritz</surname>
+</string-name>. <year>2011</year>. “<article-title>Nonlinear Regression Analysis of Herbicide Absorption Studies</article-title>.” <source>Weed Science</source>
+<volume>59</volume>: <fpage>601</fpage>–<lpage>610</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0054"><mixed-citation publication-type="journal" id="pld370105-cit-0054">
+<string-name name-style="western">
+<surname>Korasick</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. S.</given-names>
+<surname>Westfall</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Lee</surname>
+</string-name>, et al. <year>2014</year>. “<article-title>Molecular Basis for Auxin Response Factor Protein Interaction and the Control of Auxin Response Repression</article-title>.” <source>Proceedings of the National Academy of Sciences of the United States of America</source>
+<volume>111</volume>: <fpage>5427</fpage>–<lpage>5432</lpage>.<pub-id pub-id-type="pmid">24706860</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1400074111</pub-id><pub-id pub-id-type="pmcid">PMC3986151</pub-id></mixed-citation></ref><ref id="pld370105-bib-0055"><mixed-citation publication-type="journal" id="pld370105-cit-0055">
+<string-name name-style="western">
+<surname>Langmead</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Salzberg</surname>
+</string-name>. <year>2012</year>. “<article-title>Fast Gapped‐Read Alignment With Bowtie 2</article-title>.” <source>Nature Methods</source>
+<volume>9</volume>: <fpage>357</fpage>–<lpage>359</lpage>.<pub-id pub-id-type="pmid">22388286</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nmeth.1923</pub-id><pub-id pub-id-type="pmcid">PMC3322381</pub-id></mixed-citation></ref><ref id="pld370105-bib-0056"><mixed-citation publication-type="journal" id="pld370105-cit-0056">
+<string-name name-style="western">
+<surname>LeClere</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wu</surname>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Westra</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>R. D.</given-names>
+<surname>Sammons</surname>
+</string-name>. <year>2018</year>. “<article-title>Cross‐Resistance to Dicamba, 2,4‐D, and Fluroxypyr in <italic toggle="yes">Kochia scoparia</italic> Is Endowed by a Mutation in an AUX/IAA Gene</article-title>.” <source>Proceedings of the National Academy of Sciences</source>
+<volume>115</volume>: <fpage>E2911</fpage>–<lpage>E2920</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.1712372115</pub-id><pub-id pub-id-type="pmcid">PMC5879655</pub-id><pub-id pub-id-type="pmid">29531066</pub-id></mixed-citation></ref><ref id="pld370105-bib-0057"><mixed-citation publication-type="journal" id="pld370105-cit-0057">
+<string-name name-style="western">
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Godzik</surname>
+</string-name>. <year>2006</year>. “<article-title>Cd‐Hit: A Fast Program for Clustering and Comparing Large Sets of Protein or Nucleotide Sequences</article-title>.” <source>Bioinformatics</source>
+<volume>22</volume>: <fpage>1658</fpage>–<lpage>1659</lpage>.<pub-id pub-id-type="pmid">16731699</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btl158</pub-id></mixed-citation></ref><ref id="pld370105-bib-0058"><mixed-citation publication-type="journal" id="pld370105-cit-0058">
+<string-name name-style="western">
+<surname>Liang</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Abel</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. A.</given-names>
+<surname>Keller</surname>
+</string-name>, <string-name name-style="western">
+<given-names>N. F.</given-names>
+<surname>Shen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Theologis</surname>
+</string-name>. <year>1992</year>. “<article-title>The 1‐Aminocyclopropane‐1‐Carboxylate Synthase Gene Family of <italic toggle="yes">Arabidopsis thaliana</italic>
+</article-title>.” <source>Proc Nat Acad Sci</source>
+<volume>89</volume>: <fpage>11046</fpage>–<lpage>11050</lpage>.<pub-id pub-id-type="pmid">1438312</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.89.22.11046</pub-id><pub-id pub-id-type="pmcid">PMC50480</pub-id></mixed-citation></ref><ref id="pld370105-bib-0059"><mixed-citation publication-type="journal" id="pld370105-cit-0059">
+<string-name name-style="western">
+<surname>Liao</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. K.</given-names>
+<surname>Smyth</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Shi</surname>
+</string-name>. <year>2014</year>. “<article-title>Featurecounts: An Efficient General Purpose Program for Assigning Sequence Reads to Genomic Features</article-title>.” <source>Bioinformatics</source>
+<volume>30</volume>: <fpage>923</fpage>–<lpage>930</lpage>.<pub-id pub-id-type="pmid">24227677</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/bioinformatics/btt656</pub-id></mixed-citation></ref><ref id="pld370105-bib-0060"><mixed-citation publication-type="journal" id="pld370105-cit-0060">
+<string-name name-style="western">
+<surname>Libao</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Yuyan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Huiying</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Runzhi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L.</given-names>
+<surname>Shuyan</surname>
+</string-name>. <year>2019</year>. “<article-title>Transcriptomic Analysis Reveals Ethylene's Regulation Involved in Adventitious Roots Formation in Lotus (<italic toggle="yes">Nelumbo nucifera</italic> Gaertn.)</article-title>.” <source>Acta Physiologiae Plantarum</source>
+<volume>41</volume>: <fpage>1</fpage>–<lpage>13</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0061"><mixed-citation publication-type="journal" id="pld370105-cit-0061">
+<string-name name-style="western">
+<surname>Love</surname>, <given-names>M. I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Huber</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Anders</surname>
+</string-name>. <year>2014</year>. “<article-title>Moderated Estimation of Fold Change and Dispersion for RNA‐Seq Data With DESeq2</article-title>.” <source>Genome Biology</source>
+<volume>15</volume>: <fpage>550</fpage>.<pub-id pub-id-type="pmid">25516281</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1186/s13059-014-0550-8</pub-id><pub-id pub-id-type="pmcid">PMC4302049</pub-id></mixed-citation></ref><ref id="pld370105-bib-0062"><mixed-citation publication-type="journal" id="pld370105-cit-0062">
+<string-name name-style="western">
+<surname>Martin</surname>, <given-names>J. A.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>Z.</given-names>
+<surname>Wang</surname>
+</string-name>. <year>2011</year>. “<article-title>Next‐Generation Transcriptome Assembly</article-title>.” <source>Nature Reviews. Genetics</source>
+<volume>12</volume>: <fpage>671</fpage>–<lpage>682</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nrg3068</pub-id><pub-id pub-id-type="pmid">21897427</pub-id></mixed-citation></ref><ref id="pld370105-bib-0063"><mixed-citation publication-type="journal" id="pld370105-cit-0063">
+<string-name name-style="western">
+<surname>McClure</surname>, <given-names>B. A.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>. <year>1987</year>. “<article-title>Characterization of A Class of Small Auxin‐Inducible Soybean Polyadenylated RNAs</article-title>.” <source>Plant Molecular Biology</source>
+<volume>9</volume>: <fpage>611</fpage>–<lpage>623</lpage>.<pub-id pub-id-type="pmid">24277197</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/BF00020537</pub-id></mixed-citation></ref><ref id="pld370105-bib-0064"><mixed-citation publication-type="journal" id="pld370105-cit-0064">
+<string-name name-style="western">
+<surname>Montgomery</surname>, <given-names>J. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Giacomini</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Waithaka</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Draft Genomes of <italic toggle="yes">Amaranthus tuberculatus</italic>, <italic toggle="yes">Amaranthus hybridus</italic>, and <italic toggle="yes">Amaranthus palmeri</italic>
+</article-title>.” <source>Genome Biology and Evolution</source>
+<volume>12</volume>: <fpage>1988</fpage>–<lpage>1993</lpage>.<pub-id pub-id-type="pmid">32835372</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/gbe/evaa177</pub-id><pub-id pub-id-type="pmcid">PMC7643611</pub-id></mixed-citation></ref><ref id="pld370105-bib-0065"><mixed-citation publication-type="miscellaneous" id="pld370105-cit-0065">
+<string-name name-style="western">
+<surname>Oliveros</surname>, <given-names>J. C.</given-names>
+</string-name>
+<year>2007–2015</year>. “<article-title>Venny. An Interactive Tool for Comparing Lists With Venn's Diagrams</article-title>.” <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://bioinfogp.cnb.csic.es/tools/venny/index.html" ext-link-type="uri">https://bioinfogp.cnb.csic.es/tools/venny/index.html</ext-link>.</mixed-citation></ref><ref id="pld370105-bib-0066"><mixed-citation publication-type="journal" id="pld370105-cit-0066">
+<string-name name-style="western">
+<surname>Palma‐Bautista</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Rojano‐Delgado</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Dellaferrera</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Resistance Mechanisms to 2,4‐D in Six Different Dicotyledonous Weeds Around the World</article-title>.” <source>Agronomy</source>
+<volume>10</volume>: <elocation-id>566</elocation-id>.</mixed-citation></ref><ref id="pld370105-bib-0067"><mixed-citation publication-type="journal" id="pld370105-cit-0067">
+<string-name name-style="western">
+<surname>Peterson</surname>, <given-names>M. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. A.</given-names>
+<surname>McMaster</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Riechers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Skelton</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P. W.</given-names>
+<surname>Stahlman</surname>
+</string-name>. <year>2016</year>. “<article-title>2,4‐D Past, Present, and Future: A Review</article-title>.” <source>Weed Technology</source>
+<volume>30</volume>: <fpage>303</fpage>–<lpage>345</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0068"><mixed-citation publication-type="journal" id="pld370105-cit-0068">
+<string-name name-style="western">
+<surname>Powles</surname>, <given-names>S. B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>Q.</given-names>
+<surname>Yu</surname>
+</string-name>. <year>2010</year>. “<article-title>Evolution in Action: Plants Resistant to Herbicides</article-title>.” <source>Annual Review of Plant Biology</source>
+<volume>61</volume>: <fpage>317</fpage>–<lpage>347</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1146/annurev-arplant-042809-112119</pub-id><pub-id pub-id-type="pmid">20192743</pub-id></mixed-citation></ref><ref id="pld370105-bib-0069"><mixed-citation publication-type="book" id="pld370105-cit-0069">
+<collab collab-type="authors">R Core Team</collab>
+. <year>2024</year>. <source>R: A Language and Environment for Statistical Computing</source>. <publisher-name>R Foundation for Statistical Computing</publisher-name>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.R-project.org/" ext-link-type="uri">https://www.R‐project.org/</ext-link>.</mixed-citation></ref><ref id="pld370105-bib-0070"><mixed-citation publication-type="journal" id="pld370105-cit-0070">
+<string-name name-style="western">
+<surname>Rademacher</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Lokerse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Schlereth</surname>
+</string-name>, et al. <year>2012</year>. “<article-title>Different Auxin Response Machineries Control Distinct Cell Fates in the Early Plant Embryo</article-title>.” <source>Developmental Cell</source>
+<volume>22</volume>: <fpage>211</fpage>–<lpage>222</lpage>.<pub-id pub-id-type="pmid">22264733</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.devcel.2011.10.026</pub-id></mixed-citation></ref><ref id="pld370105-bib-0071"><mixed-citation publication-type="journal" id="pld370105-cit-0071">
+<string-name name-style="western">
+<surname>Robinson</surname>, <given-names>J. T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Thorvaldsdóttir</surname>
+</string-name>, <string-name name-style="western">
+<given-names>W.</given-names>
+<surname>Winckler</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>Integrative Genomics Viewer</article-title>.” <source>Nature Biotechnology</source>
+<volume>29</volume>: <fpage>24</fpage>–<lpage>26</lpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nbt.1754</pub-id><pub-id pub-id-type="pmcid">PMC3346182</pub-id><pub-id pub-id-type="pmid">21221095</pub-id></mixed-citation></ref><ref id="pld370105-bib-0072"><mixed-citation publication-type="journal" id="pld370105-cit-0072">
+<string-name name-style="western">
+<surname>Sauer</surname>, <given-names>M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Robert</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Kleine‐Vehn</surname>
+</string-name>. <year>2013</year>. “<article-title>Auxin: Simply Complicated</article-title>.” <source>Journal of Experimental Botany</source>
+<volume>64</volume>: <fpage>2565</fpage>–<lpage>2577</lpage>.<pub-id pub-id-type="pmid">23669571</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jxb/ert139</pub-id></mixed-citation></ref><ref id="pld370105-bib-0073"><mixed-citation publication-type="journal" id="pld370105-cit-0073">
+<string-name name-style="western">
+<surname>Shergill</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. R.</given-names>
+<surname>Barlow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Bish</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Bradley</surname>
+</string-name>. <year>2018</year>. “<article-title>Investigations of 2,4‐D and Multiple Herbicide Resistance in a Missouri Waterhemp (<italic toggle="yes">Amaranthus tuberculatus</italic>) Population</article-title>.” <source>Weed Science</source>
+<volume>66</volume>: <fpage>386</fpage>–<lpage>394</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0074"><mixed-citation publication-type="journal" id="pld370105-cit-0074">
+<string-name name-style="western">
+<surname>Shergill</surname>, <given-names>L. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>Bish</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jugulam</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. W.</given-names>
+<surname>Bradley</surname>
+</string-name>. <year>2018</year>. “<article-title>Molecular and Physiological Characterization of Six‐Way Resistance in an <italic toggle="yes">Amaranthus tuberculatus</italic> var. <italic toggle="yes">rudis</italic> Biotype From Missouri</article-title>.” <source>Pest Management Science</source>
+<volume>74</volume>: <fpage>2688</fpage>–<lpage>2698</lpage>.<pub-id pub-id-type="pmid">29797476</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1002/ps.5082</pub-id></mixed-citation></ref><ref id="pld370105-bib-0075"><mixed-citation publication-type="journal" id="pld370105-cit-0075">
+<string-name name-style="western">
+<surname>Shyam</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>D. E.</given-names>
+<surname>Peterson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jugulam</surname>
+</string-name>. <year>2022</year>. “<article-title>Resistance to 2,4‐D in Palmer Amaranth (<italic toggle="yes">Amaranthus palmeri</italic>) From Kansas Is Mediated by Enhanced Metabolism</article-title>.” <source>Weed Science</source>
+<volume>70</volume>: <fpage>390</fpage>–<lpage>400</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0076"><mixed-citation publication-type="journal" id="pld370105-cit-0076">
+<string-name name-style="western">
+<surname>Singh</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F. J.</given-names>
+<surname>Tardif</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Jugulam</surname>
+</string-name>. <year>2023</year>. “<article-title>Characterization of MCPA Resistance in Palmer Amaranth (<italic toggle="yes">Amaranthus palmeri</italic>)</article-title>.” <source>Weed Science</source>
+<volume>71</volume>: <fpage>565</fpage>–<lpage>573</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0077"><mixed-citation publication-type="journal" id="pld370105-cit-0077">
+<string-name name-style="western">
+<surname>Stamm</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>P. P.</given-names>
+<surname>Kumar</surname>
+</string-name>. <year>2013</year>. “<article-title>Auxin and Gibberellin Responsive <italic toggle="yes">Arabidopsis</italic> Small Auxin UP RNA36 Regulates Hypocotyl Elongation in the Light</article-title>.” <source>Plant Cell Reports</source>
+<volume>32</volume>: <fpage>759</fpage>–<lpage>769</lpage>.<pub-id pub-id-type="pmid">23503980</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1007/s00299-013-1406-5</pub-id></mixed-citation></ref><ref id="pld370105-bib-0078"><mixed-citation publication-type="journal" id="pld370105-cit-0078">
+<string-name name-style="western">
+<surname>Staswick</surname>, <given-names>P. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Serban</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Rowe</surname>
+</string-name>, et al. <year>2005</year>. “<article-title>Characterization of an <italic toggle="yes">Arabidopsis</italic> Enzyme Family That Conjugates Amino Acids to Indole‐3‐Acetic Acid</article-title>.” <source>Plant Cell</source>
+<volume>17</volume>: <fpage>616</fpage>–<lpage>627</lpage>.<pub-id pub-id-type="pmid">15659623</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1105/tpc.104.026690</pub-id><pub-id pub-id-type="pmcid">PMC548830</pub-id></mixed-citation></ref><ref id="pld370105-bib-0079"><mixed-citation publication-type="book" id="pld370105-cit-0079">
+<string-name name-style="western">
+<surname>Sterling</surname>, <given-names>T. M.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Hall</surname>
+</string-name>. <year>1997</year>. “<part-title>Mechanism of Action of Natural Auxins and the Auxinic Herbicides</part-title>.” In <source>Herbicide Activity: Toxicology, Biochemistry and Molecular Biology</source>, edited by <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. M.</given-names>
+<surname>Roe</surname>
+</string-name>
+</person-group>, <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>J. D.</given-names>
+<surname>Burton</surname>
+</string-name>
+</person-group>, and <person-group person-group-type="editor">
+<string-name name-style="western">
+<given-names>R. J.</given-names>
+<surname>Kuhr</surname>
+</string-name>
+</person-group>, <fpage>111</fpage>–<lpage>141</lpage>. <publisher-name>IOS Press</publisher-name>.</mixed-citation></ref><ref id="pld370105-bib-0080"><mixed-citation publication-type="journal" id="pld370105-cit-0080">
+<string-name name-style="western">
+<surname>Stortenbeker</surname>, <given-names>N.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Bemer</surname>
+</string-name>. <year>2019</year>. “<article-title>The SAUR Gene Family: The Plant's Toolbox for Adaptation of Growth and Development</article-title>.” <source>Journal of Experimental Botany</source>
+<volume>70</volume>: <fpage>17</fpage>–<lpage>27</lpage>.<pub-id pub-id-type="pmid">30239806</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/jxb/ery332</pub-id></mixed-citation></ref><ref id="pld370105-bib-0081"><mixed-citation publication-type="journal" id="pld370105-cit-0081">
+<string-name name-style="western">
+<surname>Sunnadeniya</surname>, <given-names>R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Bean</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Brown</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Tyrosine Hydroxylation in Betalain Pigment Biosynthesis Is Performed by Cytochrome P450 Enzymes in Beets (<italic toggle="yes">Beta vulgaris</italic>)</article-title>.” <source>PLoS ONE</source>
+<volume>11</volume>: <elocation-id>e0149417</elocation-id>.<pub-id pub-id-type="pmid">26890886</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1371/journal.pone.0149417</pub-id><pub-id pub-id-type="pmcid">PMC4758722</pub-id></mixed-citation></ref><ref id="pld370105-bib-0082"><mixed-citation publication-type="journal" id="pld370105-cit-0082">
+<string-name name-style="western">
+<surname>Tan</surname>, <given-names>X.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>L. I. A.</given-names>
+<surname>Calderon‐Villalobos</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sharon</surname>
+</string-name>, et al. <year>2007</year>. “<article-title>Mechanism of Auxin Perception by the TIR1 Ubiquitin Ligase</article-title>.” <source>Nature</source>
+<volume>446</volume>: <fpage>640</fpage>–<lpage>645</lpage>.<pub-id pub-id-type="pmid">17410169</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/nature05731</pub-id></mixed-citation></ref><ref id="pld370105-bib-0083"><mixed-citation publication-type="journal" id="pld370105-cit-0083">
+<string-name name-style="western">
+<surname>Tiwari</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>. <year>2003</year>. “<article-title>The Roles of Auxin Response Factor Domains in Auxin‐Responsive Transcription</article-title>.” <source>Plant Cell</source>
+<volume>15</volume>: <fpage>533</fpage>–<lpage>543</lpage>.<pub-id pub-id-type="pmid">12566590</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1105/tpc.008417</pub-id><pub-id pub-id-type="pmcid">PMC141219</pub-id></mixed-citation></ref><ref id="pld370105-bib-0084"><mixed-citation publication-type="journal" id="pld370105-cit-0084">
+<string-name name-style="western">
+<surname>Todd</surname>, <given-names>O. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. R. A.</given-names>
+<surname>Figueiredo</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Morran</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Synthetic Auxin Herbicides: Finding the Lock and Key to Weed Resistance</article-title>.” <source>Plant Science</source>
+<volume>300</volume>: <fpage>10631</fpage>.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/j.plantsci.2020.110631</pub-id><pub-id pub-id-type="pmid">33180710</pub-id></mixed-citation></ref><ref id="pld370105-bib-0085"><mixed-citation publication-type="journal" id="pld370105-cit-0085">
+<string-name name-style="western">
+<surname>Torra</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Alcántara‐de la Cruz</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. R. A.</given-names>
+<surname>de Figueiredo</surname>
+</string-name>, et al. <year>2024</year>. “<article-title>Metabolism of 2,4‐D in Plants: Comparative Analysis of Metabolic Detoxification Pathways in Tolerant Crops and Resistant Weeds</article-title>.” <source>Pest Management Science</source>
+<volume>80</volume>: <fpage>6041</fpage>–<lpage>6052</lpage>. <pub-id pub-id-type="doi">10.1002/ps.8373</pub-id>.<pub-id pub-id-type="pmid">39132883</pub-id>
+</mixed-citation></ref><ref id="pld370105-bib-0086"><mixed-citation publication-type="journal" id="pld370105-cit-0086">
+<string-name name-style="western">
+<surname>Ulmasov</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>. <year>1997</year>. “<article-title>ARF1, a Transcription Factor That Binds to Auxin Response Elements</article-title>.” <source>Science</source>
+<volume>276</volume>: <fpage>1865</fpage>–<lpage>1868</lpage>.<pub-id pub-id-type="pmid">9188533</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1126/science.276.5320.1865</pub-id></mixed-citation></ref><ref id="pld370105-bib-0087"><mixed-citation publication-type="journal" id="pld370105-cit-0087">
+<string-name name-style="western">
+<surname>Ulmasov</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Hagen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T. J.</given-names>
+<surname>Guilfoyle</surname>
+</string-name>. <year>1999</year>. “<article-title>Activation and Repression of Transcription by Auxin‐Response Factors</article-title>.” <source>Proc Nat Acad Sci</source>
+<volume>96</volume>: <fpage>5844</fpage>–<lpage>5849</lpage>.<pub-id pub-id-type="pmid">10318972</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1073/pnas.96.10.5844</pub-id><pub-id pub-id-type="pmcid">PMC21948</pub-id></mixed-citation></ref><ref id="pld370105-bib-0088"><mixed-citation publication-type="book" id="pld370105-cit-0088">
+<string-name name-style="western">
+<surname>Uva</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Neal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>DiTomaso</surname>
+</string-name>. <year>1997</year>. “<part-title>Pigweeds</part-title>.” In <source>Weeds of the Northeast</source>, <fpage>94</fpage>–<lpage>97</lpage>. <publisher-name>Cornell University Press</publisher-name>.</mixed-citation></ref><ref id="pld370105-bib-0089"><mixed-citation publication-type="journal" id="pld370105-cit-0089">
+<string-name name-style="western">
+<surname>Vernoux</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Brunoud</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Farcot</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>The Auxin Signalling Network Translates Dynamic Input Into Robust Patterning at the Shoot Apex</article-title>.” <source>Molecular Systems Biology</source>
+<volume>7</volume>: <fpage>508</fpage>.<pub-id pub-id-type="pmid">21734647</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/msb.2011.39</pub-id><pub-id pub-id-type="pmcid">PMC3167386</pub-id></mixed-citation></ref><ref id="pld370105-bib-0090"><mixed-citation publication-type="journal" id="pld370105-cit-0090">
+<string-name name-style="western">
+<surname>Waselkov</surname>, <given-names>K. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. S.</given-names>
+<surname>Boleda</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>K. M.</given-names>
+<surname>Olsen</surname>
+</string-name>. <year>2018</year>. “<article-title>A Phylogeny of the Genus <italic toggle="yes">Amaranthus</italic> (<italic toggle="yes">Amaranthaceae</italic>) Based on Several Low‐Copy Nuclear Loci and Chloroplast Regions</article-title>.” <source>Systematic Botany</source>
+<volume>43</volume>: <fpage>439</fpage>–<lpage>458</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0091"><mixed-citation publication-type="journal" id="pld370105-cit-0091">
+<string-name name-style="western">
+<surname>Weaver</surname>, <given-names>S. E.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>E. L.</given-names>
+<surname>McWilliams</surname>
+</string-name>. <year>1980</year>. “<article-title>The Biology of Canadian Weeds. 44. <italic toggle="yes">Amaranthus retroflexus</italic> L., <italic toggle="yes">A. powellii</italic> S. Wats. and <italic toggle="yes">A. hybridus</italic> L.</article-title>” <source>Canadian Journal of Plant Science</source>
+<volume>60</volume>: <fpage>1215</fpage>–<lpage>1234</lpage>.</mixed-citation></ref><ref id="pld370105-bib-0092"><mixed-citation publication-type="journal" id="pld370105-cit-0092">
+<string-name name-style="western">
+<surname>Weinberg</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. R.</given-names>
+<surname>Stephenson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. D.</given-names>
+<surname>McLean</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Hall</surname>
+</string-name>. <year>2006</year>. “<article-title>MCPA (4‐Chloro‐2‐Ethylphenoxyacetate) Resistance in Hemp‐Nettle (<italic toggle="yes">Galeopsis tetrahit</italic> L.)</article-title>.” <source>Journal of Agricultural and Food Chemistry</source>
+<volume>54</volume>: <fpage>9126</fpage>–<lpage>9134</lpage>.<pub-id pub-id-type="pmid">17117800</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1021/jf061803u</pub-id></mixed-citation></ref><ref id="pld370105-bib-0093"><mixed-citation publication-type="journal" id="pld370105-cit-0093">
+<string-name name-style="western">
+<surname>Woodward</surname>, <given-names>A. W.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bartel</surname>
+</string-name>. <year>2005</year>. “<article-title>Auxin: Regulation, Action, and Interaction</article-title>.” <source>Annals of Botany</source>
+<volume>95</volume>: <fpage>707</fpage>–<lpage>735</lpage>.<pub-id pub-id-type="pmid">15749753</pub-id>
+<pub-id pub-id-type="doi" assigning-authority="pmc">10.1093/aob/mci083</pub-id><pub-id pub-id-type="pmcid">PMC4246732</pub-id></mixed-citation></ref></ref-list></back></article>

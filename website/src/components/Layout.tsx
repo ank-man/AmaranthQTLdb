@@ -21,6 +21,7 @@ const SECTIONS: { title: string; items: Item[] }[] = [
     { to: '/data/clusters', label: 'Multi-trait clusters', icon: Layers },
     { to: '/data/inheritance', label: 'Inheritance studies', icon: Dna },
     { to: '/markers', label: 'PCR markers', icon: Crosshair },
+    { to: '/rnaseq', label: 'RNA-seq studies', icon: Lightbulb },
   ] },
   { title: 'Maps', items: [
     { to: '/map', label: 'Genome map', icon: MapIcon },

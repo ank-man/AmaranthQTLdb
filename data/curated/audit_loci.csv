@@ -1,0 +1,1176 @@
+locus_id,study_id,trait,field,value,status
+AQ00001,Zaelani2025,Heading date,start_bp,25738564,found
+AQ00001,Zaelani2025,Heading date,end_bp,26193097,found
+AQ00001,Zaelani2025,Heading date,lod,7.72,found
+AQ00001,Zaelani2025,Heading date,pve,6.86,found
+AQ00001,Zaelani2025,Heading date,additive_effect,-6.06,found
+AQ00001,Zaelani2025,Heading date,dominance_effect,2.15,found
+AQ00002,Zaelani2025,Heading date,start_bp,14674403,found
+AQ00002,Zaelani2025,Heading date,end_bp,15504864,found
+AQ00002,Zaelani2025,Heading date,lod,12.26,found
+AQ00002,Zaelani2025,Heading date,pve,4.99,found
+AQ00002,Zaelani2025,Heading date,additive_effect,4.61,found
+AQ00002,Zaelani2025,Heading date,dominance_effect,-0.71,found
+AQ00003,Zaelani2025,Anthesis date,start_bp,21036246,found
+AQ00003,Zaelani2025,Anthesis date,end_bp,22320068,found
+AQ00003,Zaelani2025,Anthesis date,lod,18.9,found
+AQ00003,Zaelani2025,Anthesis date,pve,36.25,found
+AQ00003,Zaelani2025,Anthesis date,additive_effect,-8.53,found
+AQ00003,Zaelani2025,Anthesis date,dominance_effect,-8.24,found
+AQ00004,Zaelani2025,Plant height,start_bp,21036246,found
+AQ00004,Zaelani2025,Plant height,end_bp,21858471,found
+AQ00004,Zaelani2025,Plant height,lod,23.56,found
+AQ00004,Zaelani2025,Plant height,pve,34.76,found
+AQ00004,Zaelani2025,Plant height,additive_effect,-39.19,found
+AQ00004,Zaelani2025,Plant height,dominance_effect,-23.39,found
+AQ00005,Zaelani2025,Plant height,start_bp,20369330,found
+AQ00005,Zaelani2025,Plant height,end_bp,20738671,found
+AQ00005,Zaelani2025,Plant height,lod,7.33,found
+AQ00005,Zaelani2025,Plant height,pve,8.08,found
+AQ00005,Zaelani2025,Plant height,additive_effect,-19.49,found
+AQ00005,Zaelani2025,Plant height,dominance_effect,-9.66,found
+AQ00006,Zaelani2025,Stem diameter,start_bp,21036246,found
+AQ00006,Zaelani2025,Stem diameter,end_bp,22320068,found
+AQ00006,Zaelani2025,Stem diameter,lod,16.79,found
+AQ00006,Zaelani2025,Stem diameter,pve,32.40,found
+AQ00006,Zaelani2025,Stem diameter,additive_effect,-2.14,found
+AQ00006,Zaelani2025,Stem diameter,dominance_effect,-2.07,found
+AQ00007,Zaelani2025,Stem diameter,start_bp,15264869,found
+AQ00007,Zaelani2025,Stem diameter,end_bp,15819864,found
+AQ00007,Zaelani2025,Stem diameter,lod,6.95,found
+AQ00007,Zaelani2025,Stem diameter,pve,6.60,found
+AQ00007,Zaelani2025,Stem diameter,additive_effect,-0.86,found
+AQ00007,Zaelani2025,Stem diameter,dominance_effect,-1.28,found
+AQ00008,Zaelani2025,Number of nodes,start_bp,21036246,found
+AQ00008,Zaelani2025,Number of nodes,end_bp,22320068,found
+AQ00008,Zaelani2025,Number of nodes,lod,22.03,found
+AQ00008,Zaelani2025,Number of nodes,pve,40.84,found
+AQ00008,Zaelani2025,Number of nodes,additive_effect,-12.16,found
+AQ00008,Zaelani2025,Number of nodes,dominance_effect,-8.56,found
+AQ00009,Zaelani2025,Number of nodes,start_bp,14674403,found
+AQ00009,Zaelani2025,Number of nodes,end_bp,15326146,found
+AQ00009,Zaelani2025,Number of nodes,lod,7.09,found
+AQ00009,Zaelani2025,Number of nodes,pve,8.30,found
+AQ00009,Zaelani2025,Number of nodes,additive_effect,5.93,found
+AQ00009,Zaelani2025,Number of nodes,dominance_effect,-3.90,found
+AQ00010,Zaelani2025,Branching index,start_bp,21036246,found
+AQ00010,Zaelani2025,Branching index,end_bp,21858471,found
+AQ00010,Zaelani2025,Branching index,lod,13.70,found
+AQ00010,Zaelani2025,Branching index,pve,99.49,found
+AQ00010,Zaelani2025,Branching index,additive_effect,1.00,found
+AQ00010,Zaelani2025,Branching index,dominance_effect,1.03,found
+AQ00011,Zaelani2025,Hypocotyl color,start_bp,5055013,found
+AQ00011,Zaelani2025,Hypocotyl color,end_bp,6076285,found
+AQ00011,Zaelani2025,Hypocotyl color,lod,35.50,found
+AQ00011,Zaelani2025,Hypocotyl color,pve,99.99,found
+AQ00011,Zaelani2025,Hypocotyl color,additive_effect,0.50,found
+AQ00011,Zaelani2025,Hypocotyl color,dominance_effect,0.50,found
+AQ00012,Zaelani2025,Inflorescence color,start_bp,5055013,found
+AQ00012,Zaelani2025,Inflorescence color,end_bp,6076285,found
+AQ00012,Zaelani2025,Inflorescence color,lod,35.40,found
+AQ00012,Zaelani2025,Inflorescence color,pve,99.99,found
+AQ00012,Zaelani2025,Inflorescence color,additive_effect,0.50,found
+AQ00012,Zaelani2025,Inflorescence color,dominance_effect,0.50,found
+AQ00013,Zaelani2025,Seed coat color,start_bp,14136143,found
+AQ00013,Zaelani2025,Seed coat color,end_bp,15053781,found
+AQ00013,Zaelani2025,Seed coat color,lod,30.10,found
+AQ00013,Zaelani2025,Seed coat color,pve,100,found
+AQ00013,Zaelani2025,Seed coat color,additive_effect,0.50,found
+AQ00013,Zaelani2025,Seed coat color,dominance_effect,0.50,found
+AQ00014,Zaelani2025,Heading date,start_bp,17592701,found
+AQ00014,Zaelani2025,Heading date,end_bp,19903179,found
+AQ00014,Zaelani2025,Heading date,lod,11.8,found
+AQ00014,Zaelani2025,Heading date,pve,33.88,found
+AQ00014,Zaelani2025,Heading date,additive_effect,-6.25,found
+AQ00014,Zaelani2025,Heading date,dominance_effect,-4.47,found
+AQ00015,Zaelani2025,Plant height,start_bp,23204711,found
+AQ00015,Zaelani2025,Plant height,end_bp,24215610,found
+AQ00015,Zaelani2025,Plant height,lod,9.17,found
+AQ00015,Zaelani2025,Plant height,pve,12.71,found
+AQ00015,Zaelani2025,Plant height,additive_effect,1.41,found
+AQ00015,Zaelani2025,Plant height,dominance_effect,21.67,found
+AQ00016,Zaelani2025,Plant height,start_bp,13941137,found
+AQ00016,Zaelani2025,Plant height,end_bp,15375067,found
+AQ00016,Zaelani2025,Plant height,lod,10,found
+AQ00016,Zaelani2025,Plant height,pve,15.30,found
+AQ00016,Zaelani2025,Plant height,additive_effect,-19.47,found
+AQ00016,Zaelani2025,Plant height,dominance_effect,15.80,found
+AQ00017,Zaelani2025,Stem diameter,start_bp,18218753,found
+AQ00017,Zaelani2025,Stem diameter,end_bp,20153174,found
+AQ00017,Zaelani2025,Stem diameter,lod,12.20,found
+AQ00017,Zaelani2025,Stem diameter,pve,38.03,found
+AQ00017,Zaelani2025,Stem diameter,additive_effect,-2.69,found
+AQ00017,Zaelani2025,Stem diameter,dominance_effect,-1.15,found
+AQ00018,Zaelani2025,Number of nodes,start_bp,18807424,found
+AQ00018,Zaelani2025,Number of nodes,end_bp,19903179,found
+AQ00018,Zaelani2025,Number of nodes,lod,23.40,found
+AQ00018,Zaelani2025,Number of nodes,pve,43.14,found
+AQ00018,Zaelani2025,Number of nodes,additive_effect,-3.36,found
+AQ00018,Zaelani2025,Number of nodes,dominance_effect,-3.12,found
+AQ00019,Zaelani2025,Number of nodes,start_bp,23779748,found
+AQ00019,Zaelani2025,Number of nodes,end_bp,24456538,found
+AQ00019,Zaelani2025,Number of nodes,lod,15.90,found
+AQ00019,Zaelani2025,Number of nodes,pve,16.55,found
+AQ00019,Zaelani2025,Number of nodes,additive_effect,-2.53,found
+AQ00019,Zaelani2025,Number of nodes,dominance_effect,-0.65,found
+AQ00020,Zaelani2025,Branching index,start_bp,3664819,found
+AQ00020,Zaelani2025,Branching index,end_bp,30981885,found
+AQ00020,Zaelani2025,Branching index,lod,4.41,found
+AQ00020,Zaelani2025,Branching index,pve,90.90,found
+AQ00020,Zaelani2025,Branching index,additive_effect,0.97,found
+AQ00020,Zaelani2025,Branching index,dominance_effect,1.03,found
+AQ00021,Zaelani2025,Branching index,start_bp,10968016,found
+AQ00021,Zaelani2025,Branching index,end_bp,22643818,found
+AQ00021,Zaelani2025,Branching index,lod,3.96,found
+AQ00021,Zaelani2025,Branching index,pve,18.63,found
+AQ00021,Zaelani2025,Branching index,additive_effect,0.48,found
+AQ00021,Zaelani2025,Branching index,dominance_effect,0.04,found
+AQ00022,Zaelani2025,Hypocotyl color,start_bp,5120811,found
+AQ00022,Zaelani2025,Hypocotyl color,end_bp,6076285,found
+AQ00022,Zaelani2025,Hypocotyl color,lod,17.60,found
+AQ00022,Zaelani2025,Hypocotyl color,pve,90.52,found
+AQ00022,Zaelani2025,Hypocotyl color,additive_effect,0.48,found
+AQ00022,Zaelani2025,Hypocotyl color,dominance_effect,0.50,found
+AQ00023,Zaelani2025,Inflorescence color,start_bp,5120811,found
+AQ00023,Zaelani2025,Inflorescence color,end_bp,6076285,found
+AQ00023,Zaelani2025,Inflorescence color,lod,17.60,found
+AQ00023,Zaelani2025,Inflorescence color,pve,90.52,found
+AQ00023,Zaelani2025,Inflorescence color,additive_effect,0.48,found
+AQ00023,Zaelani2025,Inflorescence color,dominance_effect,0.50,found
+AQ00024,Zaelani2025,Seed coat color,start_bp,14135980,found
+AQ00024,Zaelani2025,Seed coat color,end_bp,17335905,found
+AQ00024,Zaelani2025,Seed coat color,lod,6.12,found
+AQ00024,Zaelani2025,Seed coat color,pve,63.86,found
+AQ00024,Zaelani2025,Seed coat color,additive_effect,0.43,found
+AQ00024,Zaelani2025,Seed coat color,dominance_effect,0.36,found
+AQ00025,Zaelani2025,Heading date,start_bp,15620178,found
+AQ00025,Zaelani2025,Heading date,end_bp,17971778,found
+AQ00025,Zaelani2025,Heading date,lod,29.29,found
+AQ00025,Zaelani2025,Heading date,pve,46.08,found
+AQ00025,Zaelani2025,Heading date,additive_effect,-9.23,found
+AQ00025,Zaelani2025,Heading date,dominance_effect,-6.58,found
+AQ00026,Zaelani2025,Heading date,start_bp,14674403,found
+AQ00026,Zaelani2025,Heading date,end_bp,15326146,found
+AQ00026,Zaelani2025,Heading date,lod,16.70,found
+AQ00026,Zaelani2025,Heading date,pve,27.48,found
+AQ00026,Zaelani2025,Heading date,additive_effect,7.96,found
+AQ00026,Zaelani2025,Heading date,dominance_effect,-4.14,found
+AQ00027,Zaelani2025,Anthesis date,start_bp,15620178,found
+AQ00027,Zaelani2025,Anthesis date,end_bp,17971778,found
+AQ00027,Zaelani2025,Anthesis date,lod,27.28,found
+AQ00027,Zaelani2025,Anthesis date,pve,35.01,found
+AQ00027,Zaelani2025,Anthesis date,additive_effect,-8.37,found
+AQ00027,Zaelani2025,Anthesis date,dominance_effect,-6.26,found
+AQ00028,Zaelani2025,Anthesis date,start_bp,14334191,found
+AQ00028,Zaelani2025,Anthesis date,end_bp,15399706,found
+AQ00028,Zaelani2025,Anthesis date,lod,22.57,found
+AQ00028,Zaelani2025,Anthesis date,pve,31.49,found
+AQ00028,Zaelani2025,Anthesis date,additive_effect,7.86,found
+AQ00028,Zaelani2025,Anthesis date,dominance_effect,-2.35,found
+AQ00029,Zaelani2025,Plant height,start_bp,18144314,found
+AQ00029,Zaelani2025,Plant height,end_bp,20153174,found
+AQ00029,Zaelani2025,Plant height,lod,15.59,found
+AQ00029,Zaelani2025,Plant height,pve,24.99,found
+AQ00029,Zaelani2025,Plant height,additive_effect,-15.97,found
+AQ00029,Zaelani2025,Plant height,dominance_effect,-13.72,found
+AQ00030,Zaelani2025,Plant height,start_bp,18574484,found
+AQ00030,Zaelani2025,Plant height,end_bp,18733077,found
+AQ00030,Zaelani2025,Plant height,lod,7.71,found
+AQ00030,Zaelani2025,Plant height,pve,10.94,found
+AQ00030,Zaelani2025,Plant height,additive_effect,-13.84,found
+AQ00030,Zaelani2025,Plant height,dominance_effect,6.18,found
+AQ00031,Zaelani2025,Stem diameter,start_bp,18723787,found
+AQ00031,Zaelani2025,Stem diameter,end_bp,20153174,found
+AQ00031,Zaelani2025,Stem diameter,lod,26.48,found
+AQ00031,Zaelani2025,Stem diameter,pve,35.93,found
+AQ00031,Zaelani2025,Stem diameter,additive_effect,-2.11,found
+AQ00031,Zaelani2025,Stem diameter,dominance_effect,-1.44,found
+AQ00032,Zaelani2025,Stem diameter,start_bp,14085555,found
+AQ00032,Zaelani2025,Stem diameter,end_bp,14308121,found
+AQ00032,Zaelani2025,Stem diameter,lod,9.69,found
+AQ00032,Zaelani2025,Stem diameter,pve,14.32,found
+AQ00032,Zaelani2025,Stem diameter,additive_effect,1.47,found
+AQ00032,Zaelani2025,Stem diameter,dominance_effect,0.64,found
+AQ00033,Zaelani2025,Number of nodes,start_bp,17450913,found
+AQ00033,Zaelani2025,Number of nodes,end_bp,17971778,found
+AQ00033,Zaelani2025,Number of nodes,lod,42.78,found
+AQ00033,Zaelani2025,Number of nodes,pve,55.30,found
+AQ00033,Zaelani2025,Number of nodes,additive_effect,-7.92,found
+AQ00033,Zaelani2025,Number of nodes,dominance_effect,-5.49,found
+AQ00034,Zaelani2025,Number of nodes,start_bp,14674403,found
+AQ00034,Zaelani2025,Number of nodes,end_bp,15675389,found
+AQ00034,Zaelani2025,Number of nodes,lod,12.53,found
+AQ00034,Zaelani2025,Number of nodes,pve,15.05,found
+AQ00034,Zaelani2025,Number of nodes,additive_effect,5.03,found
+AQ00034,Zaelani2025,Number of nodes,dominance_effect,-0.84,found
+AQ00035,Zaelani2025,Branching index,start_bp,15620178,found
+AQ00035,Zaelani2025,Branching index,end_bp,20153174,found
+AQ00035,Zaelani2025,Branching index,lod,20.79,found
+AQ00035,Zaelani2025,Branching index,pve,88.41,found
+AQ00035,Zaelani2025,Branching index,additive_effect,0.91,found
+AQ00035,Zaelani2025,Branching index,dominance_effect,1.05,found
+AQ00036,Zaelani2025,Branching index,start_bp,13179836,found
+AQ00036,Zaelani2025,Branching index,end_bp,16636337,found
+AQ00036,Zaelani2025,Branching index,lod,5.64,found
+AQ00036,Zaelani2025,Branching index,pve,50.66,found
+AQ00036,Zaelani2025,Branching index,additive_effect,0.67,found
+AQ00036,Zaelani2025,Branching index,dominance_effect,0.69,found
+AQ00037,Zaelani2025,Hypocotyl color,start_bp,5048763,found
+AQ00037,Zaelani2025,Hypocotyl color,end_bp,6076285,found
+AQ00037,Zaelani2025,Hypocotyl color,lod,40.80,found
+AQ00037,Zaelani2025,Hypocotyl color,pve,88.45,found
+AQ00037,Zaelani2025,Hypocotyl color,additive_effect,0.46,found
+AQ00037,Zaelani2025,Hypocotyl color,dominance_effect,0.52,found
+AQ00038,Zaelani2025,Inflorescence color,start_bp,5048763,found
+AQ00038,Zaelani2025,Inflorescence color,end_bp,6076285,found
+AQ00038,Zaelani2025,Inflorescence color,lod,37.10,found
+AQ00038,Zaelani2025,Inflorescence color,pve,87.44,found
+AQ00038,Zaelani2025,Inflorescence color,additive_effect,0.50,found
+AQ00038,Zaelani2025,Inflorescence color,dominance_effect,0.46,found
+AQ00039,Zaelani2025,Seed coat color,start_bp,14255476,found
+AQ00039,Zaelani2025,Seed coat color,end_bp,14774673,found
+AQ00039,Zaelani2025,Seed coat color,lod,33,found
+AQ00039,Zaelani2025,Seed coat color,pve,100.00,found
+AQ00039,Zaelani2025,Seed coat color,additive_effect,0.50,found
+AQ00039,Zaelani2025,Seed coat color,dominance_effect,0.50,found
+AQ00040,Werle2025,Dicamba resistance,start_bp,16700000,found
+AQ00040,Werle2025,Dicamba resistance,end_bp,18100000,found
+AQ00040,Werle2025,Dicamba resistance,lod,3.48,found
+AQ00040,Werle2025,Dicamba resistance,pve,7.02,found
+AQ00040,Werle2025,Dicamba resistance,p_value,0.000485,found
+AQ00040,Werle2025,Dicamba resistance,position_cM,81.6-109.9,found
+AQ00041,Werle2025,Dicamba resistance,start_bp,19400000,found
+AQ00041,Werle2025,Dicamba resistance,end_bp,20900000,found
+AQ00041,Werle2025,Dicamba resistance,lod,2.81,found
+AQ00041,Werle2025,Dicamba resistance,pve,5.61,found
+AQ00041,Werle2025,Dicamba resistance,p_value,0.002127,found
+AQ00041,Werle2025,Dicamba resistance,position_cM,50.4-72.8,found
+AQ00042,Werle2025,Dicamba resistance,start_bp,27500000,found
+AQ00042,Werle2025,Dicamba resistance,end_bp,28500000,found
+AQ00042,Werle2025,Dicamba resistance,lod,2.67,found
+AQ00042,Werle2025,Dicamba resistance,pve,5.33,found
+AQ00042,Werle2025,Dicamba resistance,p_value,0.002863,found
+AQ00042,Werle2025,Dicamba resistance,position_cM,169.3-190.8,found
+AQ00043,Werle2025,Dicamba resistance,start_bp,7100000,found
+AQ00043,Werle2025,Dicamba resistance,end_bp,23000000,found
+AQ00043,Werle2025,Dicamba resistance,lod,3.11,found
+AQ00043,Werle2025,Dicamba resistance,pve,6.24,found
+AQ00043,Werle2025,Dicamba resistance,p_value,0.001102,found
+AQ00043,Werle2025,Dicamba resistance,position_cM,61.2-132.2,found
+AQ00044,Werle2025,"2,4-D resistance",start_bp,47000000,found
+AQ00044,Werle2025,"2,4-D resistance",end_bp,50800000,found
+AQ00044,Werle2025,"2,4-D resistance",lod,2.96,found
+AQ00044,Werle2025,"2,4-D resistance",pve,5.74,found
+AQ00044,Werle2025,"2,4-D resistance",p_value,0.00151,found
+AQ00044,Werle2025,"2,4-D resistance",position_cM,145.0-179.9,found
+AQ00045,Werle2025,"2,4-D resistance",start_bp,33400000,found
+AQ00045,Werle2025,"2,4-D resistance",end_bp,34400000,found
+AQ00045,Werle2025,"2,4-D resistance",lod,2.42,found
+AQ00045,Werle2025,"2,4-D resistance",pve,4.63,found
+AQ00045,Werle2025,"2,4-D resistance",p_value,0.00510,found
+AQ00045,Werle2025,"2,4-D resistance",position_cM,86.5-99.1,found
+AQ00046,Werle2025,"2,4-D resistance",start_bp,20800000,found
+AQ00046,Werle2025,"2,4-D resistance",end_bp,25400000,found
+AQ00046,Werle2025,"2,4-D resistance",lod,2.79,found
+AQ00046,Werle2025,"2,4-D resistance",pve,5.39,found
+AQ00046,Werle2025,"2,4-D resistance",p_value,0.00220,found
+AQ00046,Werle2025,"2,4-D resistance",position_cM,83.2-175.3,found
+AQ00047,Werle2025,"2,4-D resistance",start_bp,19400000,found
+AQ00047,Werle2025,"2,4-D resistance",end_bp,20900000,found
+AQ00047,Werle2025,"2,4-D resistance",lod,3.76,found
+AQ00047,Werle2025,"2,4-D resistance",pve,7.36,found
+AQ00047,Werle2025,"2,4-D resistance",p_value,0.00026,found
+AQ00047,Werle2025,"2,4-D resistance",position_cM,94.4-115.4,found
+AQ00048,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,10224431,found
+AQ00048,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,11890395,found
+AQ00048,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,11877263,found
+AQ00048,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,11.6,found
+AQ00048,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,23,found
+AQ00049,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,18186955,found
+AQ00049,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,20375576,found
+AQ00049,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,19632215,found
+AQ00049,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,10.1,found
+AQ00049,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,20,found
+AQ00050,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,15752153,found
+AQ00050,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,16851238,found
+AQ00050,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,16851238,found
+AQ00050,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,9.5,found
+AQ00050,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,19,found
+AQ00051,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,2226097,found
+AQ00051,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,7800824,found
+AQ00051,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,7800824,found
+AQ00051,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,8.0,found
+AQ00051,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,16,found
+AQ00052,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,10877263,found
+AQ00052,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,12877263,found
+AQ00052,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,11877263,found
+AQ00052,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,12.25,found
+AQ00052,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,15,found
+AQ00053,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,4962074,found
+AQ00053,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,5962074,found
+AQ00053,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,5462074,found
+AQ00053,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,7.81,found
+AQ00053,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,10,found
+AQ00054,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,15150809,found
+AQ00054,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,17351238,found
+AQ00054,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,16851238,found
+AQ00054,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,7.60,found
+AQ00055,Rigon2025,HPPD-inhibitor (tembotrione) resistance,start_bp,7300824,found
+AQ00055,Rigon2025,HPPD-inhibitor (tembotrione) resistance,end_bp,8300824,found
+AQ00055,Rigon2025,HPPD-inhibitor (tembotrione) resistance,peak_bp,7800824,found
+AQ00055,Rigon2025,HPPD-inhibitor (tembotrione) resistance,lod,7.87,found
+AQ00055,Rigon2025,HPPD-inhibitor (tembotrione) resistance,pve,10,found
+AQ00056,Lightfoot2017,Stem color (betalain),start_bp,5302418,found
+AQ00056,Lightfoot2017,Stem color (betalain),end_bp,5632023,found
+AQ00056,Lightfoot2017,Stem color (betalain),position_cM,33.1,found
+AQ00057,Stetter2020,Seed coat color,start_bp,5881516,found
+AQ00057,Stetter2020,Seed coat color,end_bp,5966304,found
+AQ00058,Stetter2020,Seed coat color,start_bp,14050000,found
+AQ00058,Stetter2020,Seed coat color,end_bp,14709000,found
+AQ00059,Jamalluddin2022,Branching index,peak_bp,1229325,found
+AQ00059,Jamalluddin2022,Branching index,pve,9.59,derived (see note)
+AQ00059,Jamalluddin2022,Branching index,p_value,0.000,found
+AQ00060,Jamalluddin2022,Branching index,peak_bp,11000000,found
+AQ00060,Jamalluddin2022,Branching index,pve,8.54,derived (see note)
+AQ00060,Jamalluddin2022,Branching index,p_value,0.001,found
+AQ00061,Jamalluddin2022,Branching index,peak_bp,8485720,found
+AQ00061,Jamalluddin2022,Branching index,pve,8.31,derived (see note)
+AQ00061,Jamalluddin2022,Branching index,p_value,0.001,found
+AQ00062,Jamalluddin2022,Branching index,peak_bp,2988352,found
+AQ00062,Jamalluddin2022,Branching index,pve,8.50,derived (see note)
+AQ00062,Jamalluddin2022,Branching index,p_value,0.001,found
+AQ00063,Jamalluddin2022,Inflorescence color,peak_bp,20000000,found
+AQ00063,Jamalluddin2022,Inflorescence color,pve,13.23,derived (see note)
+AQ00063,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00064,Jamalluddin2022,Inflorescence color,peak_bp,13603782,found
+AQ00064,Jamalluddin2022,Inflorescence color,pve,14.65,derived (see note)
+AQ00064,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00065,Jamalluddin2022,Inflorescence color,peak_bp,3726457,found
+AQ00065,Jamalluddin2022,Inflorescence color,pve,10.48,derived (see note)
+AQ00065,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00066,Jamalluddin2022,Inflorescence color,peak_bp,3281805,found
+AQ00066,Jamalluddin2022,Inflorescence color,pve,18.78,derived (see note)
+AQ00066,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00067,Jamalluddin2022,Inflorescence color,peak_bp,22000000,found
+AQ00067,Jamalluddin2022,Inflorescence color,pve,8.27,derived (see note)
+AQ00067,Jamalluddin2022,Inflorescence color,p_value,0.001,found
+AQ00068,Jamalluddin2022,Inflorescence color,peak_bp,7310907,found
+AQ00068,Jamalluddin2022,Inflorescence color,pve,8.18,derived (see note)
+AQ00068,Jamalluddin2022,Inflorescence color,p_value,0.001,found
+AQ00069,Jamalluddin2022,Leaf shape,peak_bp,4618929,found
+AQ00069,Jamalluddin2022,Leaf shape,pve,8.41,derived (see note)
+AQ00069,Jamalluddin2022,Leaf shape,p_value,0.001,found
+AQ00070,Jamalluddin2022,Leaf shape,peak_bp,4371684,found
+AQ00070,Jamalluddin2022,Leaf shape,pve,8.26,derived (see note)
+AQ00070,Jamalluddin2022,Leaf shape,p_value,0.001,found
+AQ00071,Jamalluddin2022,Inflorescence color,peak_bp,4478322,found
+AQ00071,Jamalluddin2022,Inflorescence color,pve,16.00,derived (see note)
+AQ00071,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00072,Jamalluddin2022,Inflorescence color,peak_bp,7310907,found
+AQ00072,Jamalluddin2022,Inflorescence color,pve,14.00,derived (see note)
+AQ00072,Jamalluddin2022,Inflorescence color,p_value,0.000,found
+AQ00073,Jamalluddin2022,Inflorescence color,peak_bp,13603782,found
+AQ00073,Jamalluddin2022,Inflorescence color,pve,13.00,derived (see note)
+AQ00073,Jamalluddin2022,Inflorescence color,p_value,0.001,found
+AQ00074,Jamalluddin2022,Inflorescence color,peak_bp,18420538,found
+AQ00074,Jamalluddin2022,Inflorescence color,pve,12.00,derived (see note)
+AQ00074,Jamalluddin2022,Inflorescence color,p_value,0.001,found
+AQ00075,Jamalluddin2022,Leaf pigmentation,peak_bp,19318346,found
+AQ00075,Jamalluddin2022,Leaf pigmentation,pve,23.00,derived (see note)
+AQ00075,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00076,Jamalluddin2022,Leaf pigmentation,peak_bp,19885054,found
+AQ00076,Jamalluddin2022,Leaf pigmentation,pve,21.00,derived (see note)
+AQ00076,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00077,Jamalluddin2022,Leaf pigmentation,peak_bp,19932945,found
+AQ00077,Jamalluddin2022,Leaf pigmentation,pve,21.00,derived (see note)
+AQ00077,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00078,Jamalluddin2022,Leaf pigmentation,peak_bp,32078565,found
+AQ00078,Jamalluddin2022,Leaf pigmentation,pve,20.00,derived (see note)
+AQ00078,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00079,Jamalluddin2022,Leaf pigmentation,peak_bp,27826039,found
+AQ00079,Jamalluddin2022,Leaf pigmentation,pve,20.00,derived (see note)
+AQ00079,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00080,Jamalluddin2022,Leaf pigmentation,peak_bp,4842922,found
+AQ00080,Jamalluddin2022,Leaf pigmentation,pve,19.00,derived (see note)
+AQ00080,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00081,Jamalluddin2022,Leaf pigmentation,peak_bp,21720524,found
+AQ00081,Jamalluddin2022,Leaf pigmentation,pve,18.00,derived (see note)
+AQ00081,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00082,Jamalluddin2022,Leaf pigmentation,peak_bp,14654529,found
+AQ00082,Jamalluddin2022,Leaf pigmentation,pve,18.00,derived (see note)
+AQ00082,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00083,Jamalluddin2022,Leaf pigmentation,peak_bp,21651122,found
+AQ00083,Jamalluddin2022,Leaf pigmentation,pve,18.00,derived (see note)
+AQ00083,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00084,Jamalluddin2022,Leaf pigmentation,peak_bp,261886,found
+AQ00084,Jamalluddin2022,Leaf pigmentation,pve,17.00,derived (see note)
+AQ00084,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00085,Jamalluddin2022,Leaf pigmentation,peak_bp,4287524,found
+AQ00085,Jamalluddin2022,Leaf pigmentation,pve,17.00,derived (see note)
+AQ00085,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00086,Jamalluddin2022,Leaf pigmentation,peak_bp,26027339,found
+AQ00086,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00086,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00087,Jamalluddin2022,Leaf pigmentation,peak_bp,26006146,found
+AQ00087,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00087,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00088,Jamalluddin2022,Leaf pigmentation,peak_bp,28467849,found
+AQ00088,Jamalluddin2022,Leaf pigmentation,pve,17.00,derived (see note)
+AQ00088,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00089,Jamalluddin2022,Leaf pigmentation,peak_bp,25218037,found
+AQ00089,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00089,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00090,Jamalluddin2022,Leaf pigmentation,peak_bp,27277661,found
+AQ00090,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00090,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00091,Jamalluddin2022,Leaf pigmentation,peak_bp,4790604,found
+AQ00091,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00091,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00092,Jamalluddin2022,Leaf pigmentation,peak_bp,11064067,found
+AQ00092,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00092,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00093,Jamalluddin2022,Leaf pigmentation,peak_bp,22131192,found
+AQ00093,Jamalluddin2022,Leaf pigmentation,pve,15.00,derived (see note)
+AQ00093,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00094,Jamalluddin2022,Leaf pigmentation,peak_bp,3381897,found
+AQ00094,Jamalluddin2022,Leaf pigmentation,pve,15.00,derived (see note)
+AQ00094,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00095,Jamalluddin2022,Leaf pigmentation,peak_bp,19694142,found
+AQ00095,Jamalluddin2022,Leaf pigmentation,pve,16.00,derived (see note)
+AQ00095,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00096,Jamalluddin2022,Leaf pigmentation,peak_bp,25006230,found
+AQ00096,Jamalluddin2022,Leaf pigmentation,pve,15.00,derived (see note)
+AQ00096,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00097,Jamalluddin2022,Leaf pigmentation,peak_bp,9104986,found
+AQ00097,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00097,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00098,Jamalluddin2022,Leaf pigmentation,peak_bp,32078565,found
+AQ00098,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00098,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00099,Jamalluddin2022,Leaf pigmentation,peak_bp,16703056,found
+AQ00099,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00099,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00100,Jamalluddin2022,Leaf pigmentation,peak_bp,2505388,found
+AQ00100,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00100,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00101,Jamalluddin2022,Leaf pigmentation,peak_bp,1128299,found
+AQ00101,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00101,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00102,Jamalluddin2022,Leaf pigmentation,peak_bp,4275159,found
+AQ00102,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00102,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00103,Jamalluddin2022,Leaf pigmentation,peak_bp,21853056,found
+AQ00103,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00103,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00104,Jamalluddin2022,Leaf pigmentation,peak_bp,11525948,found
+AQ00104,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00104,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00105,Jamalluddin2022,Leaf pigmentation,peak_bp,5819731,found
+AQ00105,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00105,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00106,Jamalluddin2022,Leaf pigmentation,peak_bp,707152,found
+AQ00106,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00106,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00107,Jamalluddin2022,Leaf pigmentation,peak_bp,15098294,found
+AQ00107,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00107,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00108,Jamalluddin2022,Leaf pigmentation,peak_bp,4515916,found
+AQ00108,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00108,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00109,Jamalluddin2022,Leaf pigmentation,peak_bp,14612733,found
+AQ00109,Jamalluddin2022,Leaf pigmentation,pve,15.00,derived (see note)
+AQ00109,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00110,Jamalluddin2022,Leaf pigmentation,peak_bp,21992096,found
+AQ00110,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00110,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00111,Jamalluddin2022,Leaf pigmentation,peak_bp,20557141,found
+AQ00111,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00111,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00112,Jamalluddin2022,Leaf pigmentation,peak_bp,20546481,found
+AQ00112,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00112,Jamalluddin2022,Leaf pigmentation,p_value,0.000,found
+AQ00113,Jamalluddin2022,Leaf pigmentation,peak_bp,22045821,found
+AQ00113,Jamalluddin2022,Leaf pigmentation,pve,14.00,derived (see note)
+AQ00113,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00114,Jamalluddin2022,Leaf pigmentation,peak_bp,16678507,found
+AQ00114,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00114,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00115,Jamalluddin2022,Leaf pigmentation,peak_bp,6291635,found
+AQ00115,Jamalluddin2022,Leaf pigmentation,pve,17.00,derived (see note)
+AQ00115,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00116,Jamalluddin2022,Leaf pigmentation,peak_bp,27763448,found
+AQ00116,Jamalluddin2022,Leaf pigmentation,pve,12.00,derived (see note)
+AQ00116,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00117,Jamalluddin2022,Leaf pigmentation,peak_bp,10349586,found
+AQ00117,Jamalluddin2022,Leaf pigmentation,pve,12.00,derived (see note)
+AQ00117,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00118,Jamalluddin2022,Leaf pigmentation,peak_bp,20844422,found
+AQ00118,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00118,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00119,Jamalluddin2022,Leaf pigmentation,peak_bp,2722366,found
+AQ00119,Jamalluddin2022,Leaf pigmentation,pve,13.00,derived (see note)
+AQ00119,Jamalluddin2022,Leaf pigmentation,p_value,0.001,found
+AQ00120,Jamalluddin2022,Petiole pigmentation,peak_bp,19047239,found
+AQ00120,Jamalluddin2022,Petiole pigmentation,pve,21.00,derived (see note)
+AQ00120,Jamalluddin2022,Petiole pigmentation,p_value,0.000,found
+AQ00121,Jamalluddin2022,Petiole pigmentation,peak_bp,19136116,found
+AQ00121,Jamalluddin2022,Petiole pigmentation,pve,15.00,derived (see note)
+AQ00121,Jamalluddin2022,Petiole pigmentation,p_value,0.000,found
+AQ00122,Jamalluddin2022,Petiole pigmentation,peak_bp,9410249,found
+AQ00122,Jamalluddin2022,Petiole pigmentation,pve,14.00,derived (see note)
+AQ00122,Jamalluddin2022,Petiole pigmentation,p_value,0.000,found
+AQ00123,Jamalluddin2022,Petiole pigmentation,peak_bp,20776062,found
+AQ00123,Jamalluddin2022,Petiole pigmentation,pve,14.00,derived (see note)
+AQ00123,Jamalluddin2022,Petiole pigmentation,p_value,0.001,found
+AQ00124,Jamalluddin2022,Petiole pigmentation,peak_bp,11011768,found
+AQ00124,Jamalluddin2022,Petiole pigmentation,pve,12.00,derived (see note)
+AQ00124,Jamalluddin2022,Petiole pigmentation,p_value,0.001,found
+AQ00125,Jamalluddin2022,Petiole pigmentation,peak_bp,11059585,found
+AQ00125,Jamalluddin2022,Petiole pigmentation,pve,12.00,derived (see note)
+AQ00125,Jamalluddin2022,Petiole pigmentation,p_value,0.001,found
+AQ00126,Jamalluddin2022,Petiole pigmentation,peak_bp,18977396,found
+AQ00126,Jamalluddin2022,Petiole pigmentation,pve,12.00,derived (see note)
+AQ00126,Jamalluddin2022,Petiole pigmentation,p_value,0.001,found
+AQ00127,Jamalluddin2022,Petiole pigmentation,peak_bp,18977331,found
+AQ00127,Jamalluddin2022,Petiole pigmentation,pve,12.00,derived (see note)
+AQ00127,Jamalluddin2022,Petiole pigmentation,p_value,0.001,found
+AQ00128,Jamalluddin2022,Stem pigmentation,peak_bp,8553631,found
+AQ00128,Jamalluddin2022,Stem pigmentation,pve,20.00,derived (see note)
+AQ00128,Jamalluddin2022,Stem pigmentation,p_value,0.000,found
+AQ00129,Jamalluddin2022,Branching index,peak_bp,8119712,found
+AQ00129,Jamalluddin2022,Branching index,pve,8.24,derived (see note)
+AQ00129,Jamalluddin2022,Branching index,p_value,0.0016,found
+AQ00130,Jamalluddin2022,Branching index,peak_bp,7905370,found
+AQ00130,Jamalluddin2022,Branching index,pve,7.14,derived (see note)
+AQ00130,Jamalluddin2022,Branching index,p_value,0.0017,found
+AQ00131,Jamalluddin2022,Branching index,peak_bp,19996009,found
+AQ00131,Jamalluddin2022,Branching index,pve,6.21,derived (see note)
+AQ00131,Jamalluddin2022,Branching index,p_value,0.0043,found
+AQ00132,Jamalluddin2022,Leaf pigmentation,peak_bp,4122180,found
+AQ00132,Jamalluddin2022,Leaf pigmentation,pve,6.88,derived (see note)
+AQ00132,Jamalluddin2022,Leaf pigmentation,p_value,0.0015,found
+AQ00133,Jamalluddin2022,Leaf pigmentation,peak_bp,7792136,found
+AQ00133,Jamalluddin2022,Leaf pigmentation,pve,6.91,derived (see note)
+AQ00133,Jamalluddin2022,Leaf pigmentation,p_value,0.0023,found
+AQ00134,Jamalluddin2022,Leaf pigmentation,peak_bp,16956619,found
+AQ00134,Jamalluddin2022,Leaf pigmentation,pve,6.89,derived (see note)
+AQ00134,Jamalluddin2022,Leaf pigmentation,p_value,0.0024,found
+AQ00135,Jamalluddin2022,Leaf pigmentation,peak_bp,14548672,found
+AQ00135,Jamalluddin2022,Leaf pigmentation,pve,6.56,derived (see note)
+AQ00135,Jamalluddin2022,Leaf pigmentation,p_value,0.0026,found
+AQ00136,Jamalluddin2022,Leaf pigmentation,peak_bp,1894353,found
+AQ00136,Jamalluddin2022,Leaf pigmentation,pve,6.63,derived (see note)
+AQ00136,Jamalluddin2022,Leaf pigmentation,p_value,0.0029,found
+AQ00137,Jamalluddin2022,Leaf pigmentation,peak_bp,17359364,found
+AQ00137,Jamalluddin2022,Leaf pigmentation,pve,5.93,derived (see note)
+AQ00137,Jamalluddin2022,Leaf pigmentation,p_value,0.0046,found
+AQ00138,Jamalluddin2022,Leaf shape,peak_bp,3184531,found
+AQ00138,Jamalluddin2022,Leaf shape,pve,7.10,derived (see note)
+AQ00138,Jamalluddin2022,Leaf shape,p_value,0.002,found
+AQ00139,Jamalluddin2022,Inflorescence color,peak_bp,6000356,found
+AQ00139,Jamalluddin2022,Inflorescence color,pve,10.61,derived (see note)
+AQ00139,Jamalluddin2022,Inflorescence color,p_value,0.00254,found
+AQ00140,Jamalluddin2022,Inflorescence color,peak_bp,13422860,found
+AQ00140,Jamalluddin2022,Inflorescence color,pve,10.32,derived (see note)
+AQ00140,Jamalluddin2022,Inflorescence color,p_value,0.00402,found
+AQ00141,Jamalluddin2022,Inflorescence color,peak_bp,27658759,found
+AQ00141,Jamalluddin2022,Inflorescence color,pve,10.97,derived (see note)
+AQ00141,Jamalluddin2022,Inflorescence color,p_value,0.00425,found
+AQ00142,Jamalluddin2022,Inflorescence color,peak_bp,15214333,found
+AQ00142,Jamalluddin2022,Inflorescence color,pve,9.53,derived (see note)
+AQ00142,Jamalluddin2022,Inflorescence color,p_value,0.00484,found
+AQ00143,Jamalluddin2022,Inflorescence color,peak_bp,7593742,found
+AQ00143,Jamalluddin2022,Inflorescence color,pve,9.48,derived (see note)
+AQ00143,Jamalluddin2022,Inflorescence color,p_value,0.00497,found
+AQ00144,Jamalluddin2022,Inflorescence color,peak_bp,18378072,found
+AQ00144,Jamalluddin2022,Inflorescence color,pve,9.48,derived (see note)
+AQ00144,Jamalluddin2022,Inflorescence color,p_value,0.00497,found
+AQ00145,Jamalluddin2022,Leaf pigmentation,peak_bp,535109,found
+AQ00145,Jamalluddin2022,Leaf pigmentation,pve,11.45,derived (see note)
+AQ00145,Jamalluddin2022,Leaf pigmentation,p_value,0.00178,found
+AQ00146,Jamalluddin2022,Leaf pigmentation,peak_bp,8483749,found
+AQ00146,Jamalluddin2022,Leaf pigmentation,pve,11.30,derived (see note)
+AQ00146,Jamalluddin2022,Leaf pigmentation,p_value,0.00194,found
+AQ00147,Jamalluddin2022,Leaf pigmentation,peak_bp,29028689,found
+AQ00147,Jamalluddin2022,Leaf pigmentation,pve,11.76,derived (see note)
+AQ00147,Jamalluddin2022,Leaf pigmentation,p_value,0.00207,found
+AQ00148,Jamalluddin2022,Leaf pigmentation,peak_bp,22008117,found
+AQ00148,Jamalluddin2022,Leaf pigmentation,pve,10.88,derived (see note)
+AQ00148,Jamalluddin2022,Leaf pigmentation,p_value,0.00209,found
+AQ00149,Jamalluddin2022,Leaf pigmentation,peak_bp,36453315,found
+AQ00149,Jamalluddin2022,Leaf pigmentation,pve,11.43,derived (see note)
+AQ00149,Jamalluddin2022,Leaf pigmentation,p_value,0.00219,found
+AQ00150,Jamalluddin2022,Leaf pigmentation,peak_bp,17588382,found
+AQ00150,Jamalluddin2022,Leaf pigmentation,pve,10.83,derived (see note)
+AQ00150,Jamalluddin2022,Leaf pigmentation,p_value,0.00289,found
+AQ00151,Jamalluddin2022,Leaf pigmentation,peak_bp,8631576,found
+AQ00151,Jamalluddin2022,Leaf pigmentation,pve,10.32,derived (see note)
+AQ00151,Jamalluddin2022,Leaf pigmentation,p_value,0.00292,found
+AQ00152,Jamalluddin2022,Leaf pigmentation,peak_bp,16956619,found
+AQ00152,Jamalluddin2022,Leaf pigmentation,pve,10.37,derived (see note)
+AQ00152,Jamalluddin2022,Leaf pigmentation,p_value,0.00347,found
+AQ00153,Jamalluddin2022,Leaf pigmentation,peak_bp,17016812,found
+AQ00153,Jamalluddin2022,Leaf pigmentation,pve,9.97,derived (see note)
+AQ00153,Jamalluddin2022,Leaf pigmentation,p_value,0.0036,found
+AQ00154,Jamalluddin2022,Leaf pigmentation,peak_bp,532627,found
+AQ00154,Jamalluddin2022,Leaf pigmentation,pve,11.04,derived (see note)
+AQ00154,Jamalluddin2022,Leaf pigmentation,p_value,0.00371,found
+AQ00155,Jamalluddin2022,Leaf pigmentation,peak_bp,10349408,found
+AQ00155,Jamalluddin2022,Leaf pigmentation,pve,10.80,derived (see note)
+AQ00155,Jamalluddin2022,Leaf pigmentation,p_value,0.00373,found
+AQ00156,Jamalluddin2022,Leaf pigmentation,peak_bp,25866511,found
+AQ00156,Jamalluddin2022,Leaf pigmentation,pve,9.89,derived (see note)
+AQ00156,Jamalluddin2022,Leaf pigmentation,p_value,0.00378,found
+AQ00157,Jamalluddin2022,Leaf pigmentation,peak_bp,6953653,found
+AQ00157,Jamalluddin2022,Leaf pigmentation,pve,10.09,derived (see note)
+AQ00157,Jamalluddin2022,Leaf pigmentation,p_value,0.00397,found
+AQ00158,Jamalluddin2022,Leaf pigmentation,peak_bp,79253,found
+AQ00158,Jamalluddin2022,Leaf pigmentation,pve,9.73,derived (see note)
+AQ00158,Jamalluddin2022,Leaf pigmentation,p_value,0.00416,found
+AQ00159,Jamalluddin2022,Leaf pigmentation,peak_bp,3373105,found
+AQ00159,Jamalluddin2022,Leaf pigmentation,pve,9.76,derived (see note)
+AQ00159,Jamalluddin2022,Leaf pigmentation,p_value,0.00427,found
+AQ00160,Jamalluddin2022,Leaf pigmentation,peak_bp,21122540,found
+AQ00160,Jamalluddin2022,Leaf pigmentation,pve,10.04,derived (see note)
+AQ00160,Jamalluddin2022,Leaf pigmentation,p_value,0.00445,found
+AQ00161,Jamalluddin2022,Leaf pigmentation,peak_bp,9828925,found
+AQ00161,Jamalluddin2022,Leaf pigmentation,pve,9.81,derived (see note)
+AQ00161,Jamalluddin2022,Leaf pigmentation,p_value,0.00483,found
+AQ00162,Jamalluddin2022,Petiole pigmentation,peak_bp,28710227,found
+AQ00162,Jamalluddin2022,Petiole pigmentation,pve,10.98,derived (see note)
+AQ00162,Jamalluddin2022,Petiole pigmentation,p_value,0.00186,found
+AQ00163,Jamalluddin2022,Petiole pigmentation,peak_bp,26114158,found
+AQ00163,Jamalluddin2022,Petiole pigmentation,pve,11.74,derived (see note)
+AQ00163,Jamalluddin2022,Petiole pigmentation,p_value,0.00246,found
+AQ00164,Jamalluddin2022,Petiole pigmentation,peak_bp,22743095,found
+AQ00164,Jamalluddin2022,Petiole pigmentation,pve,10.25,derived (see note)
+AQ00164,Jamalluddin2022,Petiole pigmentation,p_value,0.00291,found
+AQ00165,Jamalluddin2022,Petiole pigmentation,peak_bp,22276368,found
+AQ00165,Jamalluddin2022,Petiole pigmentation,pve,10.14,derived (see note)
+AQ00165,Jamalluddin2022,Petiole pigmentation,p_value,0.0031,found
+AQ00166,Jamalluddin2022,Petiole pigmentation,peak_bp,23824045,found
+AQ00166,Jamalluddin2022,Petiole pigmentation,pve,9.93,derived (see note)
+AQ00166,Jamalluddin2022,Petiole pigmentation,p_value,0.00352,found
+AQ00167,Jamalluddin2022,Petiole pigmentation,peak_bp,25221515,found
+AQ00167,Jamalluddin2022,Petiole pigmentation,pve,9.88,derived (see note)
+AQ00167,Jamalluddin2022,Petiole pigmentation,p_value,0.00361,found
+AQ00168,Jamalluddin2022,Petiole pigmentation,peak_bp,121832,found
+AQ00168,Jamalluddin2022,Petiole pigmentation,pve,9.77,derived (see note)
+AQ00168,Jamalluddin2022,Petiole pigmentation,p_value,0.00386,found
+AQ00169,Jamalluddin2022,Petiole pigmentation,peak_bp,833638,found
+AQ00169,Jamalluddin2022,Petiole pigmentation,pve,11.52,derived (see note)
+AQ00169,Jamalluddin2022,Petiole pigmentation,p_value,0.00427,found
+AQ00170,Jamalluddin2022,Petiole pigmentation,peak_bp,16383511,found
+AQ00170,Jamalluddin2022,Petiole pigmentation,pve,9.89,derived (see note)
+AQ00170,Jamalluddin2022,Petiole pigmentation,p_value,0.00439,found
+AQ00171,Jamalluddin2022,Petiole pigmentation,peak_bp,3637018,found
+AQ00171,Jamalluddin2022,Petiole pigmentation,pve,10.57,derived (see note)
+AQ00171,Jamalluddin2022,Petiole pigmentation,p_value,0.0046,found
+AQ00172,Jamalluddin2022,Stem pigmentation,peak_bp,23779518,found
+AQ00172,Jamalluddin2022,Stem pigmentation,pve,10.77,derived (see note)
+AQ00172,Jamalluddin2022,Stem pigmentation,p_value,0.00226,found
+AQ00173,Jamalluddin2022,Stem pigmentation,peak_bp,5767411,found
+AQ00173,Jamalluddin2022,Stem pigmentation,pve,10.38,derived (see note)
+AQ00173,Jamalluddin2022,Stem pigmentation,p_value,0.00285,found
+AQ00174,Jamalluddin2022,Stem pigmentation,peak_bp,21529870,found
+AQ00174,Jamalluddin2022,Stem pigmentation,pve,10.56,derived (see note)
+AQ00174,Jamalluddin2022,Stem pigmentation,p_value,0.00312,found
+AQ00175,Jamalluddin2022,Stem pigmentation,peak_bp,4344392,found
+AQ00175,Jamalluddin2022,Stem pigmentation,pve,10.31,derived (see note)
+AQ00175,Jamalluddin2022,Stem pigmentation,p_value,0.00333,found
+AQ00176,Jamalluddin2022,Stem pigmentation,peak_bp,15946331,found
+AQ00176,Jamalluddin2022,Stem pigmentation,pve,10.06,derived (see note)
+AQ00176,Jamalluddin2022,Stem pigmentation,p_value,0.00345,found
+AQ00177,Jamalluddin2022,Stem pigmentation,peak_bp,32664989,found
+AQ00177,Jamalluddin2022,Stem pigmentation,pve,10.60,derived (see note)
+AQ00177,Jamalluddin2022,Stem pigmentation,p_value,0.00347,found
+AQ00178,Jamalluddin2022,Stem pigmentation,peak_bp,31075179,found
+AQ00178,Jamalluddin2022,Stem pigmentation,pve,10.42,derived (see note)
+AQ00178,Jamalluddin2022,Stem pigmentation,p_value,0.00383,found
+AQ00179,Jamalluddin2022,Stem pigmentation,peak_bp,21776865,found
+AQ00179,Jamalluddin2022,Stem pigmentation,pve,10.42,derived (see note)
+AQ00179,Jamalluddin2022,Stem pigmentation,p_value,0.00383,found
+AQ00180,Jamalluddin2022,Stem pigmentation,peak_bp,756830,found
+AQ00180,Jamalluddin2022,Stem pigmentation,pve,9.57,derived (see note)
+AQ00180,Jamalluddin2022,Stem pigmentation,p_value,0.00461,found
+AQ00181,Lin2022,Days to flowering,start_bp,19200899,found
+AQ00181,Lin2022,Days to flowering,end_bp,19200969,found
+AQ00181,Lin2022,Days to flowering,p_value,5.19e-9,found
+AQ00182,Lin2022,Days to flowering,start_bp,21575414,found
+AQ00182,Lin2022,Days to flowering,end_bp,21575484,found
+AQ00182,Lin2022,Days to flowering,p_value,5.61e-9,found
+AQ00183,Lin2022,Days to flowering,start_bp,16965507,found
+AQ00183,Lin2022,Days to flowering,end_bp,16965577,found
+AQ00183,Lin2022,Days to flowering,p_value,5.41e-7,found
+AQ00184,Lin2022,Days to flowering,start_bp,1126013,found
+AQ00184,Lin2022,Days to flowering,end_bp,1126083,found
+AQ00184,Lin2022,Days to flowering,p_value,4.02e-6,found
+AQ00185,Lin2022,Days to flowering,start_bp,14042839,found
+AQ00185,Lin2022,Days to flowering,end_bp,14042909,found
+AQ00185,Lin2022,Days to flowering,p_value,5.84e-6,found
+AQ00186,Lin2022,Days to flowering,start_bp,681725,found
+AQ00186,Lin2022,Days to flowering,end_bp,681802,found
+AQ00186,Lin2022,Days to flowering,p_value,2.54e-5,found
+AQ00187,Lin2022,Days to flowering,start_bp,1414437,found
+AQ00187,Lin2022,Days to flowering,end_bp,1414468,found
+AQ00187,Lin2022,Days to flowering,p_value,7.86e-5,found
+AQ00188,Lin2022,Days to flowering,start_bp,2962596,found
+AQ00188,Lin2022,Days to flowering,end_bp,2962653,found
+AQ00188,Lin2022,Days to flowering,p_value,4.34e-6,found
+AQ00189,Lin2022,Days to flowering,start_bp,2962596,found
+AQ00189,Lin2022,Days to flowering,end_bp,2962653,found
+AQ00189,Lin2022,Days to flowering,p_value,3.10e-4,found
+AQ00190,Lin2022,Days to flowering,start_bp,18892326,found
+AQ00190,Lin2022,Days to flowering,end_bp,18892396,found
+AQ00190,Lin2022,Days to flowering,p_value,4.64e-5,found
+AQ00191,Lin2022,Days to flowering,start_bp,2167998,found
+AQ00191,Lin2022,Days to flowering,end_bp,2168068,found
+AQ00191,Lin2022,Days to flowering,p_value,5.15e-5,found
+AQ00192,Lin2022,Days to flowering,start_bp,17585157,found
+AQ00192,Lin2022,Days to flowering,end_bp,17585227,found
+AQ00192,Lin2022,Days to flowering,p_value,5.17e-5,found
+AQ00193,Lin2022,Days to flowering,start_bp,20189153,found
+AQ00193,Lin2022,Days to flowering,end_bp,20189223,found
+AQ00193,Lin2022,Days to flowering,p_value,6.43e-5,found
+AQ00194,Lin2022,Days to flowering,start_bp,37710116,found
+AQ00194,Lin2022,Days to flowering,end_bp,37710186,found
+AQ00194,Lin2022,Days to flowering,p_value,2.33e-4,found
+AQ00195,Lin2022,Days to flowering,start_bp,21532803,found
+AQ00195,Lin2022,Days to flowering,end_bp,21532873,found
+AQ00195,Lin2022,Days to flowering,p_value,6.58e-4,found
+AQ00196,Lin2022,Days to flowering,start_bp,2792758,found
+AQ00196,Lin2022,Days to flowering,end_bp,2792828,found
+AQ00196,Lin2022,Days to flowering,p_value,7.83e-4,found
+AQ00197,Lin2022,Days to flowering,start_bp,5038752,found
+AQ00197,Lin2022,Days to flowering,end_bp,5038822,found
+AQ00197,Lin2022,Days to flowering,p_value,8.57e-4,found
+AQ00198,Lin2022,Days to flowering,start_bp,16557424,found
+AQ00198,Lin2022,Days to flowering,end_bp,16557494,found
+AQ00198,Lin2022,Days to flowering,p_value,8.93e-4,found
+AQ00199,Lin2022,Days to flowering,start_bp,30688902,found
+AQ00199,Lin2022,Days to flowering,end_bp,30688972,found
+AQ00199,Lin2022,Days to flowering,p_value,1.02e-3,found
+AQ00200,Singh2025,Days to flowering,peak_bp,3320367,found
+AQ00200,Singh2025,Days to flowering,lod,5.5011,found
+AQ00200,Singh2025,Days to flowering,pve,6.0177,found
+AQ00200,Singh2025,Days to flowering,additive_effect,-3.8378,found
+AQ00201,Singh2025,Days to flowering,peak_bp,29118797,found
+AQ00201,Singh2025,Days to flowering,lod,3.5459,found
+AQ00201,Singh2025,Days to flowering,pve,5.1596,found
+AQ00201,Singh2025,Days to flowering,additive_effect,2.4596,found
+AQ00202,Singh2025,Days to flowering,peak_bp,27292090,found
+AQ00202,Singh2025,Days to flowering,lod,3.2348,found
+AQ00202,Singh2025,Days to flowering,pve,5.2778,found
+AQ00202,Singh2025,Days to flowering,additive_effect,-2.8312,found
+AQ00203,Singh2025,Days to flowering,peak_bp,7377624,found
+AQ00203,Singh2025,Days to flowering,lod,3.1843,found
+AQ00203,Singh2025,Days to flowering,pve,2.2995,found
+AQ00203,Singh2025,Days to flowering,additive_effect,1.677,found
+AQ00204,Singh2025,Days to flowering,peak_bp,20352653,found
+AQ00204,Singh2025,Days to flowering,lod,3.5245,found
+AQ00204,Singh2025,Days to flowering,pve,4.5271,found
+AQ00204,Singh2025,Days to flowering,additive_effect,3.1303,found
+AQ00205,Singh2025,Days to flowering,peak_bp,2338055,found
+AQ00205,Singh2025,Days to flowering,lod,5.2849,found
+AQ00205,Singh2025,Days to flowering,pve,2.6664,found
+AQ00205,Singh2025,Days to flowering,additive_effect,4.702,found
+AQ00206,Singh2025,Days to flowering,peak_bp,16342396,found
+AQ00206,Singh2025,Days to flowering,lod,4.3828,found
+AQ00206,Singh2025,Days to flowering,pve,3.1632,found
+AQ00206,Singh2025,Days to flowering,additive_effect,-2.6174,found
+AQ00207,Singh2025,Days to flowering,peak_bp,21785289,found
+AQ00207,Singh2025,Days to flowering,lod,4.7717,found
+AQ00207,Singh2025,Days to flowering,pve,3.6541,found
+AQ00207,Singh2025,Days to flowering,additive_effect,-3.0278,found
+AQ00208,Singh2025,Days to flowering,peak_bp,11128790,found
+AQ00208,Singh2025,Days to flowering,lod,3.6066,found
+AQ00208,Singh2025,Days to flowering,pve,8.4002,found
+AQ00208,Singh2025,Days to flowering,additive_effect,4.0338,found
+AQ00209,Singh2025,Days to flowering,peak_bp,19884801,found
+AQ00209,Singh2025,Days to flowering,lod,3.8836,found
+AQ00209,Singh2025,Days to flowering,pve,2.4156,found
+AQ00209,Singh2025,Days to flowering,additive_effect,-1.6474,found
+AQ00210,Singh2025,Days to flowering,peak_bp,1220745,found
+AQ00210,Singh2025,Days to flowering,lod,3.7798,found
+AQ00210,Singh2025,Days to flowering,pve,3.5278,found
+AQ00210,Singh2025,Days to flowering,additive_effect,-2.854,found
+AQ00211,Singh2025,Days to flowering,peak_bp,22191367,found
+AQ00211,Singh2025,Days to flowering,lod,6.9316,found
+AQ00211,Singh2025,Days to flowering,pve,10.7168,found
+AQ00211,Singh2025,Days to flowering,additive_effect,-8.3313,found
+AQ00212,Singh2025,Days to flowering,peak_bp,22247082,found
+AQ00212,Singh2025,Days to flowering,lod,5.9151,found
+AQ00212,Singh2025,Days to flowering,pve,4.7692,found
+AQ00212,Singh2025,Days to flowering,additive_effect,-3.0499,found
+AQ00213,Singh2025,Days to flowering,peak_bp,25268695,found
+AQ00213,Singh2025,Days to flowering,lod,6.0889,found
+AQ00213,Singh2025,Days to flowering,pve,12.9119,found
+AQ00213,Singh2025,Days to flowering,additive_effect,-4.0975,found
+AQ00214,Singh2025,Days to flowering,peak_bp,34857264,found
+AQ00214,Singh2025,Days to flowering,lod,4.3683,found
+AQ00214,Singh2025,Days to flowering,pve,5.0593,found
+AQ00214,Singh2025,Days to flowering,additive_effect,3.0684,found
+AQ00215,Singh2025,Days to flowering,peak_bp,21991300,found
+AQ00215,Singh2025,Days to flowering,lod,3.5356,found
+AQ00215,Singh2025,Days to flowering,pve,3.8949,found
+AQ00215,Singh2025,Days to flowering,additive_effect,2.3817,found
+AQ00216,Singh2025,Days to flowering,peak_bp,8796105,found
+AQ00216,Singh2025,Days to flowering,lod,6.8773,found
+AQ00216,Singh2025,Days to flowering,pve,5.2489,found
+AQ00216,Singh2025,Days to flowering,additive_effect,-1.9758,found
+AQ00217,Singh2025,Days to flowering,peak_bp,16342396,found
+AQ00217,Singh2025,Days to flowering,lod,3.3788,found
+AQ00217,Singh2025,Days to flowering,pve,1.717,found
+AQ00217,Singh2025,Days to flowering,additive_effect,-3.3029,found
+AQ00218,Singh2025,Days to flowering,peak_bp,12602621,found
+AQ00218,Singh2025,Days to flowering,lod,5.4167,found
+AQ00218,Singh2025,Days to flowering,pve,11.0933,found
+AQ00218,Singh2025,Days to flowering,additive_effect,-4.7211,found
+AQ00219,Singh2025,Days to flowering,peak_bp,22355768,found
+AQ00219,Singh2025,Days to flowering,lod,6.6621,found
+AQ00219,Singh2025,Days to flowering,pve,4.3431,found
+AQ00219,Singh2025,Days to flowering,additive_effect,-1.7913,found
+AQ00220,Singh2025,Days to flowering,peak_bp,13488267,found
+AQ00220,Singh2025,Days to flowering,lod,6.2021,found
+AQ00220,Singh2025,Days to flowering,pve,3.0587,found
+AQ00220,Singh2025,Days to flowering,additive_effect,2.6599,found
+AQ00221,Singh2025,Days to flowering,peak_bp,19178528,found
+AQ00221,Singh2025,Days to flowering,lod,3.9005,found
+AQ00221,Singh2025,Days to flowering,pve,1.943,found
+AQ00221,Singh2025,Days to flowering,additive_effect,1.3484,found
+AQ00222,Prabhakaran2026,Grain calcium,peak_bp,762389,found
+AQ00222,Prabhakaran2026,Grain calcium,lod,3.293,found
+AQ00222,Prabhakaran2026,Grain calcium,p_value,9.86e-05,derived (see note)
+AQ00222,Prabhakaran2026,Grain calcium,additive_effect,-5.048,found
+AQ00223,Prabhakaran2026,Grain zinc,peak_bp,18084417,found
+AQ00223,Prabhakaran2026,Grain zinc,lod,7.684,found
+AQ00223,Prabhakaran2026,Grain zinc,p_value,2.99e-09,derived (see note)
+AQ00223,Prabhakaran2026,Grain zinc,additive_effect,0.385,found
+AQ00224,Prabhakaran2026,Grain calcium,peak_bp,10525650,found
+AQ00224,Prabhakaran2026,Grain calcium,lod,6.63,found
+AQ00224,Prabhakaran2026,Grain calcium,p_value,3.41e-08,derived (see note)
+AQ00224,Prabhakaran2026,Grain calcium,additive_effect,-23.076,found
+AQ00225,Prabhakaran2026,Grain calcium,peak_bp,21476321,found
+AQ00225,Prabhakaran2026,Grain calcium,lod,6.612,found
+AQ00225,Prabhakaran2026,Grain calcium,p_value,3.49e-08,derived (see note)
+AQ00225,Prabhakaran2026,Grain calcium,additive_effect,13.133,found
+AQ00226,Prabhakaran2026,Grain iron,peak_bp,8054449,found
+AQ00226,Prabhakaran2026,Grain iron,lod,6.166,found
+AQ00226,Prabhakaran2026,Grain iron,p_value,1.01e-07,derived (see note)
+AQ00226,Prabhakaran2026,Grain iron,additive_effect,2.963,found
+AQ00227,Prabhakaran2026,Grain zinc,peak_bp,22027872,found
+AQ00227,Prabhakaran2026,Grain zinc,lod,5.64,found
+AQ00227,Prabhakaran2026,Grain zinc,p_value,3.56e-07,derived (see note)
+AQ00227,Prabhakaran2026,Grain zinc,additive_effect,-0.557,found
+AQ00228,Prabhakaran2026,Grain zinc,peak_bp,15964152,found
+AQ00228,Prabhakaran2026,Grain zinc,lod,5.563,found
+AQ00228,Prabhakaran2026,Grain zinc,p_value,4.46e-07,derived (see note)
+AQ00228,Prabhakaran2026,Grain zinc,additive_effect,-0.393,found
+AQ00229,Prabhakaran2026,Grain calcium,peak_bp,12166593,found
+AQ00229,Prabhakaran2026,Grain calcium,lod,5.421,found
+AQ00229,Prabhakaran2026,Grain calcium,p_value,5.9e-07,derived (see note)
+AQ00229,Prabhakaran2026,Grain calcium,additive_effect,14.142,found
+AQ00230,Prabhakaran2026,Grain zinc,peak_bp,10745020,found
+AQ00230,Prabhakaran2026,Grain zinc,lod,5.408,found
+AQ00230,Prabhakaran2026,Grain zinc,p_value,6.04e-07,derived (see note)
+AQ00230,Prabhakaran2026,Grain zinc,additive_effect,0.372,found
+AQ00231,Prabhakaran2026,Grain magnesium,peak_bp,2155906,found
+AQ00231,Prabhakaran2026,Grain magnesium,lod,5.401,found
+AQ00231,Prabhakaran2026,Grain magnesium,p_value,6.22e-07,derived (see note)
+AQ00231,Prabhakaran2026,Grain magnesium,additive_effect,12.851,found
+AQ00232,Prabhakaran2026,Grain magnesium,peak_bp,7694784,found
+AQ00232,Prabhakaran2026,Grain magnesium,lod,5.222,found
+AQ00232,Prabhakaran2026,Grain magnesium,p_value,9.46e-07,derived (see note)
+AQ00232,Prabhakaran2026,Grain magnesium,additive_effect,-13.761,found
+AQ00233,Prabhakaran2026,Grain iron,peak_bp,1345637,found
+AQ00233,Prabhakaran2026,Grain iron,lod,5.21,found
+AQ00233,Prabhakaran2026,Grain iron,p_value,9.82e-07,derived (see note)
+AQ00233,Prabhakaran2026,Grain iron,additive_effect,-1.669,found
+AQ00234,Prabhakaran2026,Grain magnesium,peak_bp,112379,found
+AQ00234,Prabhakaran2026,Grain magnesium,lod,5.078,found
+AQ00234,Prabhakaran2026,Grain magnesium,p_value,1.35e-06,derived (see note)
+AQ00234,Prabhakaran2026,Grain magnesium,additive_effect,16.713,found
+AQ00235,Prabhakaran2026,Grain calcium,peak_bp,24847533,found
+AQ00235,Prabhakaran2026,Grain calcium,lod,4.757,found
+AQ00235,Prabhakaran2026,Grain calcium,p_value,2.86e-06,derived (see note)
+AQ00235,Prabhakaran2026,Grain calcium,additive_effect,-9.428,found
+AQ00236,Prabhakaran2026,Grain iron,peak_bp,3649809,found
+AQ00236,Prabhakaran2026,Grain iron,lod,4.527,found
+AQ00236,Prabhakaran2026,Grain iron,p_value,4.99e-06,derived (see note)
+AQ00236,Prabhakaran2026,Grain iron,additive_effect,-2.014,found
+AQ00237,Prabhakaran2026,Grain magnesium,peak_bp,24667693,found
+AQ00237,Prabhakaran2026,Grain magnesium,lod,4.417,found
+AQ00237,Prabhakaran2026,Grain magnesium,p_value,6.53e-06,derived (see note)
+AQ00237,Prabhakaran2026,Grain magnesium,additive_effect,-13.345,found
+AQ00238,Prabhakaran2026,Grain zinc,peak_bp,572310,found
+AQ00238,Prabhakaran2026,Grain zinc,lod,4.291,found
+AQ00238,Prabhakaran2026,Grain zinc,p_value,8.81e-06,derived (see note)
+AQ00238,Prabhakaran2026,Grain zinc,additive_effect,-0.269,found
+AQ00239,Prabhakaran2026,Grain iron,peak_bp,19669453,found
+AQ00239,Prabhakaran2026,Grain iron,lod,4.284,found
+AQ00239,Prabhakaran2026,Grain iron,p_value,9.06e-06,derived (see note)
+AQ00239,Prabhakaran2026,Grain iron,additive_effect,1.88,found
+AQ00240,Prabhakaran2026,Grain iron,peak_bp,6670949,found
+AQ00240,Prabhakaran2026,Grain iron,lod,4.183,found
+AQ00240,Prabhakaran2026,Grain iron,p_value,1.15e-05,derived (see note)
+AQ00240,Prabhakaran2026,Grain iron,additive_effect,1.463,found
+AQ00241,Prabhakaran2026,Grain calcium,peak_bp,8631928,found
+AQ00241,Prabhakaran2026,Grain calcium,lod,4.078,found
+AQ00241,Prabhakaran2026,Grain calcium,p_value,1.47e-05,derived (see note)
+AQ00241,Prabhakaran2026,Grain calcium,additive_effect,8.5,found
+AQ00242,Prabhakaran2026,Grain zinc,peak_bp,12589498,found
+AQ00242,Prabhakaran2026,Grain zinc,lod,3.912,found
+AQ00242,Prabhakaran2026,Grain zinc,p_value,2.21e-05,derived (see note)
+AQ00242,Prabhakaran2026,Grain zinc,additive_effect,0.263,found
+AQ00243,Prabhakaran2026,Grain magnesium,peak_bp,18196191,found
+AQ00243,Prabhakaran2026,Grain magnesium,lod,3.796,found
+AQ00243,Prabhakaran2026,Grain magnesium,p_value,2.9e-05,derived (see note)
+AQ00243,Prabhakaran2026,Grain magnesium,additive_effect,10.74,found
+AQ00244,Prabhakaran2026,Grain calcium,peak_bp,5701727,found
+AQ00244,Prabhakaran2026,Grain calcium,lod,3.457,found
+AQ00244,Prabhakaran2026,Grain calcium,p_value,6.62e-05,derived (see note)
+AQ00244,Prabhakaran2026,Grain calcium,additive_effect,10.066,found
+AQ00245,Prabhakaran2026,Grain magnesium,peak_bp,18023906,found
+AQ00245,Prabhakaran2026,Grain magnesium,lod,3.248,found
+AQ00245,Prabhakaran2026,Grain magnesium,p_value,0.00011,derived (see note)
+AQ00245,Prabhakaran2026,Grain magnesium,additive_effect,7.57,found
+AQ00246,Prabhakaran2026,Grain zinc,peak_bp,7400641,found
+AQ00246,Prabhakaran2026,Grain zinc,lod,3.247,found
+AQ00246,Prabhakaran2026,Grain zinc,p_value,0.00011,derived (see note)
+AQ00246,Prabhakaran2026,Grain zinc,additive_effect,-0.118,found
+AQ00247,Chauhan2026,Seed albumin,peak_bp,915141,found
+AQ00247,Chauhan2026,Seed albumin,lod,7.37,found
+AQ00247,Chauhan2026,Seed albumin,pve,11.59,found
+AQ00247,Chauhan2026,Seed albumin,p_value,1.02e-17,derived (see note)
+AQ00247,Chauhan2026,Seed albumin,additive_effect,13.99,found
+AQ00248,Chauhan2026,Seed albumin,peak_bp,6633466,found
+AQ00248,Chauhan2026,Seed albumin,lod,4.77,found
+AQ00248,Chauhan2026,Seed albumin,pve,6.09,found
+AQ00248,Chauhan2026,Seed albumin,p_value,1.02e-11,derived (see note)
+AQ00248,Chauhan2026,Seed albumin,additive_effect,9,found
+AQ00249,Chauhan2026,Seed albumin,peak_bp,24070042,found
+AQ00249,Chauhan2026,Seed albumin,lod,3.41,found
+AQ00249,Chauhan2026,Seed albumin,pve,4.51,found
+AQ00249,Chauhan2026,Seed albumin,p_value,1.38e-08,derived (see note)
+AQ00249,Chauhan2026,Seed albumin,additive_effect,7.64,found
+AQ00250,Chauhan2026,Seed albumin,peak_bp,9227066,found
+AQ00250,Chauhan2026,Seed albumin,lod,4.97,found
+AQ00250,Chauhan2026,Seed albumin,pve,7.42,found
+AQ00250,Chauhan2026,Seed albumin,p_value,3.55e-12,derived (see note)
+AQ00250,Chauhan2026,Seed albumin,additive_effect,9.7,found
+AQ00251,Chauhan2026,Seed albumin,peak_bp,13391891,found
+AQ00251,Chauhan2026,Seed albumin,lod,5.19,found
+AQ00251,Chauhan2026,Seed albumin,pve,15.6,found
+AQ00251,Chauhan2026,Seed albumin,p_value,1.12e-12,derived (see note)
+AQ00251,Chauhan2026,Seed albumin,additive_effect,24.68,found
+AQ00252,Chauhan2026,Seed globulin,peak_bp,34933442,found
+AQ00252,Chauhan2026,Seed globulin,lod,4.59,found
+AQ00252,Chauhan2026,Seed globulin,pve,8.2,found
+AQ00252,Chauhan2026,Seed globulin,p_value,2.69e-11,derived (see note)
+AQ00252,Chauhan2026,Seed globulin,additive_effect,4.5,found
+AQ00253,Chauhan2026,Seed glutelin,peak_bp,24796848,found
+AQ00253,Chauhan2026,Seed glutelin,lod,4.84,found
+AQ00253,Chauhan2026,Seed glutelin,pve,8.05,found
+AQ00253,Chauhan2026,Seed glutelin,p_value,6.92e-12,derived (see note)
+AQ00253,Chauhan2026,Seed glutelin,additive_effect,4.33,found
+AQ00254,Chauhan2026,Seed glutelin,peak_bp,25978077,found
+AQ00254,Chauhan2026,Seed glutelin,lod,5.02,found
+AQ00254,Chauhan2026,Seed glutelin,pve,5.36,found
+AQ00254,Chauhan2026,Seed glutelin,p_value,2.69e-12,derived (see note)
+AQ00254,Chauhan2026,Seed glutelin,additive_effect,3.36,found
+AQ00255,Chauhan2026,Seed glutelin,peak_bp,10163443,found
+AQ00255,Chauhan2026,Seed glutelin,lod,4.21,found
+AQ00255,Chauhan2026,Seed glutelin,pve,4.17,found
+AQ00255,Chauhan2026,Seed glutelin,p_value,2e-10,derived (see note)
+AQ00255,Chauhan2026,Seed glutelin,additive_effect,3.02,found
+AQ00256,Chauhan2026,Seed glutelin,peak_bp,11081595,found
+AQ00256,Chauhan2026,Seed glutelin,lod,6.01,found
+AQ00256,Chauhan2026,Seed glutelin,pve,10.8,found
+AQ00256,Chauhan2026,Seed glutelin,p_value,1.45e-14,derived (see note)
+AQ00256,Chauhan2026,Seed glutelin,additive_effect,4.49,found
+AQ00257,Chauhan2026,Seed glutelin,peak_bp,4246466,found
+AQ00257,Chauhan2026,Seed glutelin,lod,8.47,found
+AQ00257,Chauhan2026,Seed glutelin,pve,19.94,found
+AQ00257,Chauhan2026,Seed glutelin,p_value,3.09e-20,derived (see note)
+AQ00257,Chauhan2026,Seed glutelin,additive_effect,8.18,found
+AQ00258,Chauhan2026,Seed total protein,peak_bp,31320123,found
+AQ00258,Chauhan2026,Seed total protein,lod,4.51,found
+AQ00258,Chauhan2026,Seed total protein,pve,8.2,found
+AQ00258,Chauhan2026,Seed total protein,p_value,3.98e-11,derived (see note)
+AQ00258,Chauhan2026,Seed total protein,additive_effect,11.29,found
+AQ00259,Chauhan2026,Seed total protein,peak_bp,8414304,found
+AQ00259,Chauhan2026,Seed total protein,lod,6.39,found
+AQ00259,Chauhan2026,Seed total protein,pve,6.18,found
+AQ00259,Chauhan2026,Seed total protein,p_value,1.86e-15,derived (see note)
+AQ00259,Chauhan2026,Seed total protein,additive_effect,8.74,found
+AQ00260,Chauhan2026,Seed total protein,peak_bp,24070042,found
+AQ00260,Chauhan2026,Seed total protein,lod,4.41,found
+AQ00260,Chauhan2026,Seed total protein,pve,5.69,found
+AQ00260,Chauhan2026,Seed total protein,p_value,7.08e-11,derived (see note)
+AQ00260,Chauhan2026,Seed total protein,additive_effect,8.77,found
+AQ00261,Chauhan2026,Seed total protein,peak_bp,14594517,found
+AQ00261,Chauhan2026,Seed total protein,lod,4.01,found
+AQ00261,Chauhan2026,Seed total protein,pve,5.36,found
+AQ00261,Chauhan2026,Seed total protein,p_value,5.62e-10,derived (see note)
+AQ00261,Chauhan2026,Seed total protein,additive_effect,9.93,found
+AQ00262,Chauhan2026,Seed total protein,peak_bp,16072752,found
+AQ00262,Chauhan2026,Seed total protein,lod,6.58,found
+AQ00262,Chauhan2026,Seed total protein,pve,3.85,found
+AQ00262,Chauhan2026,Seed total protein,p_value,6.92e-16,derived (see note)
+AQ00262,Chauhan2026,Seed total protein,additive_effect,19.31,found
+AQ00263,Chauhan2026,Seed total protein,peak_bp,8325651,found
+AQ00263,Chauhan2026,Seed total protein,lod,4.91,found
+AQ00263,Chauhan2026,Seed total protein,pve,9.89,found
+AQ00263,Chauhan2026,Seed total protein,p_value,4.9e-12,derived (see note)
+AQ00263,Chauhan2026,Seed total protein,additive_effect,15.25,found
+AQ00264,Kreiner2023FT,Flowering time,peak_bp,47452652,found
+AQ00264,Kreiner2023FT,Flowering time,p_value,0.03453878,found
+AQ00265,Kreiner2023FT,Flowering time,peak_bp,15625876,found
+AQ00265,Kreiner2023FT,Flowering time,p_value,0.09085806,found
+AQ00266,Kreiner2023FT,Flowering time,peak_bp,23324283,found
+AQ00266,Kreiner2023FT,Flowering time,p_value,0.06911431,found
+AQ00267,Kreiner2023FT,Flowering time,peak_bp,24404836,found
+AQ00267,Kreiner2023FT,Flowering time,p_value,0.09844032,found
+AQ00268,Kreiner2023FT,Flowering time,peak_bp,20943076,found
+AQ00268,Kreiner2023FT,Flowering time,p_value,0.06400042,found
+AQ00269,Kreiner2023FT,Flowering time,peak_bp,23436312,found
+AQ00269,Kreiner2023FT,Flowering time,p_value,0.09085806,found
+AQ00270,Kreiner2023FT,Flowering time,peak_bp,27350300,found
+AQ00270,Kreiner2023FT,Flowering time,p_value,0.03453878,found
+AQ00271,Kreiner2023FT,Flowering time,peak_bp,30780591,found
+AQ00271,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00272,Kreiner2023FT,Flowering time,peak_bp,4576038,found
+AQ00272,Kreiner2023FT,Flowering time,p_value,0.05001236,found
+AQ00273,Kreiner2023FT,Flowering time,peak_bp,36359923,found
+AQ00273,Kreiner2023FT,Flowering time,p_value,0.06856213,found
+AQ00274,Kreiner2023FT,Flowering time,peak_bp,43139171,found
+AQ00274,Kreiner2023FT,Flowering time,p_value,0.06400042,found
+AQ00275,Kreiner2023FT,Flowering time,peak_bp,46422286,found
+AQ00275,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00276,Kreiner2023FT,Flowering time,peak_bp,2034930,found
+AQ00276,Kreiner2023FT,Flowering time,p_value,0.03360651,found
+AQ00277,Kreiner2023FT,Flowering time,peak_bp,2106017,found
+AQ00277,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00278,Kreiner2023FT,Flowering time,peak_bp,5958416,found
+AQ00278,Kreiner2023FT,Flowering time,p_value,0.04435092,found
+AQ00279,Kreiner2023FT,Flowering time,peak_bp,12581943,found
+AQ00279,Kreiner2023FT,Flowering time,p_value,0.07875264,found
+AQ00280,Kreiner2023FT,Flowering time,peak_bp,21471937,found
+AQ00280,Kreiner2023FT,Flowering time,p_value,0.09085806,found
+AQ00281,Kreiner2023FT,Flowering time,peak_bp,38378789,found
+AQ00281,Kreiner2023FT,Flowering time,p_value,0.09554805,found
+AQ00282,Kreiner2023FT,Flowering time,peak_bp,41481985,found
+AQ00282,Kreiner2023FT,Flowering time,p_value,0.04435092,found
+AQ00283,Kreiner2023FT,Flowering time,peak_bp,41548927,found
+AQ00283,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00284,Kreiner2023FT,Flowering time,peak_bp,41887990,found
+AQ00284,Kreiner2023FT,Flowering time,p_value,0.0640917,found
+AQ00285,Kreiner2023FT,Flowering time,peak_bp,42268048,found
+AQ00285,Kreiner2023FT,Flowering time,p_value,0.08479116,found
+AQ00286,Kreiner2023FT,Flowering time,peak_bp,766284,found
+AQ00286,Kreiner2023FT,Flowering time,p_value,0.05001236,found
+AQ00287,Kreiner2023FT,Flowering time,peak_bp,2564440,found
+AQ00287,Kreiner2023FT,Flowering time,p_value,0.07672023,found
+AQ00288,Kreiner2023FT,Flowering time,peak_bp,24370798,found
+AQ00288,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00289,Kreiner2023FT,Flowering time,peak_bp,31915973,found
+AQ00289,Kreiner2023FT,Flowering time,p_value,0.09085806,found
+AQ00290,Kreiner2023FT,Flowering time,peak_bp,32038527,found
+AQ00290,Kreiner2023FT,Flowering time,p_value,0.03810637,found
+AQ00291,Kreiner2023FT,Flowering time,peak_bp,36230199,found
+AQ00291,Kreiner2023FT,Flowering time,p_value,0.0835516,found
+AQ00292,Kreiner2023FT,Flowering time,peak_bp,39036537,found
+AQ00292,Kreiner2023FT,Flowering time,p_value,0.06870575,found
+AQ00293,Kreiner2023FT,Flowering time,peak_bp,42027459,found
+AQ00293,Kreiner2023FT,Flowering time,p_value,0.05001236,found
+AQ00294,Kreiner2023FT,Flowering time,peak_bp,8282074,found
+AQ00294,Kreiner2023FT,Flowering time,p_value,0.05001236,found
+AQ00295,Kreiner2023FT,Flowering time,peak_bp,9438776,found
+AQ00295,Kreiner2023FT,Flowering time,p_value,0.05001236,found
+AQ00296,Kreiner2023FT,Flowering time,peak_bp,2261279,found
+AQ00296,Kreiner2023FT,Flowering time,p_value,0.0947496,found
+AQ00297,Kreiner2023FT,Flowering time,peak_bp,2705630,found
+AQ00297,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00298,Kreiner2023FT,Flowering time,peak_bp,5454320,found
+AQ00298,Kreiner2023FT,Flowering time,p_value,0.06856213,found
+AQ00299,Kreiner2023FT,Flowering time,peak_bp,8852408,found
+AQ00299,Kreiner2023FT,Flowering time,p_value,0.08401684,found
+AQ00300,Kreiner2023FT,Flowering time,peak_bp,16102740,found
+AQ00300,Kreiner2023FT,Flowering time,p_value,0.0640917,found
+AQ00301,Kreiner2023FT,Flowering time,peak_bp,18341312,found
+AQ00301,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00302,Kreiner2023FT,Flowering time,peak_bp,34198010,found
+AQ00302,Kreiner2023FT,Flowering time,p_value,0.05856916,found
+AQ00303,Raiyemo2025,Sex (male/female),start_bp,14020000,found
+AQ00303,Raiyemo2025,Sex (male/female),end_bp,45810000,found
+AQ00303,Raiyemo2025,Sex (male/female),peak_bp,16139826,found
+AQ00304,Kreiner2025Sex,Sex (male/female),start_bp,40000000,found
+AQ00304,Kreiner2025Sex,Sex (male/female),end_bp,43500000,found
+AQ00308,Ludwig2026,Days to flowering,start_bp,11911867,found
+AQ00308,Ludwig2026,Days to flowering,end_bp,12485518,found
+AQ00308,Ludwig2026,Days to flowering,additive_effect,-16.4,found
+AQ00309,Ludwig2026,Days to flowering,start_bp,20322569,found
+AQ00309,Ludwig2026,Days to flowering,end_bp,24290483,found
+AQ00309,Ludwig2026,Days to flowering,additive_effect,-11.5,found
+AQ00310,Winkler2026,Seed coat color,start_bp,17655000,found
+AQ00310,Winkler2026,Seed coat color,end_bp,17971000,found
+AQ00312,Winkler2026,Seed dormancy,start_bp,17791000,found
+AQ00312,Winkler2026,Seed dormancy,end_bp,17971000,found
+AQ00316,Winkler2024,Inflorescence color,start_bp,1,found
+AQ00316,Winkler2024,Inflorescence color,end_bp,5244109,found
+AQ00317,Winkler2024,Stem pigmentation,start_bp,1080628,found
+AQ00317,Winkler2024,Stem pigmentation,end_bp,14358251,found
+AQ00317,Winkler2024,Stem pigmentation,peak_bp,3205818,found
+AQ00318,LinY2026,Leaf pigmentation,peak_bp,5131103,found
+AQ00319,LinY2026,Leaf pigmentation,peak_bp,11090793,found
+AQ00320,LinY2026,Leaf pigmentation,peak_bp,174259,found
+AQ00321,LinY2026,Leaf pigmentation,peak_bp,6168377,found
+AQ00322,LinY2026,Leaf pigmentation,peak_bp,181109920,found
+AQ00323,LinY2026,Leaf pigmentation,peak_bp,6719988,found
+AQ00324,Murphy2021,HPPD-inhibitor (tembotrione) resistance,additive_effect,0.09 g biomass,found
+AQ00325,Murphy2021,HPPD-inhibitor (tembotrione) resistance,additive_effect,0.06 g biomass per allele,found
+AQ00326,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,4555459,found
+AQ00326,Laforest2026,Mesotrione (HPPD) resistance,pve,0,found
+AQ00326,Laforest2026,Mesotrione (HPPD) resistance,p_value,1.2e-08,found
+AQ00327,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,4605586,found
+AQ00327,Laforest2026,Mesotrione (HPPD) resistance,pve,6.14E‐06,found
+AQ00327,Laforest2026,Mesotrione (HPPD) resistance,p_value,4.72e-14,found
+AQ00328,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,69381,found
+AQ00328,Laforest2026,Mesotrione (HPPD) resistance,pve,0,found
+AQ00328,Laforest2026,Mesotrione (HPPD) resistance,p_value,6.19e-09,found
+AQ00329,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,12751902,found
+AQ00329,Laforest2026,Mesotrione (HPPD) resistance,pve,1.96E‐06,found
+AQ00329,Laforest2026,Mesotrione (HPPD) resistance,p_value,9.19e-08,found
+AQ00330,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,8328744,found
+AQ00330,Laforest2026,Mesotrione (HPPD) resistance,pve,0.29,found
+AQ00330,Laforest2026,Mesotrione (HPPD) resistance,p_value,3.1e-09,found
+AQ00331,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,19488907,found
+AQ00331,Laforest2026,Mesotrione (HPPD) resistance,pve,1.22,found
+AQ00331,Laforest2026,Mesotrione (HPPD) resistance,p_value,3.47e-08,found
+AQ00332,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,20355278,found
+AQ00332,Laforest2026,Mesotrione (HPPD) resistance,pve,6.01E‐06,found
+AQ00332,Laforest2026,Mesotrione (HPPD) resistance,p_value,1.04e-10,found
+AQ00333,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,4941960,found
+AQ00333,Laforest2026,Mesotrione (HPPD) resistance,pve,11.64,found
+AQ00333,Laforest2026,Mesotrione (HPPD) resistance,p_value,1.46e-07,found
+AQ00334,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,11306035,found
+AQ00334,Laforest2026,Mesotrione (HPPD) resistance,pve,16.96,found
+AQ00334,Laforest2026,Mesotrione (HPPD) resistance,p_value,4.19e-10,found
+AQ00335,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,21037430,found
+AQ00335,Laforest2026,Mesotrione (HPPD) resistance,pve,66.73,found
+AQ00335,Laforest2026,Mesotrione (HPPD) resistance,p_value,2.79e-78,found
+AQ00336,Laforest2026,Mesotrione (HPPD) resistance,peak_bp,25693063,found
+AQ00336,Laforest2026,Mesotrione (HPPD) resistance,pve,48.39,found
+AQ00336,Laforest2026,Mesotrione (HPPD) resistance,p_value,2.15e-12,found
+AQ00337,Raiyemo2025PJ,Sex (male/female),peak_bp,24609596,found
+AQ00337,Raiyemo2025PJ,Sex (male/female),p_value,1.7481e-20,found
+AQ00338,Raiyemo2025PJ,Sex (male/female),peak_bp,24595358,found
+AQ00338,Raiyemo2025PJ,Sex (male/female),p_value,6.8453e-17,found
+AQ00339,Raiyemo2025PJ,Sex (male/female),peak_bp,13423105,found
+AQ00339,Raiyemo2025PJ,Sex (male/female),p_value,1.0254e-08,found
+AQ00340,Raiyemo2025PJ,Sex (male/female),peak_bp,7114501,found
+AQ00340,Raiyemo2025PJ,Sex (male/female),p_value,1.0704e-17,found
+AQ00341,Raiyemo2025PJ,Sex (male/female),start_bp,22994134,found
+AQ00341,Raiyemo2025PJ,Sex (male/female),end_bp,25836006,found
+AQ00342,CarvalhoMoore2025,Glufosinate resistance,start_bp,9240010,found
+AQ00342,CarvalhoMoore2025,Glufosinate resistance,end_bp,9283115,found

@@ -1,0 +1,9 @@
+Source: bioRxiv 10.64898/2026.02.26.708151 v1 full text (sentences quoted verbatim, fetched 2026-10-14)
+"The mapping of seed dormancy identified QTL on chromosome 6 and 11 and a major QTL on Chr. 9"
+"(one LOD support interval from maximum likelihood estimate, chr. 9: 17.791-17.971 Mb)"
+"seed color QTL (chr. 9: 17.655-17.971 Mb"
+"Seed color in the cross was controlled by two QTL, on amaranth chromosomes 3 (controlling brown color)"
+"we crossed the dark seeded accession PI 604581 and the white seeded accession PI 558499"
+"The seed color of F2 lines (n = 511) could be classified into dark (n = 385), brown (n = 87)"
+"we performed GWAS with 144 classified accessions of A. hypochondriacus from around the globe"
+Candidate: AmMYBL1 (AHq015545); reference genome v3.

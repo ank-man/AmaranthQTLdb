@@ -1,0 +1,9 @@
+Source: bioRxiv 10.64898/2026.10.05.756862 v1 full text (sentences quoted verbatim, fetched 2026-10-14)
+"ATR1.0CH03_5131103, which is associated with ATR1.0ch03g000565, was identified under the winter seasonal environment."
+"The SNP ATR1.0CH17_6168377 was identified in association with both betacyanin and betaxanthin during the winter season,"
+"ATR1.0CH00_181109920 and ATR1.0CH12_6719988 were detected in association with both pigments during the summer season."
+"GWAS identified 39 and 6 significant SNPs associated with betalain absorbance indices"
+"A total of 95 lines, categorized into 60 green, 19 red, and 15 mixed-color variants"
+"SNP1: ATR1.0CH03_5131103; SNP2: ATR1.0CH06_11090793; SNP3: ATR1.0CH13_174259"
+"Three significant SNPs identified in the winter betacyanin GWAS were associated with three DEGs"
+"SNP ID, Chromosome, Position (bp), P.value (raw)"

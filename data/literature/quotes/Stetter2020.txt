@@ -1,0 +1,4 @@
+Source: Molecular Biology and Evolution 37(5):1407 (academic.oup.com/mbe/article/37/5/1407/5682418), article text fetched 2026-10-14
+Haplotype plot regions as printed: "chr 3: 5881516—5966304" and "chr 9: 1405000—14709000" (the chr 9 start is read as 14,050,000; see the record note).
+Populations: 224 F2 plants (206 kept), Oscar Blanco (PI 642741, A. caudatus) x PI 490705 (A. quitensis); BSA with two bulks of 100; GWAS of 116 accessions, P < 1e-5; reference V2.1. Candidate AmMYBL1 on chromosome 9.
+ENA: PRJEB30531 (diversity panel), PRJEB30532 (BSA), PRJEB30533 (F2 mapping population).

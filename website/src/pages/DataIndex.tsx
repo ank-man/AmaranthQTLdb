@@ -14,6 +14,7 @@ export default function DataIndex() {
     ['Multi-trait clusters', '/data/clusters', `${n(c?.clusters)} regions where loci of two or more trait groups overlap.`],
     ['Inheritance studies', '/data/inheritance', `${n(c?.inheritance)} segregation analyses without map positions.`],
     ['Validated PCR markers', '/markers', `${n(c?.pcr_markers)} assays tested against known phenotypes, with verified primer sequences.`],
+    ['RNA-seq studies', '/rnaseq', `${n(c?.rnaseq_studies)} transcriptome studies by trait and ${n(c?.rnaseq_bioprojects)} RNA-seq BioProjects in NCBI SRA.`],
     ['Linkage maps', '/linkage-maps', `${n(c?.maps)} genetic maps, ${n(c?.map_markers)} markers; consensus-map status per species.`],
     ['Assemblies and coordinate conversion', '/assemblies', 'Every published position converted to the current assembly of its species.'],
     ['Studies', '/literature', `${n(c?.studies_listed)} studies screened, ${n(c?.studies_extracted)} with extracted loci, the rest with the reason.`],

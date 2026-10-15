@@ -1,0 +1,12 @@
+Source: bioRxiv 10.1101/2023.08.24.554588 v2 (preprint of New Phytologist 243:1082) full text (sentences quoted verbatim, fetched 2026-10-14)
+"A comparison of allele frequencies between bulks identified a large QTL on Scaffold 16, from 1.1 mb to 14.4 mb"
+"from 1,080,628 bp to 14,358,251 bp"
+"The QTL included two peaks at 3.2 mb (3,205,818 bp) and 7.4 mb (7,425,588 bp)"
+"For the biosynthesis BSA, the F2 mapping population was created from a cross between PI 686465 and PI 576485."
+"For the color regulator bulk segregant analysis (BSA), we used an F2 mapping population created from a cross of PI 686465"
+"For the regulator BSA, plants were bulked (69 plants per bulk) based on flower color"
+"In the biosynthesis BSA, 80 green (no red pigmentation in any visible tissue) and 80 red"
+"we identified a QTL for flower color at the beginning of Scaffold 16 up to 5.2 mb"
+"the identified QTL region (1-5,244,109 bp) on Scaffold 16"
+"We mapped reads to the A. hypochondriacus reference genome v2.2 using bwa-mem2 v2.2.1"
+"we named the transcription factors AhMYB2 (AHp022773)"

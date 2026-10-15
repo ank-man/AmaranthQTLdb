@@ -1,0 +1,4 @@
+Source: bioRxiv 10.1101/2021.06.11.448079 v1 full text (fetched 2026-10-14; summary of the text, the QTL table itself was not rendered)
+Two QTL confirmed with markers, on Scaffold 4 and Scaffold 12 of the female A. tuberculatus reference (Kreiner et al. 2019).
+Effect sizes as reported: 0.09 g biomass 21 days after application (Scaffold 4, dominant); 0.06 g biomass per allele (Scaffold 12, additive).
+Pseudo-F2 derived from intermated R x S F1 (24 F1 plants); N = 276 for validation. Positions and LOD are in a table not available in the text.

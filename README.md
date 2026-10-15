@@ -16,6 +16,8 @@ every study's DOI, first author and title was checked against Crossref.
 | `assemblies.csv`, `coordinates_lifted.csv` | every position converted between assembly versions (see *Coordinate conversion*) |
 | `meta_qtl.csv`, `meta_qtl_members.csv`, `meta_qtl_trait_coverage.csv` | meta-QTL computed here (none had been published for *Amaranthus*) |
 | `qtl_clusters.csv` | multi-trait regions (candidate pleiotropic / linked loci) |
+| `rnaseq_studies.csv`, `rnaseq_datasets.csv`, `rnaseq_metaqtl_support.csv` | 46 RNA-seq studies grouped by trait (results quoted from abstracts), all 57 Amaranthus RNA-seq BioProjects in NCBI SRA (808 runs), and RNA-seq papers reporting expression of meta-QTL candidate genes |
+| `audit_loci.csv` | source audit: every numeric value of every locus checked against the paper it came from |
 | `validated_pcr_markers.csv` | 20 validated PCR assays (25 primer / probe sequences, each verified verbatim against its source) |
 
 Figures (`figures/species/`): for every species - *A. hypochondriacus*, *A. tricolor*, the multi-species
@@ -153,6 +155,15 @@ Dryad, Zenodo and Figshare (phenotype and population data only).
 - Stetter 2020 chr 9 start is printed as "1405000" and read as 14,050,000 (consistent with the
   ~600-kb interval); noted in the record.
 - Kreiner 2023 flowering-time values in `p_value` are FDR q-values (noted per record).
+
+## Verification
+
+`scripts/audit_loci.py` checks every numeric value of every locus (positions, LOD, PVE, P, effects;
+1,175 values) against the full text, tables and supplements of its paper, or against the verbatim quotes
+saved in `data/literature/quotes/` for papers read on a web page. All values are found except documented
+derived ones (P from −log10 P, PVE % from R²). A second check confirms that the source row holding each
+position also carries the record's chromosome. Coordinate conversion flags any locus whose chromosome
+number changes between assemblies (two *A. tricolor* panel SNPs).
 
 ## Rebuild
 

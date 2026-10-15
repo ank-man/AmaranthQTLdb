@@ -322,6 +322,9 @@ def main():
             elif r["start_bp"].strip() and r["end_bp"].strip() and not (s and e):
                 status = "partial: only one interval end converted"
             flags = sorted({v[2] for v in got if v[2] not in ("exact", "same assembly")})
+            tlab = str(to_label(tgt, (p or s or e)[0]) or "").replace("Scaffold_", "")
+            if src.startswith("Ahyp") and tgt.startswith("Ahyp") and r["chromosome"].isdigit() and tlab and tlab != r["chromosome"]:
+                flags.append(f"converted to chromosome {tlab} (published on {r['chromosome']}); check")
             if flags:
                 status += "; " + "; ".join(flags)
             ts, tend = (min(s[1], e[1]), max(s[1], e[1])) if s and e and s[0] == e[0] else ((s or ("", ""))[1], (e or ("", ""))[1])
